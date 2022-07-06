@@ -6,7 +6,6 @@ Cool projects created using the SolidJS library.
 
 ## <!-- INSERT-PROJECTS:START -->
 
-
 <a href="https://codeimage.dev/"><img src="https://codeimage.dev/assets/codeimage-card.png" height="200"/></a>
 
 ### CodeImage
@@ -103,15 +102,11 @@ Blocks-based collaborative editor. Contribute to MrFoxPro/bloki development by c
 
 ---
 
-
-
 ### tahti
 
 a groovebox for the browser
 
 **Website:** [https://tahti.studio](https://tahti.studio)
-
-
 
 ---
 
@@ -160,4 +155,5 @@ A small 3d project using the SpaceX API, made with SolidJS - GitHub - Namysh/3d-
 **Website:** [https://namysh.github.io/3d-spacex-solidjs/](https://namysh.github.io/3d-spacex-solidjs/)
 
 **Repository:** [https://github.com/Namysh/3d-spacex-solidjs](https://github.com/Namysh/3d-spacex-solidjs)
+
 <!-- INSERT-PROJECTS:END -->
