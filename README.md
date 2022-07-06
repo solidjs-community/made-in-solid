@@ -7,30 +7,6 @@ Cool projects created using the SolidJS library.
 ## <!-- INSERT-PROJECTS:START -->
 
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/caad6b4d1fe6e64df9b184d6939da78c85ea77ae7f245227446d2817c72d92cb/solidjs/solid-site" height="200" loading="lazy"/></a>
-
-### Solid Website
-
-you already know
-
-**Website:** [https://www.solidjs.com](https://www.solidjs.com)
-
-**Repository:** [https://github.com/solidjs/solid-site](https://github.com/solidjs/solid-site)
-
----
-
-<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/9736fb272ddb70cd86e302be07648bb14fc2d9acfd4ecc8bfba2c68a766df53d/MrFoxPro/bloki" height="200" loading="lazy"/></a>
-
-### Bloki
-
-an interactive block editor
-
-**Website:** [https://bloki.app/](https://bloki.app/)
-
-**Repository:** [https://github.com/MrFoxPro/bloki](https://github.com/MrFoxPro/bloki)
-
----
-
 <a href="https://codeimage.dev/"><img src="https://codeimage.dev/assets/codeimage-card.png" height="200" loading="lazy"/></a>
 
 ### CodeImage
@@ -52,30 +28,6 @@ A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experi
 **Website:** [https://lume.io/](https://lume.io/)
 
 **Repository:** [https://github.com/lume/lume](https://github.com/lume/lume)
-
----
-
-
-
-### tahti
-
-a groovebox for the browser
-
-**Website:** [https://tahti.studio](https://tahti.studio)
-
-
-
----
-
-<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/f3961268fdbcf07adfaa604efa3a3657f03cefda875dd1d046415f3a06eadd98/lawrencecchen/sailwind" height="200" loading="lazy"/></a>
-
-### Sailwind
-
-A super fast Tailwind/React repl.
-
-**Website:** [https://sailwind.dev](https://sailwind.dev)
-
-**Repository:** [https://github.com/lawrencecchen/sailwind](https://github.com/lawrencecchen/sailwind)
 
 ---
 
@@ -115,6 +67,66 @@ Räppli is a free web app for creating Swiss invoices including QR code.
 
 ---
 
+<a href="https://www.holodevdao.xyz/"><img src="https://holodevdao.xyz/og_image.jpg" height="200" loading="lazy"/></a>
+
+### HoloDevDao
+
+An alternative viewer for DevDAO NFT
+
+**Website:** [https://www.holodevdao.xyz/](https://www.holodevdao.xyz/)
+
+**Repository:** [https://github.com/naomihauret/holodevdao](https://github.com/naomihauret/holodevdao)
+
+---
+
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/caad6b4d1fe6e64df9b184d6939da78c85ea77ae7f245227446d2817c72d92cb/solidjs/solid-site" height="200" loading="lazy"/></a>
+
+### Solid Website
+
+you already know
+
+**Website:** [https://www.solidjs.com](https://www.solidjs.com)
+
+**Repository:** [https://github.com/solidjs/solid-site](https://github.com/solidjs/solid-site)
+
+---
+
+<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/9736fb272ddb70cd86e302be07648bb14fc2d9acfd4ecc8bfba2c68a766df53d/MrFoxPro/bloki" height="200" loading="lazy"/></a>
+
+### Bloki
+
+an interactive block editor
+
+**Website:** [https://bloki.app/](https://bloki.app/)
+
+**Repository:** [https://github.com/MrFoxPro/bloki](https://github.com/MrFoxPro/bloki)
+
+---
+
+
+
+### tahti
+
+a groovebox for the browser
+
+**Website:** [https://tahti.studio](https://tahti.studio)
+
+
+
+---
+
+<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/f3961268fdbcf07adfaa604efa3a3657f03cefda875dd1d046415f3a06eadd98/lawrencecchen/sailwind" height="200" loading="lazy"/></a>
+
+### Sailwind
+
+A super fast Tailwind/React repl.
+
+**Website:** [https://sailwind.dev](https://sailwind.dev)
+
+**Repository:** [https://github.com/lawrencecchen/sailwind](https://github.com/lawrencecchen/sailwind)
+
+---
+
 <a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/2299022e18b7734b71c8b79f80db20a5530ed4ae5af8f301b8e34841c2b257cb/fabien-ml/hope-ui" height="200" loading="lazy"/></a>
 
 ### HopeUI
@@ -136,18 +148,6 @@ tetris game with multiple boards
 **Website:** [https://scrumino.vaal.dev/](https://scrumino.vaal.dev/)
 
 **Repository:** [https://github.com/vaalha/scrumino](https://github.com/vaalha/scrumino)
-
----
-
-<a href="https://www.holodevdao.xyz/"><img src="https://holodevdao.xyz/og_image.jpg" height="200" loading="lazy"/></a>
-
-### HoloDevDao
-
-An alternative viewer for DevDAO NFT
-
-**Website:** [https://www.holodevdao.xyz/](https://www.holodevdao.xyz/)
-
-**Repository:** [https://github.com/naomihauret/holodevdao](https://github.com/naomihauret/holodevdao)
 
 ---
 
