@@ -41,9 +41,9 @@ async function fetchPreviewImage(
 
 	const projects = data.map(async ({ name, description, website, repo }, i) => {
 		const preview = await fetchPreviewImage(website, repo)
-		return `---
+		return `${i > 0 ? "---" : ""}
 
-${preview ? `<img src="${preview}" height="200" loading="lazy"/>` : ""}
+${preview ? `<a href="${website}"><img src="${preview}" height="200" loading="lazy"/></a>` : ""}
 
 ### ${name}
 
