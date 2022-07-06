@@ -23,14 +23,24 @@ function insertTextBetweenComments(file: string, text: string, comment: string):
 async function fetchPreviewImage(
 	website: string,
 	repo: string | undefined,
-): Promise<string | null> {
+): Promise<{ image: string | undefined; description: string | undefined }> {
 	let preview = await getLinkPreview(website)
-	if ("images" in preview && preview.images.length) return preview.images[0]
+	let description: string | undefined
+
+	if ("images" in preview && preview.images.length)
+		return { image: preview.images[0], description: preview.description }
+
+	if ("description" in preview && preview.description) description = preview.description
 	if (repo) {
 		preview = await getLinkPreview(repo)
-		if ("images" in preview && preview.images.length) return preview.images[0]
+		if ("description" in preview && preview.description) description = preview.description
+		if ("images" in preview && preview.images.length)
+			return {
+				image: preview.images[0],
+				description,
+			}
 	}
-	return null
+	return { image: undefined, description }
 }
 
 // PROGRAM
@@ -40,14 +50,14 @@ async function fetchPreviewImage(
 	let readme = await readFile(readmePath, "utf8")
 
 	const projects = data.map(async ({ name, description, website, repo }, i) => {
-		const preview = await fetchPreviewImage(website, repo)
+		const { image, description: previewDesc } = await fetchPreviewImage(website, repo)
 		return `${i > 0 ? "---" : ""}
 
-${preview ? `<a href="${website}"><img src="${preview}" height="200"/></a>` : ""}
+${image ? `<a href="${website}"><img src="${image}" height="200"/></a>` : ""}
 
 ### ${name}
 
-${description}
+${previewDesc ?? description ?? ""}
 
 **Website:** [${website}](${website})
 
