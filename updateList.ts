@@ -43,7 +43,7 @@ async function fetchPreviewImage(
 		const preview = await fetchPreviewImage(website, repo)
 		return `---
 
-${preview ? `<a src="${preview}" height="200" loading="lazy"/>` : ""}
+${preview ? `<img src="${preview}" height="200" loading="lazy"/>` : ""}
 
 ### ${name}
 
