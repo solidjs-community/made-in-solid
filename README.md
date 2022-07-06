@@ -7,7 +7,7 @@ Cool projects created using SolidJS library.
 <!-- INSERT-PROJECTS:START -->
 ---
 
-<a src=https://opengraph.githubassets.com/caad6b4d1fe6e64df9b184d6939da78c85ea77ae7f245227446d2817c72d92cb/solidjs/solid-site height="200"/>
+<a src=https://opengraph.githubassets.com/caad6b4d1fe6e64df9b184d6939da78c85ea77ae7f245227446d2817c72d92cb/solidjs/solid-site/>
 
 ### Solid Website
 
