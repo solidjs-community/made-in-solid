@@ -1,4 +1,4 @@
-name: Format and Update Readme
+name: Format and Update Projects
 
 on:
   push:
@@ -24,10 +24,10 @@ jobs:
       - name: Format
         run: pnpm run format
 
-      - name: Update Readme
-        run: pnpm run update-readme
+      - name: Update Projects
+        run: pnpm run update-list
 
       - name: Add, Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Format and Update Readme"
+          commit_message: "Format and Update Projects"
