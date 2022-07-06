@@ -4,8 +4,7 @@ Cool projects created using SolidJS library.
 
 ## Projects
 
-<!-- INSERT-PROJECTS:START -->
----
+## <!-- INSERT-PROJECTS:START -->
 
 <a src=https://opengraph.githubassets.com/caad6b4d1fe6e64df9b184d6939da78c85ea77ae7f245227446d2817c72d92cb/solidjs/solid-site/>
 
@@ -55,15 +54,11 @@ A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experi
 
 ---
 
-
-
 ### tahti
 
 a groovebox for the browser
 
 **Website:** [https://tahti.studio](https://tahti.studio)
-
-
 
 ---
 
@@ -160,4 +155,5 @@ A small 3d project using the SpaceX API
 **Website:** [https://namysh.github.io/3d-spacex-solidjs/](https://namysh.github.io/3d-spacex-solidjs/)
 
 **Repository:** [https://github.com/Namysh/3d-spacex-solidjs](https://github.com/Namysh/3d-spacex-solidjs)
+
 <!-- INSERT-PROJECTS:END -->

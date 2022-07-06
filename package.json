@@ -1,24 +1,25 @@
 {
-  "name": "made-in-solid",
-  "version": "1.0.0",
-  "description": "Cool projects created using SolidJS library.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thetarnav/made-in-solid.git"
-  },
-  "author": "Damian Tarnawski @thetarnav <gthetarnav@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "format": "prettier -w \"packages/**/*.{js,ts,json,css,tsx,jsx,md}\"",
-    "build": "lerna run build --concurrency 4",
-    "test": "lerna run test --concurrency 4",
-    "update-list": "jiti ./updateList.ts"
-  },
-  "devDependencies": {
-    "jiti": "^1.14.0",
-    "typescript": "^4.7.4",
-    "link-preview-js": "^2.1.19",
-    "@types/node": "^18.0.3"
-  },
-  "packageManager": "pnpm@7.4.0"
+	"name": "made-in-solid",
+	"version": "1.0.0",
+	"description": "Cool projects created using SolidJS library.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thetarnav/made-in-solid.git"
+	},
+	"author": "Damian Tarnawski @thetarnav <gthetarnav@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"format": "prettier -w projects.json README.md updateList.ts",
+		"build": "lerna run build --concurrency 4",
+		"test": "lerna run test --concurrency 4",
+		"update-list": "jiti ./updateList.ts"
+	},
+	"devDependencies": {
+		"prettier": "^2.7.1",
+		"jiti": "^1.14.0",
+		"typescript": "^4.7.4",
+		"link-preview-js": "^2.1.19",
+		"@types/node": "^18.0.3"
+	},
+	"packageManager": "pnpm@7.4.0"
 }
