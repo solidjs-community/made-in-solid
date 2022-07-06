@@ -11,7 +11,7 @@ Cool projects created using the SolidJS library.
 
 ### CodeImage
 
-Create elegant screenshots of your source code
+CodeImage is the next-gen tool to help developers to create and share beautiful screenshots of their source code
 
 **Website:** [https://codeimage.dev/](https://codeimage.dev/)
 
@@ -23,7 +23,7 @@ Create elegant screenshots of your source code
 
 ### LUME
 
-A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences
+Create 3D web applications with HTML. Bring a new depth to your DOM! - GitHub - lume/lume: Create 3D web applications with HTML. Bring a new depth to your DOM!
 
 **Website:** [https://lume.io/](https://lume.io/)
 
@@ -35,7 +35,7 @@ A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experi
 
 ### BundleJS
 
-An online tool to quickly bundle & minify your projects
+A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the bundle file size.
 
 **Website:** [https://bundle.js.org](https://bundle.js.org)
 
@@ -47,7 +47,7 @@ An online tool to quickly bundle & minify your projects
 
 ### Ambient
 
-Color Checker Tool
+Create color shades just from primary colors that are APCA contrast safe, all done without the thinking.
 
 **Website:** [https://ambient-rvx.web.app](https://ambient-rvx.web.app)
 
@@ -59,7 +59,7 @@ Color Checker Tool
 
 ### Räppli
 
-Räppli is a free web app for creating Swiss invoices including QR code.
+Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen inklusive QR-Code. Erfasse deine Rechnungspositionen und erhalte unmittelbar eine druckbare Rechnung.
 
 **Website:** [https://rappli.ch](https://rappli.ch)
 
@@ -71,7 +71,7 @@ Räppli is a free web app for creating Swiss invoices including QR code.
 
 ### HoloDevDao
 
-An alternative viewer for DevDAO NFT
+Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
 
 **Website:** [https://www.holodevdao.xyz/](https://www.holodevdao.xyz/)
 
@@ -83,7 +83,7 @@ An alternative viewer for DevDAO NFT
 
 ### Solid Website
 
-you already know
+Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site development by creating an account on GitHub.
 
 **Website:** [https://www.solidjs.com](https://www.solidjs.com)
 
@@ -95,7 +95,7 @@ you already know
 
 ### Bloki
 
-an interactive block editor
+Blocks-based collaborative editor. Contribute to MrFoxPro/bloki development by creating an account on GitHub.
 
 **Website:** [https://bloki.app/](https://bloki.app/)
 
@@ -119,7 +119,7 @@ a groovebox for the browser
 
 ### Sailwind
 
-A super fast Tailwind/React repl.
+A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -131,7 +131,7 @@ A super fast Tailwind/React repl.
 
 ### HopeUI
 
-the component library you've hoped for
+🤞 The SolidJS component library you've hoped for. Contribute to fabien-ml/hope-ui development by creating an account on GitHub.
 
 **Website:** [https://hope-ui.com/](https://hope-ui.com/)
 
@@ -143,7 +143,7 @@ the component library you've hoped for
 
 ### Scrumino
 
-tetris game with multiple boards
+Contribute to vaalha/scrumino development by creating an account on GitHub.
 
 **Website:** [https://scrumino.vaal.dev/](https://scrumino.vaal.dev/)
 
@@ -155,7 +155,7 @@ tetris game with multiple boards
 
 ### SpaceX Launches
 
-A small 3d project using the SpaceX API
+A small 3d project using the SpaceX API, made with SolidJS - GitHub - Namysh/3d-spacex-solidjs: A small 3d project using the SpaceX API, made with SolidJS
 
 **Website:** [https://namysh.github.io/3d-spacex-solidjs/](https://namysh.github.io/3d-spacex-solidjs/)
 
