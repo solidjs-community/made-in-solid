@@ -1,17 +1,5 @@
 [
 	{
-		"name": "Solid Website",
-		"description": "you already know",
-		"website": "https://www.solidjs.com",
-		"repo": "https://github.com/solidjs/solid-site"
-	},
-	{
-		"name": "Bloki",
-		"description": "an interactive block editor",
-		"website": "https://bloki.app/",
-		"repo": "https://github.com/MrFoxPro/bloki"
-	},
-	{
 		"name": "CodeImage",
 		"description": "Create elegant screenshots of your source code",
 		"website": "https://codeimage.dev/",
@@ -22,17 +10,6 @@
 		"website": "https://lume.io/",
 		"repo": "https://github.com/lume/lume",
 		"description": "A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences"
-	},
-	{
-		"name": "tahti",
-		"website": "https://tahti.studio",
-		"description": "a groovebox for the browser"
-	},
-	{
-		"name": "Sailwind",
-		"website": "https://sailwind.dev",
-		"repo": "https://github.com/lawrencecchen/sailwind",
-		"description": "A super fast Tailwind/React repl."
 	},
 	{
 		"name": "BundleJS",
@@ -53,6 +30,35 @@
 		"description": "Räppli is a free web app for creating Swiss invoices including QR code."
 	},
 	{
+		"name": "HoloDevDao",
+		"website": "https://www.holodevdao.xyz/",
+		"repo": "https://github.com/naomihauret/holodevdao",
+		"description": "An alternative viewer for DevDAO NFT"
+	},
+	{
+		"name": "Solid Website",
+		"description": "you already know",
+		"website": "https://www.solidjs.com",
+		"repo": "https://github.com/solidjs/solid-site"
+	},
+	{
+		"name": "Bloki",
+		"description": "an interactive block editor",
+		"website": "https://bloki.app/",
+		"repo": "https://github.com/MrFoxPro/bloki"
+	},
+	{
+		"name": "tahti",
+		"website": "https://tahti.studio",
+		"description": "a groovebox for the browser"
+	},
+	{
+		"name": "Sailwind",
+		"website": "https://sailwind.dev",
+		"repo": "https://github.com/lawrencecchen/sailwind",
+		"description": "A super fast Tailwind/React repl."
+	},
+	{
 		"name": "HopeUI",
 		"website": "https://hope-ui.com/",
 		"repo": "https://github.com/fabien-ml/hope-ui",
@@ -63,12 +69,6 @@
 		"website": "https://scrumino.vaal.dev/",
 		"repo": "https://github.com/vaalha/scrumino",
 		"description": "tetris game with multiple boards"
-	},
-	{
-		"name": "HoloDevDao",
-		"website": "https://www.holodevdao.xyz/",
-		"repo": "https://github.com/naomihauret/holodevdao",
-		"description": "An alternative viewer for DevDAO NFT"
 	},
 	{
 		"name": "SpaceX Launches",
