@@ -1,7 +1,7 @@
 {
 	"name": "made-in-solid",
 	"version": "1.0.0",
-	"description": "Cool projects created using SolidJS library.",
+	"description": "Cool projects created using the SolidJS library.",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/thetarnav/made-in-solid.git"
