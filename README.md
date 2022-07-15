@@ -1,5 +1,5 @@
 <p>
-  <img width="100%" src="https://assets.solidjs.com/banner?background=tiles&project=Made in Solid" alt="Made in Solid">
+  <img width="100%" src="https://assets.solidjs.com/banner?background=tiles&project=Made%20in%20Solid" alt="Made in Solid">
 </p>
 
 # Made in Solid
