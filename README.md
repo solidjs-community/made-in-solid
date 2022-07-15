@@ -78,6 +78,18 @@ Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
 
 ---
 
+<a href="https://samplehub.cc"><img src="https://opengraph.githubassets.com/0810f07c18644d3e697fdfc17c726ce1d45ae61ac77daec057e25606e22d21b6/Merkie/samplehub" height="200"/></a>
+
+### SampleHub
+
+Full stack sample and preset sharing website written in TypeScript - GitHub - Merkie/samplehub: Full stack sample and preset sharing website written in TypeScript
+
+**Website:** [https://samplehub.cc](https://samplehub.cc)
+
+**Repository:** [https://github.com/merkie/samplehub](https://github.com/merkie/samplehub)
+
+---
+
 <a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/caad6b4d1fe6e64df9b184d6939da78c85ea77ae7f245227446d2817c72d92cb/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
@@ -122,15 +134,15 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/2299022e18b7734b71c8b79f80db20a5530ed4ae5af8f301b8e34841c2b257cb/fabien-ml/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/d09965b32505bbd1195cd60ebc4d1ddf4347e36b67f391874e1c9098972046f8/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
-🤞 The SolidJS component library you've hoped for. Contribute to fabien-ml/hope-ui development by creating an account on GitHub.
+🤞 The SolidJS component library you've hoped for. Contribute to hope-ui/hope-ui development by creating an account on GitHub.
 
 **Website:** [https://hope-ui.com/](https://hope-ui.com/)
 
-**Repository:** [https://github.com/fabien-ml/hope-ui](https://github.com/fabien-ml/hope-ui)
+**Repository:** [https://github.com/hope-ui/hope-ui](https://github.com/hope-ui/hope-ui)
 
 ---
 
