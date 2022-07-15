@@ -88,7 +88,7 @@ Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
 
 <a href="https://www.locatorjs.com"><img src="https://www.locatorjs.com/preview.png" height="200"/></a>
 
-### LocatorJS
+### LocatorJS (Runtime & Extension)
 
 A plugin for you dev stack that allows you to click trough from your app to it's code.
 
