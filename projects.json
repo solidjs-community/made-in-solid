@@ -36,7 +36,7 @@
 		"description": "An alternative viewer for DevDAO NFT"
 	},
 	{
-		"name": "LocatorJS",
+		"name": "LocatorJS (Runtime & Extension)",
 		"website": "https://www.locatorjs.com",
 		"repo": "https://github.com/infi-pc/locatorjs",
 		"description": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
