@@ -62,18 +62,6 @@ Create color shades just from primary colors that are APCA contrast safe, all do
 
 ---
 
-<a href="https://rappli.ch"><img src="https://rappli.ch/social.png" height="200"/></a>
-
-### Räppli
-
-Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen inklusive QR-Code. Erfasse deine Rechnungspositionen und erhalte unmittelbar eine druckbare Rechnung.
-
-**Website:** [https://rappli.ch](https://rappli.ch)
-
-**Repository:** [https://git.lufrai.com/rappli/rappli](https://git.lufrai.com/rappli/rappli)
-
----
-
 <a href="https://www.holodevdao.xyz/"><img src="https://holodevdao.xyz/og_image.jpg" height="200"/></a>
 
 ### HoloDevDao
@@ -95,6 +83,26 @@ A plugin for you dev stack that allows you to click trough from your app to it's
 **Website:** [https://www.locatorjs.com](https://www.locatorjs.com)
 
 **Repository:** [https://github.com/infi-pc/locatorjs](https://github.com/infi-pc/locatorjs)
+
+---
+
+### Zapp!
+
+Build Dart & Flutter applications in the browser!
+
+**Website:** [https://zapp.run](https://zapp.run)
+
+---
+
+<a href="https://rappli.ch"><img src="https://rappli.ch/social.png" height="200"/></a>
+
+### Räppli
+
+Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen inklusive QR-Code. Erfasse deine Rechnungspositionen und erhalte unmittelbar eine druckbare Rechnung.
+
+**Website:** [https://rappli.ch](https://rappli.ch)
+
+**Repository:** [https://git.lufrai.com/rappli/rappli](https://git.lufrai.com/rappli/rappli)
 
 ---
 
