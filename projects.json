@@ -36,6 +36,11 @@
 		"description": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
 	},
 	{
+		"name": "tahti",
+		"website": "https://tahti.studio",
+		"description": "a groovebox for the browser"
+	},
+	{
 		"name": "Zapp!",
 		"website": "https://zapp.run",
 		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
@@ -63,11 +68,6 @@
 		"description": "an interactive block editor",
 		"website": "https://bloki.app/",
 		"repo": "https://github.com/MrFoxPro/bloki"
-	},
-	{
-		"name": "tahti",
-		"website": "https://tahti.studio",
-		"description": "a groovebox for the browser"
 	},
 	{
 		"name": "Sailwind",
