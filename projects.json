@@ -36,6 +36,12 @@
 		"description": "An alternative viewer for DevDAO NFT"
 	},
 	{
+		"name": "SampleHub",
+		"website": "https://samplehub.cc",
+		"repo": "https://github.com/merkie/samplehub",
+		"description": "Full stack sample and preset sharing website written in TypeScript"
+	},
+	{
 		"name": "Solid Website",
 		"description": "you already know",
 		"website": "https://www.solidjs.com",
