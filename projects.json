@@ -24,12 +24,6 @@
 		"description": "Color Checker Tool"
 	},
 	{
-		"name": "Räppli",
-		"website": "https://rappli.ch",
-		"repo": "https://git.lufrai.com/rappli/rappli",
-		"description": "Räppli is a free web app for creating Swiss invoices including QR code."
-	},
-	{
 		"name": "HoloDevDao",
 		"website": "https://www.holodevdao.xyz/",
 		"repo": "https://github.com/naomihauret/holodevdao",
@@ -40,6 +34,17 @@
 		"website": "https://www.locatorjs.com",
 		"repo": "https://github.com/infi-pc/locatorjs",
 		"description": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
+	},
+	{
+		"name": "Zapp!",
+		"website": "https://zapp.run",
+		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
+	},
+	{
+		"name": "Räppli",
+		"website": "https://rappli.ch",
+		"repo": "https://git.lufrai.com/rappli/rappli",
+		"description": "Räppli is a free web app for creating Swiss invoices including QR code."
 	},
 	{
 		"name": "SampleHub",
