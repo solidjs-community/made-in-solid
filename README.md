@@ -154,7 +154,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/d09965b32505bbd1195cd60ebc4d1ddf4347e36b67f391874e1c9098972046f8/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/0eadac073e887f947f038a38be941f3c6358b685a2dc70e383eda3bdf7dcff0e/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
