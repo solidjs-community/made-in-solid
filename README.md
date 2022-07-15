@@ -8,7 +8,7 @@
 
 Public collection of impressive real-world products created using the [SolidJS library](https://github.com/solidjs/solid).
 
-Have you made something awesome with Solid? It can be both open-source or closed-source. Website, Desktop App, Chrome extension. As long as it's cool and powered by Solid it counts. Submit your project by appending it to the [projects.json](https://github.com/thetarnav/made-in-solid/blob/main/package.json) file, and making a PR.
+Have you made something awesome with Solid? It can be both open-source or closed-source. Website, Desktop App, Chrome extension. As long as it's cool and powered by Solid it counts. Submit your project by appending it to the [projects.json](https://github.com/thetarnav/made-in-solid/blob/main/projects.json) file, and making a PR.
 
 ## Projects
 
