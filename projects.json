@@ -36,9 +36,9 @@
 		"description": "An alternative viewer for DevDAO NFT"
 	},
 	{
-		"name": "LocatorJS Extension",
-		"website": "https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi",
-		"repo": "https://github.com/infi-pc/locatorjs/tree/master/apps/extension",
+		"name": "LocatorJS",
+		"website": "https://www.locatorjs.com",
+		"repo": "https://github.com/infi-pc/locatorjs",
 		"description": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
 	},
 	{
