@@ -78,6 +78,18 @@ Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
 
 ---
 
+<a href="https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi"><img src="https://lh3.googleusercontent.com/qbg3YkTS6Tc-si1X5IPvx4KgrGZqtr-iXj-cK2tCuRKf0r7EbLswlZ_zCnm4ppJwSR6aa5nE7XRGwK7Bh60FW9Udlg=w128-h128-e365-rj-sc0x00ffffff" height="200"/></a>
+
+### LocatorJS Extension
+
+LocatorJS Chrome Extension - option-click to code (ReactJS)
+
+**Website:** [https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi](https://chrome.google.com/webstore/detail/locatorjs/npbfdllefekhdplbkdigpncggmojpefi)
+
+**Repository:** [https://github.com/infi-pc/locatorjs/tree/master/apps/extension](https://github.com/infi-pc/locatorjs/tree/master/apps/extension)
+
+---
+
 <a href="https://samplehub.cc"><img src="https://opengraph.githubassets.com/0810f07c18644d3e697fdfc17c726ce1d45ae61ac77daec057e25606e22d21b6/Merkie/samplehub" height="200"/></a>
 
 ### SampleHub
