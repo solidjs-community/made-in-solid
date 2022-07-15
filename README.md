@@ -4,7 +4,7 @@
 
 # Made in Solid
 
-**SolidJS Portfolio — What have people build with it?**
+**SolidJS Portfolio — What have people built with it?**
 
 Public collection of impressive real-world products created using the [SolidJS library](https://github.com/solidjs/solid).
 
