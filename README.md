@@ -189,3 +189,10 @@ A small 3d project using the SpaceX API, made with SolidJS - GitHub - Namysh/3d-
 **Repository:** [https://github.com/Namysh/3d-spacex-solidjs](https://github.com/Namysh/3d-spacex-solidjs)
 
 <!-- INSERT-PROJECTS:END -->
+
+## Looking for more project examples?
+
+Checkout these collections of sample projects made with solid:
+
+- [**solidjs-community/solid-examples**](https://github.com/solidjs-community/solid-examples)
+- [**solid/documentation/resources/examples.md**](https://github.com/solidjs/solid/blob/main/documentation/resources/examples.md)
