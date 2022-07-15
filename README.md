@@ -86,6 +86,14 @@ A plugin for you dev stack that allows you to click trough from your app to it's
 
 ---
 
+### tahti
+
+a groovebox for the browser
+
+**Website:** [https://tahti.studio](https://tahti.studio)
+
+---
+
 ### Zapp!
 
 Build Dart & Flutter applications in the browser!
@@ -139,14 +147,6 @@ Blocks-based collaborative editor. Contribute to MrFoxPro/bloki development by c
 **Website:** [https://bloki.app/](https://bloki.app/)
 
 **Repository:** [https://github.com/MrFoxPro/bloki](https://github.com/MrFoxPro/bloki)
-
----
-
-### tahti
-
-a groovebox for the browser
-
-**Website:** [https://tahti.studio](https://tahti.studio)
 
 ---
 
