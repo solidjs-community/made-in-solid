@@ -24,6 +24,11 @@
 		"description": "Color Checker Tool"
 	},
 	{
+		"name": "Favicoon",
+		"website": "https://favicoon.com",
+		"description": "Modern Image Favicon Generator built with Solid Start"
+	},
+	{
 		"name": "HoloDevDao",
 		"website": "https://www.holodevdao.xyz/",
 		"repo": "https://github.com/naomihauret/holodevdao",
