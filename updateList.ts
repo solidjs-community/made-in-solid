@@ -3,6 +3,10 @@ import { join } from "path"
 import { getLinkPreview } from "link-preview-js"
 import data from "./projects.json"
 
+const GET_LINK_PREVIEW_OPTIONS = {
+	followRedirects: "follow",
+} as const
+
 // UTILS
 
 const pathTo = (...path: string[]) => join(__dirname, ...path)
@@ -24,7 +28,7 @@ async function fetchPreviewImage(
 	website: string,
 	repo: string | undefined,
 ): Promise<{ image: string | undefined; description: string | undefined }> {
-	let preview = await getLinkPreview(website)
+	let preview = await getLinkPreview(website, GET_LINK_PREVIEW_OPTIONS)
 	let description: string | undefined
 
 	if ("images" in preview && preview.images.length)
@@ -32,7 +36,7 @@ async function fetchPreviewImage(
 
 	if ("description" in preview && preview.description) description = preview.description
 	if (repo) {
-		preview = await getLinkPreview(repo)
+		preview = await getLinkPreview(repo, GET_LINK_PREVIEW_OPTIONS)
 		if ("description" in preview && preview.description) description = preview.description
 		if ("images" in preview && preview.images.length)
 			return {
