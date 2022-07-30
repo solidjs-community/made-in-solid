@@ -196,6 +196,18 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
+<a href="http://solid-headless.vercel.app"><img src="https://repository-images.githubusercontent.com/397940426/4a3e1810-cd70-4b9f-945a-69fd623812d1" height="200"/></a>
+
+### Headless UI for SolidJS
+
+Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by creating an account on GitHub.
+
+**Website:** [http://solid-headless.vercel.app](http://solid-headless.vercel.app)
+
+**Repository:** [https://github.com/lxsmnsyc/solid-headless](https://github.com/lxsmnsyc/solid-headless)
+
+---
+
 <a href="https://scrumino.vaal.dev/"><img src="https://opengraph.githubassets.com/52c5778a7e9ee75c482d62a24d243acc200342141cb6e938d73466c0bcebe71b/vaalha/scrumino" height="200"/></a>
 
 ### Scrumino
