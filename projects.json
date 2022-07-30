@@ -41,6 +41,12 @@
 		"description": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
 	},
 	{
+		"name": "Solid Toast",
+		"website": "https://www.solid-toast.com",
+		"repo": "https://github.com/ardeora/solid-toast",
+		"description": "Customizable Toast Notifications for SolidJS"
+	},
+	{
 		"name": "tahti",
 		"website": "https://tahti.studio",
 		"description": "a groovebox for the browser"
