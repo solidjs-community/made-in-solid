@@ -93,6 +93,12 @@
 		"description": "the component library you've hoped for"
 	},
 	{
+		"name": "Headless UI for SolidJS",
+		"website": "http://solid-headless.vercel.app",
+		"repo": "https://github.com/lxsmnsyc/solid-headless",
+		"description": "Headless UI for SolidJS"
+	},
+	{
 		"name": "Scrumino",
 		"website": "https://scrumino.vaal.dev/",
 		"repo": "https://github.com/vaalha/scrumino",
