@@ -96,6 +96,18 @@ A plugin for you dev stack that allows you to click trough from your app to it's
 
 ---
 
+<a href="https://www.solid-toast.com"><img src="https://www.solid-toast.com/img/solid-toast-og-img.png" height="200"/></a>
+
+### Solid Toast
+
+Create beautiful, customizable toasts with Solid JS
+
+**Website:** [https://www.solid-toast.com](https://www.solid-toast.com)
+
+**Repository:** [https://github.com/ardeora/solid-toast](https://github.com/ardeora/solid-toast)
+
+---
+
 ### tahti
 
 a groovebox for the browser
@@ -136,7 +148,7 @@ Full stack sample and preset sharing website written in TypeScript - GitHub - Me
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/e121abe8356e9ff43ae5a14a85cac9195d71d09de9e236ff98f4bff2118936f4/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/4bbe0a031f0c4bfcb4581ba862e1d00a8ef8157cba1789515fa66add2adb70e1/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -148,7 +160,7 @@ Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site deve
 
 ---
 
-<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/45b8b4b6fd8de943a3cf7af0b98268425a4a580b7abb5c426dd693693b499213/MrFoxPro/bloki" height="200"/></a>
+<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/9f17133bebf7110f51a3a2a236c0a5041acf947ddc8a259ce6826cbfb0e0c98d/MrFoxPro/bloki" height="200"/></a>
 
 ### Bloki
 
@@ -172,7 +184,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/2cb311adf322a753888a731bddaab339d76dc7ffeb9a4366966ae48eb6d71061/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/4b8c7f104347e71569c8058e8617eda1e57e017b851bc315602b41c612ac221d/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
