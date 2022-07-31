@@ -184,7 +184,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/4b8c7f104347e71569c8058e8617eda1e57e017b851bc315602b41c612ac221d/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/c64c405ef292fecde871f972cdaaa28fc21e6ef980f91528fa0a21b74983d1e4/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -205,6 +205,18 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 **Website:** [http://solid-headless.vercel.app](http://solid-headless.vercel.app)
 
 **Repository:** [https://github.com/lxsmnsyc/solid-headless](https://github.com/lxsmnsyc/solid-headless)
+
+---
+
+<a href="https://sadanandpai.github.io/sudoku-solver/dist/"><img src="https://opengraph.githubassets.com/f9927e9432539ad5748f291b9adc149953da40d65d29e06d9861a3ef817f0baa/sadanandpai/sudoku-solver" height="200"/></a>
+
+### Sudoku Solver
+
+Sudoku Solver. Contribute to sadanandpai/sudoku-solver development by creating an account on GitHub.
+
+**Website:** [https://sadanandpai.github.io/sudoku-solver/dist/](https://sadanandpai.github.io/sudoku-solver/dist/)
+
+**Repository:** [https://github.com/sadanandpai/sudoku-solver/](https://github.com/sadanandpai/sudoku-solver/)
 
 ---
 
