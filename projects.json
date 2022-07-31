@@ -99,6 +99,12 @@
 		"description": "Headless UI for SolidJS"
 	},
 	{
+		"name": "Sudoku Solver",
+		"website": "https://sadanandpai.github.io/sudoku-solver/dist/",
+		"repo": "https://github.com/sadanandpai/sudoku-solver/",
+		"description": "Sudoku Solver Application"
+	},
+	{
 		"name": "Scrumino",
 		"website": "https://scrumino.vaal.dev/",
 		"repo": "https://github.com/vaalha/scrumino",
