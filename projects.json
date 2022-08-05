@@ -52,6 +52,11 @@
 		"description": "a groovebox for the browser"
 	},
 	{
+		"name": "Is Market High?",
+		"website": "https://ismarkethigh.com",
+		"description": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
+	},
+	{
 		"name": "Zapp!",
 		"website": "https://zapp.run",
 		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
