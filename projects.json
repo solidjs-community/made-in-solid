@@ -13,7 +13,7 @@
 	},
 	{
 		"name": "BundleJS",
-		"website": "https://bundle.js.org",
+		"website": "https://bundlejs.com",
 		"repo": "https://github.com/okikio/bundle",
 		"description": "An online tool to quickly bundle & minify your projects"
 	},
@@ -27,6 +27,12 @@
 		"name": "Favicoon",
 		"website": "https://favicoon.com",
 		"description": "Modern Image Favicon Generator built with Solid Start"
+	},
+	{
+		"name": "Ipadder.",
+		"website": "https://www.lpadder.ml",
+		"repo": "https://github.com/Vexcited/lpadder",
+		"description": "Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser."
 	},
 	{
 		"name": "HoloDevDao",
