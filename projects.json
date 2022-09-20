@@ -47,6 +47,11 @@
 		"description": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
 	},
 	{
+		"name": "Zapp!",
+		"website": "https://zapp.run",
+		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
+	},
+	{
 		"name": "Solid Toast",
 		"website": "https://www.solid-toast.com",
 		"repo": "https://github.com/ardeora/solid-toast",
@@ -61,11 +66,6 @@
 		"name": "Is Market High?",
 		"website": "https://ismarkethigh.com",
 		"description": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
-	},
-	{
-		"name": "Zapp!",
-		"website": "https://zapp.run",
-		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
 	},
 	{
 		"name": "Räppli",
