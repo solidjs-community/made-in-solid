@@ -146,6 +146,18 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/5280e8a5793c770bf1155ca208e706d28cc3624306da5fc0a531a6608555e2fe/pfgithub/threadclient" height="200"/></a>
+
+### ThreadClient
+
+a client for reddit and mastodon. extensible so it can support multiple platforms - GitHub - pfgithub/threadclient: a client for reddit and mastodon. extensible so it can support multiple platforms
+
+**Website:** [https://thread.pfg.pw](https://thread.pfg.pw)
+
+**Repository:** [https://github.com/pfgithub/threadclient](https://github.com/pfgithub/threadclient)
+
+---
+
 <a href="https://rappli.ch"><img src="https://rappli.ch/social.png" height="200"/></a>
 
 ### Räppli
