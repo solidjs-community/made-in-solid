@@ -38,13 +38,13 @@ Create 3D web applications with HTML. Bring a new depth to your DOM! - GitHub - 
 
 ---
 
-<a href="https://bundle.js.org"><img src="https://bundlejs.com/favicon/social-preview.png" height="200"/></a>
+<a href="https://bundlejs.com"><img src="https://bundlejs.com/favicon/social-preview.png" height="200"/></a>
 
 ### BundleJS
 
 A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, js, jsx and npm projects all online, with the bundle file size.
 
-**Website:** [https://bundle.js.org](https://bundle.js.org)
+**Website:** [https://bundlejs.com](https://bundlejs.com)
 
 **Repository:** [https://github.com/okikio/bundle](https://github.com/okikio/bundle)
 
@@ -72,6 +72,18 @@ Quickly generate a favicon from an image for your website for free.
 
 ---
 
+<a href="https://www.lpadder.ml"><img src="https://www.lpadder.ml/banner.png" height="200"/></a>
+
+### Ipadder.
+
+Web application that lets you play Launchpad covers directly from your browser.
+
+**Website:** [https://www.lpadder.ml](https://www.lpadder.ml)
+
+**Repository:** [https://github.com/Vexcited/lpadder](https://github.com/Vexcited/lpadder)
+
+---
+
 <a href="https://www.holodevdao.xyz/"><img src="https://holodevdao.xyz/og_image.jpg" height="200"/></a>
 
 ### HoloDevDao
@@ -88,7 +100,7 @@ Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
 
 ### LocatorJS (Runtime & Extension)
 
-A plugin for you dev stack that allows you to click trough from your app to it's code.
+Click on any component and go from your app to component's code.
 
 **Website:** [https://www.locatorjs.com](https://www.locatorjs.com)
 
@@ -116,9 +128,19 @@ a groovebox for the browser
 
 ---
 
+### Is Market High?
+
+ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries.
+
+**Website:** [https://ismarkethigh.com](https://ismarkethigh.com)
+
+---
+
+<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
+
 ### Zapp!
 
-Build Flutter apps in the browser
+A free online sandbox for building Flutter applications in the browser.
 
 **Website:** [https://zapp.run](https://zapp.run)
 
@@ -148,7 +170,7 @@ Full stack sample and preset sharing website written in TypeScript - GitHub - Me
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/4bbe0a031f0c4bfcb4581ba862e1d00a8ef8157cba1789515fa66add2adb70e1/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/0d092eb561731cc1edb560ac24086780ce35b6295604f796fe389f0bd8a3c265/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -160,7 +182,7 @@ Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site deve
 
 ---
 
-<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/9f17133bebf7110f51a3a2a236c0a5041acf947ddc8a259ce6826cbfb0e0c98d/MrFoxPro/bloki" height="200"/></a>
+<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/b1d753afe5002c51962c6fd4631418c97c54f9d080acf086305e9aec4cbea773/MrFoxPro/bloki" height="200"/></a>
 
 ### Bloki
 
@@ -184,7 +206,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/c64c405ef292fecde871f972cdaaa28fc21e6ef980f91528fa0a21b74983d1e4/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/cd91921bf10db7cdf50b776ccf8f7c090555a2a015e2be93362883836ce84a56/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -208,7 +230,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://sadanandpai.github.io/sudoku-solver/dist/"><img src="https://opengraph.githubassets.com/f9927e9432539ad5748f291b9adc149953da40d65d29e06d9861a3ef817f0baa/sadanandpai/sudoku-solver" height="200"/></a>
+<a href="https://sadanandpai.github.io/sudoku-solver/dist/"><img src="https://opengraph.githubassets.com/542b2a09cbfd0a60768b60368abe23da9283257b2ae6f1dd37218709c8be6e4d/sadanandpai/sudoku-solver" height="200"/></a>
 
 ### Sudoku Solver
 
