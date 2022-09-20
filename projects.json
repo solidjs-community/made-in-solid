@@ -18,12 +18,6 @@
 		"description": "An online tool to quickly bundle & minify your projects"
 	},
 	{
-		"name": "Ambient",
-		"website": "https://ambient-rvx.web.app",
-		"repo": "https://github.com/kevintyj/ambient",
-		"description": "Color Checker Tool"
-	},
-	{
 		"name": "Favicoon",
 		"website": "https://favicoon.com",
 		"description": "Modern Image Favicon Generator built with Solid Start"
@@ -33,6 +27,12 @@
 		"website": "https://www.lpadder.ml",
 		"repo": "https://github.com/Vexcited/lpadder",
 		"description": "Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser."
+	},
+	{
+		"name": "Ambient",
+		"website": "https://ambient-rvx.web.app",
+		"repo": "https://github.com/kevintyj/ambient",
+		"description": "Color Checker Tool"
 	},
 	{
 		"name": "HoloDevDao",
@@ -120,11 +120,5 @@
 		"website": "https://scrumino.vaal.dev/",
 		"repo": "https://github.com/vaalha/scrumino",
 		"description": "tetris game with multiple boards"
-	},
-	{
-		"name": "SpaceX Launches",
-		"website": "https://namysh.github.io/3d-spacex-solidjs/",
-		"repo": "https://github.com/Namysh/3d-spacex-solidjs",
-		"description": "A small 3d project using the SpaceX API"
 	}
 ]
