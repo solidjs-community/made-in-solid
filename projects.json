@@ -68,6 +68,12 @@
 		"description": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
 	},
 	{
+		"name": "ThreadClient",
+		"website": "https://thread.pfg.pw",
+		"repo": "https://github.com/pfgithub/threadclient",
+		"description": "a client for reddit and mastodon. extensible so it can support multiple platforms"
+	},
+	{
 		"name": "Räppli",
 		"website": "https://rappli.ch",
 		"repo": "https://git.lufrai.com/rappli/rappli",
