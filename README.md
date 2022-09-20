@@ -50,18 +50,6 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://ambient-rvx.web.app"><img src="https://i.ibb.co/023K2MR/web-thumbnail.png" height="200"/></a>
-
-### Ambient
-
-Create color shades just from primary colors that are APCA contrast safe, all done without the thinking.
-
-**Website:** [https://ambient-rvx.web.app](https://ambient-rvx.web.app)
-
-**Repository:** [https://github.com/kevintyj/ambient](https://github.com/kevintyj/ambient)
-
----
-
 <a href="https://favicoon.com"><img src="https://favicoon.com/og-image-image.png" height="200"/></a>
 
 ### Favicoon
@@ -81,6 +69,18 @@ Web application that lets you play Launchpad covers directly from your browser.
 **Website:** [https://www.lpadder.ml](https://www.lpadder.ml)
 
 **Repository:** [https://github.com/Vexcited/lpadder](https://github.com/Vexcited/lpadder)
+
+---
+
+<a href="https://ambient-rvx.web.app"><img src="https://i.ibb.co/023K2MR/web-thumbnail.png" height="200"/></a>
+
+### Ambient
+
+Create color shades just from primary colors that are APCA contrast safe, all done without the thinking.
+
+**Website:** [https://ambient-rvx.web.app](https://ambient-rvx.web.app)
+
+**Repository:** [https://github.com/kevintyj/ambient](https://github.com/kevintyj/ambient)
 
 ---
 
@@ -105,6 +105,16 @@ Click on any component and go from your app to component's code.
 **Website:** [https://www.locatorjs.com](https://www.locatorjs.com)
 
 **Repository:** [https://github.com/infi-pc/locatorjs](https://github.com/infi-pc/locatorjs)
+
+---
+
+<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
+
+### Zapp!
+
+A free online sandbox for building Flutter applications in the browser.
+
+**Website:** [https://zapp.run](https://zapp.run)
 
 ---
 
@@ -133,16 +143,6 @@ a groovebox for the browser
 ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries.
 
 **Website:** [https://ismarkethigh.com](https://ismarkethigh.com)
-
----
-
-<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
-
-### Zapp!
-
-A free online sandbox for building Flutter applications in the browser.
-
-**Website:** [https://zapp.run](https://zapp.run)
 
 ---
 
@@ -251,18 +251,6 @@ Contribute to vaalha/scrumino development by creating an account on GitHub.
 **Website:** [https://scrumino.vaal.dev/](https://scrumino.vaal.dev/)
 
 **Repository:** [https://github.com/vaalha/scrumino](https://github.com/vaalha/scrumino)
-
----
-
-<a href="https://namysh.github.io/3d-spacex-solidjs/"><img src="https://opengraph.githubassets.com/84550ba3eef5e1ec9cc1999247cab9e72b584a13d908001d570c86deea3bf9f7/Namysh/3d-spacex-solidjs" height="200"/></a>
-
-### SpaceX Launches
-
-A small 3d project using the SpaceX API, made with SolidJS - GitHub - Namysh/3d-spacex-solidjs: A small 3d project using the SpaceX API, made with SolidJS
-
-**Website:** [https://namysh.github.io/3d-spacex-solidjs/](https://namysh.github.io/3d-spacex-solidjs/)
-
-**Repository:** [https://github.com/Namysh/3d-spacex-solidjs](https://github.com/Namysh/3d-spacex-solidjs)
 
 <!-- INSERT-PROJECTS:END -->
 
