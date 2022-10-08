@@ -58,6 +58,12 @@
 		"description": "Customizable Toast Notifications for SolidJS"
 	},
 	{
+		"name": "Bauble",
+		"website": "https://bauble.studio",
+		"repo": "https://github.com/ianthehenry/bauble",
+		"description": "A playground for making 3D art with lisp and math"
+	},
+	{
 		"name": "tahti",
 		"website": "https://tahti.studio",
 		"description": "a groovebox for the browser"
