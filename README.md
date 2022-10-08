@@ -130,6 +130,18 @@ Create beautiful, customizable toasts with Solid JS
 
 ---
 
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/cba29cf4636caa827de64c1f07531dddffb438230f08d1586b83be7e4186fa91/ianthehenry/bauble" height="200"/></a>
+
+### Bauble
+
+a playground for making 3D art with lisp and math. Contribute to ianthehenry/bauble development by creating an account on GitHub.
+
+**Website:** [https://bauble.studio](https://bauble.studio)
+
+**Repository:** [https://github.com/ianthehenry/bauble](https://github.com/ianthehenry/bauble)
+
+---
+
 ### tahti
 
 a groovebox for the browser
@@ -182,7 +194,7 @@ Full stack sample and preset sharing website written in TypeScript - GitHub - Me
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/0d092eb561731cc1edb560ac24086780ce35b6295604f796fe389f0bd8a3c265/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/a5d3bb7a29bdf7940c10cc2dddaad23face7d4b64acb30d9c30435452c41dc77/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -194,7 +206,7 @@ Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site deve
 
 ---
 
-<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/b1d753afe5002c51962c6fd4631418c97c54f9d080acf086305e9aec4cbea773/MrFoxPro/bloki" height="200"/></a>
+<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/5eddc6a9801c6f442735405a483ad20e26d819e1e8a70fed96b43a8ee38e9579/MrFoxPro/bloki" height="200"/></a>
 
 ### Bloki
 
@@ -218,7 +230,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/cd91921bf10db7cdf50b776ccf8f7c090555a2a015e2be93362883836ce84a56/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/d323f2774a7ff1aad5a3ca4ba85bec26052d68838bbe08675932fbd3c82e1b0e/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -242,7 +254,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://sadanandpai.github.io/sudoku-solver/dist/"><img src="https://opengraph.githubassets.com/542b2a09cbfd0a60768b60368abe23da9283257b2ae6f1dd37218709c8be6e4d/sadanandpai/sudoku-solver" height="200"/></a>
+<a href="https://sadanandpai.github.io/sudoku-solver/dist/"><img src="https://opengraph.githubassets.com/ced1725dbb0bd7c632bc538a2b68e0e16c90e0ecb9d2212984d15a317cfb6a2e/sadanandpai/sudoku-solver" height="200"/></a>
 
 ### Sudoku Solver
 
