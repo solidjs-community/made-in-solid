@@ -118,6 +118,17 @@ A free online sandbox for building Flutter applications in the browser.
 
 ---
 
+<a href="https://chikn.world"><img src="https://s3.ap-southeast-1.amazonaws.com/chikn.world/chikn.world-share-square.jpg" height="200"/></a>
+
+### Chikn World
+
+Chikn World breaks down the metrics and tokenomics so you don't have to!
+Get all the info you need for all Chikn eggosystem tokens; EGG, FEED, FERT & More!
+
+**Website:** [https://chikn.world](https://chikn.world)
+
+---
+
 <a href="https://www.solid-toast.com"><img src="https://www.solid-toast.com/img/solid-toast-og-img.png" height="200"/></a>
 
 ### Solid Toast
@@ -230,7 +241,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/d323f2774a7ff1aad5a3ca4ba85bec26052d68838bbe08675932fbd3c82e1b0e/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/c5f361eed59c8aeb08339a3680f59da9bb07234de4496400ba59b3cbc534bbdb/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
