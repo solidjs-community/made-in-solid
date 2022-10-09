@@ -52,6 +52,11 @@
 		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
 	},
 	{
+		"name": "Chikn World",
+		"website": "https://chikn.world",
+		"Chikn World breaks down the metrics and tokenomics so you don't have to!"
+	},
+	{
 		"name": "Solid Toast",
 		"website": "https://www.solid-toast.com",
 		"repo": "https://github.com/ardeora/solid-toast",
