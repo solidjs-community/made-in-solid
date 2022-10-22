@@ -69,6 +69,11 @@
 		"description": "A playground for making 3D art with lisp and math"
 	},
 	{
+		"name": "Nook",
+		"website": "https://nook.glo.quebec",
+		"description": "Markdown-Powered Intelligent Knowledge Manager"
+	},
+	{
 		"name": "tahti",
 		"website": "https://tahti.studio",
 		"description": "a groovebox for the browser"
