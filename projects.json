@@ -18,6 +18,11 @@
 		"description": "An online tool to quickly bundle & minify your projects"
 	},
 	{
+		"name": "NordVPN.org",
+		"website": "https://nordvpn.org",
+		"description": "NordVPN is a virtual private network and security tool that protects your online data. It’s part of Nord Security, a leading online security provider."
+	},
+	{
 		"name": "Favicoon",
 		"website": "https://favicoon.com",
 		"description": "Modern Image Favicon Generator built with Solid Start"
@@ -94,12 +99,6 @@
 		"website": "https://rappli.ch",
 		"repo": "https://git.lufrai.com/rappli/rappli",
 		"description": "Räppli is a free web app for creating Swiss invoices including QR code."
-	},
-	{
-		"name": "SampleHub",
-		"website": "https://samplehub.cc",
-		"repo": "https://github.com/merkie/samplehub",
-		"description": "Full stack sample and preset sharing website written in TypeScript"
 	},
 	{
 		"name": "Solid Website",
