@@ -213,6 +213,16 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
+<a href="https://www.lorrehuggan.com"><img src="https://www.lorrehuggan.com/image/Me.png" height="200"/></a>
+
+### Lorre Huggan personal website
+
+Lorre Huggan Portfolio
+
+**Website:** [https://www.lorrehuggan.com](https://www.lorrehuggan.com)
+
+---
+
 <a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/a5d3bb7a29bdf7940c10cc2dddaad23face7d4b64acb30d9c30435452c41dc77/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
@@ -270,30 +280,6 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 **Website:** [http://solid-headless.vercel.app](http://solid-headless.vercel.app)
 
 **Repository:** [https://github.com/lxsmnsyc/solid-headless](https://github.com/lxsmnsyc/solid-headless)
-
----
-
-<a href="https://sadanandpai.github.io/sudoku-solver/dist/"><img src="https://opengraph.githubassets.com/4848e421c8c381c8a4fb217fdc4b5796da0c10d28cd3c87e9ec092a24fa9c88e/sadanandpai/sudoku-solver" height="200"/></a>
-
-### Sudoku Solver
-
-Sudoku Solver. Contribute to sadanandpai/sudoku-solver development by creating an account on GitHub.
-
-**Website:** [https://sadanandpai.github.io/sudoku-solver/dist/](https://sadanandpai.github.io/sudoku-solver/dist/)
-
-**Repository:** [https://github.com/sadanandpai/sudoku-solver/](https://github.com/sadanandpai/sudoku-solver/)
-
----
-
-<a href="https://scrumino.vaal.dev/"><img src="https://opengraph.githubassets.com/52c5778a7e9ee75c482d62a24d243acc200342141cb6e938d73466c0bcebe71b/vaalha/scrumino" height="200"/></a>
-
-### Scrumino
-
-Contribute to vaalha/scrumino development by creating an account on GitHub.
-
-**Website:** [https://scrumino.vaal.dev/](https://scrumino.vaal.dev/)
-
-**Repository:** [https://github.com/vaalha/scrumino](https://github.com/vaalha/scrumino)
 
 <!-- INSERT-PROJECTS:END -->
 
