@@ -50,6 +50,16 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
+<a href="https://nordvpn.org"><img src="https://s1.nordcdn.com/nordvpn/media/1.1678.0/images/meta/nordvpn-default.png" height="200"/></a>
+
+### NordVPN.org
+
+We want to see the internet free from crime, censorship, and surveillance. We contribute to this vision by supporting freedom of speech and spreading digital awareness.
+
+**Website:** [https://nordvpn.org](https://nordvpn.org)
+
+---
+
 <a href="https://favicoon.com"><img src="https://favicoon.com/og-image-image.png" height="200"/></a>
 
 ### Favicoon
@@ -141,7 +151,7 @@ Create beautiful, customizable toasts with Solid JS
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/cba29cf4636caa827de64c1f07531dddffb438230f08d1586b83be7e4186fa91/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/a991a1f214e966313744fde769064cdef516b11538b461a474623fe8fe2e570c/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -150,6 +160,16 @@ a playground for making 3D art with lisp and math. Contribute to ianthehenry/bau
 **Website:** [https://bauble.studio](https://bauble.studio)
 
 **Repository:** [https://github.com/ianthehenry/bauble](https://github.com/ianthehenry/bauble)
+
+---
+
+<a href="https://nook.glo.quebec"><img src="https://nook.glo.quebec/assets/nook.3d835e65.png" height="200"/></a>
+
+### Nook
+
+Nook, the Markdown-Powered Intelligent Knowledge Manager
+
+**Website:** [https://nook.glo.quebec](https://nook.glo.quebec)
 
 ---
 
@@ -193,18 +213,6 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://samplehub.cc"><img src="https://opengraph.githubassets.com/8d1987ca8bdad5eb77cd580550d7cea17eeba3c747f93afc3e87005aa90c82b2/Merkie/samplehub" height="200"/></a>
-
-### SampleHub
-
-Full stack sample and preset sharing website written in TypeScript - GitHub - Merkie/samplehub: Full stack sample and preset sharing website written in TypeScript
-
-**Website:** [https://samplehub.cc](https://samplehub.cc)
-
-**Repository:** [https://github.com/merkie/samplehub](https://github.com/merkie/samplehub)
-
----
-
 <a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/a5d3bb7a29bdf7940c10cc2dddaad23face7d4b64acb30d9c30435452c41dc77/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
@@ -217,7 +225,7 @@ Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site deve
 
 ---
 
-<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/5eddc6a9801c6f442735405a483ad20e26d819e1e8a70fed96b43a8ee38e9579/MrFoxPro/bloki" height="200"/></a>
+<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/1e305c65a3738f8396fa7cf47e2d8224b59b017dd32940a62be10488aaa599c6/MrFoxPro/bloki" height="200"/></a>
 
 ### Bloki
 
@@ -241,7 +249,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/c5f361eed59c8aeb08339a3680f59da9bb07234de4496400ba59b3cbc534bbdb/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/8527af255437054688a04733f6bb21c1080825ada0665c7ab6a3be61adf51412/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -265,7 +273,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://sadanandpai.github.io/sudoku-solver/dist/"><img src="https://opengraph.githubassets.com/ced1725dbb0bd7c632bc538a2b68e0e16c90e0ecb9d2212984d15a317cfb6a2e/sadanandpai/sudoku-solver" height="200"/></a>
+<a href="https://sadanandpai.github.io/sudoku-solver/dist/"><img src="https://opengraph.githubassets.com/4848e421c8c381c8a4fb217fdc4b5796da0c10d28cd3c87e9ec092a24fa9c88e/sadanandpai/sudoku-solver" height="200"/></a>
 
 ### Sudoku Solver
 
