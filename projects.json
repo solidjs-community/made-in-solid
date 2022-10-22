@@ -101,6 +101,11 @@
 		"description": "Räppli is a free web app for creating Swiss invoices including QR code."
 	},
 	{
+		"name": "Lorre Huggan personal website",
+		"website": "https://www.lorrehuggan.com",
+		"description": "Lorre Huggan's personal website and a portfolio, built with Astro and SolidJS."
+	},
+	{
 		"name": "Solid Website",
 		"description": "you already know",
 		"website": "https://www.solidjs.com",
@@ -129,17 +134,5 @@
 		"website": "http://solid-headless.vercel.app",
 		"repo": "https://github.com/lxsmnsyc/solid-headless",
 		"description": "Headless UI for SolidJS"
-	},
-	{
-		"name": "Sudoku Solver",
-		"website": "https://sadanandpai.github.io/sudoku-solver/dist/",
-		"repo": "https://github.com/sadanandpai/sudoku-solver/",
-		"description": "Sudoku Solver Application"
-	},
-	{
-		"name": "Scrumino",
-		"website": "https://scrumino.vaal.dev/",
-		"repo": "https://github.com/vaalha/scrumino",
-		"description": "tetris game with multiple boards"
 	}
 ]
