@@ -28,23 +28,28 @@ async function fetchPreviewImage(
 	website: string,
 	repo: string | undefined,
 ): Promise<{ image: string | undefined; description: string | undefined }> {
-	let preview = await getLinkPreview(website, GET_LINK_PREVIEW_OPTIONS)
-	let description: string | undefined
+	try {
+		let preview = await getLinkPreview(website, GET_LINK_PREVIEW_OPTIONS)
+		let description: string | undefined
 
-	if ("images" in preview && preview.images.length)
-		return { image: preview.images[0], description: preview.description }
-
-	if ("description" in preview && preview.description) description = preview.description
-	if (repo) {
-		preview = await getLinkPreview(repo, GET_LINK_PREVIEW_OPTIONS)
-		if ("description" in preview && preview.description) description = preview.description
 		if ("images" in preview && preview.images.length)
-			return {
-				image: preview.images[0],
-				description,
-			}
+			return { image: preview.images[0], description: preview.description }
+
+		if ("description" in preview && preview.description) description = preview.description
+		if (repo) {
+			preview = await getLinkPreview(repo, GET_LINK_PREVIEW_OPTIONS)
+			if ("description" in preview && preview.description) description = preview.description
+			if ("images" in preview && preview.images.length)
+				return {
+					image: preview.images[0],
+					description,
+				}
+		}
+		return { image: undefined, description }
+	} catch (error) {
+		console.error({ error, website, repo })
+		return { image: undefined, description: undefined }
 	}
-	return { image: undefined, description }
 }
 
 // PROGRAM
