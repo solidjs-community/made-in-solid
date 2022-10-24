@@ -50,7 +50,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://nordvpn.org"><img src="https://s1.nordcdn.com/nordvpn/media/1.1678.0/images/meta/nordvpn-default.png" height="200"/></a>
+<a href="https://nordvpn.org"><img src="https://s1.nordcdn.com/nordvpn/media/1.1710.0/images/meta/nordvpn-default.png" height="200"/></a>
 
 ### NordVPN.org
 
@@ -259,7 +259,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/8527af255437054688a04733f6bb21c1080825ada0665c7ab6a3be61adf51412/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/e082865158a3a70e5e01b8df3761f2a054e3a0a316d5ef07cf321ed7cabe159b/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -280,6 +280,18 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 **Website:** [http://solid-headless.vercel.app](http://solid-headless.vercel.app)
 
 **Repository:** [https://github.com/lxsmnsyc/solid-headless](https://github.com/lxsmnsyc/solid-headless)
+
+---
+
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/dba1ba02679da80d25e1c1a12c103c7718289fe7c3d0116dcf5ec0affb821f96/fabian-hiller/modular-forms" height="200"/></a>
+
+### Modular Forms
+
+The modular form library for SolidJS. Contribute to fabian-hiller/modular-forms development by creating an account on GitHub.
+
+**Website:** [https://modularforms.dev](https://modularforms.dev)
+
+**Repository:** [https://github.com/fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms)
 
 <!-- INSERT-PROJECTS:END -->
 
