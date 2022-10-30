@@ -26,11 +26,9 @@ CodeImage is the next-gen tool to help developers to create and share beautiful 
 
 ---
 
-<a href="https://lume.io/"><img src="https://repository-images.githubusercontent.com/28641272/6c3b9c00-1e8d-11eb-9eb4-457e08c7c444" height="200"/></a>
-
 ### LUME
 
-Create 3D web applications with HTML. Bring a new depth to your DOM! - GitHub - lume/lume: Create 3D web applications with HTML. Bring a new depth to your DOM!
+A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences
 
 **Website:** [https://lume.io/](https://lume.io/)
 
@@ -60,11 +58,9 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
-<a href="https://favicoon.com"><img src="https://favicoon.com/og-image-image.png" height="200"/></a>
-
 ### Favicoon
 
-Quickly generate a favicon from an image for your website for free.
+Modern Image Favicon Generator built with Solid Start
 
 **Website:** [https://favicoon.com](https://favicoon.com)
 
@@ -106,11 +102,9 @@ Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
 
 ---
 
-<a href="https://www.locatorjs.com"><img src="https://www.locatorjs.com/preview.png" height="200"/></a>
-
 ### LocatorJS (Runtime & Extension)
 
-Click on any component and go from your app to component's code.
+A React dev tool that lets you click on any component in the browser to open its code in your IDE.
 
 **Website:** [https://www.locatorjs.com](https://www.locatorjs.com)
 
@@ -118,32 +112,25 @@ Click on any component and go from your app to component's code.
 
 ---
 
-<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
-
 ### Zapp!
 
-A free online sandbox for building Flutter applications in the browser.
+Zapp is a free online sandbox environment for building Flutter applications in the browser.
 
 **Website:** [https://zapp.run](https://zapp.run)
 
 ---
 
-<a href="https://chikn.world"><img src="https://s3.ap-southeast-1.amazonaws.com/chikn.world/chikn.world-share-square.jpg" height="200"/></a>
-
 ### Chikn World
 
 Chikn World breaks down the metrics and tokenomics so you don't have to!
-Get all the info you need for all Chikn eggosystem tokens; EGG, FEED, FERT & More!
 
 **Website:** [https://chikn.world](https://chikn.world)
 
 ---
 
-<a href="https://www.solid-toast.com"><img src="https://www.solid-toast.com/img/solid-toast-og-img.png" height="200"/></a>
-
 ### Solid Toast
 
-Create beautiful, customizable toasts with Solid JS
+Customizable Toast Notifications for SolidJS
 
 **Website:** [https://www.solid-toast.com](https://www.solid-toast.com)
 
@@ -151,11 +138,9 @@ Create beautiful, customizable toasts with Solid JS
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/a991a1f214e966313744fde769064cdef516b11538b461a474623fe8fe2e570c/ianthehenry/bauble" height="200"/></a>
-
 ### Bauble
 
-a playground for making 3D art with lisp and math. Contribute to ianthehenry/bauble development by creating an account on GitHub.
+A playground for making 3D art with lisp and math
 
 **Website:** [https://bauble.studio](https://bauble.studio)
 
@@ -163,11 +148,9 @@ a playground for making 3D art with lisp and math. Contribute to ianthehenry/bau
 
 ---
 
-<a href="https://nook.glo.quebec"><img src="https://nook.glo.quebec/assets/nook.3d835e65.png" height="200"/></a>
-
 ### Nook
 
-Nook, the Markdown-Powered Intelligent Knowledge Manager
+Markdown-Powered Intelligent Knowledge Manager
 
 **Website:** [https://nook.glo.quebec](https://nook.glo.quebec)
 
@@ -189,11 +172,9 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/5280e8a5793c770bf1155ca208e706d28cc3624306da5fc0a531a6608555e2fe/pfgithub/threadclient" height="200"/></a>
-
 ### ThreadClient
 
-a client for reddit and mastodon. extensible so it can support multiple platforms - GitHub - pfgithub/threadclient: a client for reddit and mastodon. extensible so it can support multiple platforms
+a client for reddit and mastodon. extensible so it can support multiple platforms
 
 **Website:** [https://thread.pfg.pw](https://thread.pfg.pw)
 
@@ -201,11 +182,19 @@ a client for reddit and mastodon. extensible so it can support multiple platform
 
 ---
 
-<a href="https://rappli.ch"><img src="https://rappli.ch/social.png" height="200"/></a>
+### RedditLattice
+
+A reddit viewer for image based subreddits. Lays out the images in a tight lattice.
+
+**Website:** [https://redditlattice.netlify.app](https://redditlattice.netlify.app)
+
+**Repository:** [https://github.com/vanillacode314/redditlattice](https://github.com/vanillacode314/redditlattice)
+
+---
 
 ### Räppli
 
-Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen inklusive QR-Code. Erfasse deine Rechnungspositionen und erhalte unmittelbar eine druckbare Rechnung.
+Räppli is a free web app for creating Swiss invoices including QR code.
 
 **Website:** [https://rappli.ch](https://rappli.ch)
 
@@ -213,21 +202,17 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://www.lorrehuggan.com"><img src="https://www.lorrehuggan.com/image/Me.png" height="200"/></a>
-
 ### Lorre Huggan personal website
 
-Lorre Huggan Portfolio
+Lorre Huggan's personal website and a portfolio, built with Astro and SolidJS.
 
 **Website:** [https://www.lorrehuggan.com](https://www.lorrehuggan.com)
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/a5d3bb7a29bdf7940c10cc2dddaad23face7d4b64acb30d9c30435452c41dc77/solidjs/solid-site" height="200"/></a>
-
 ### Solid Website
 
-Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site development by creating an account on GitHub.
+you already know
 
 **Website:** [https://www.solidjs.com](https://www.solidjs.com)
 
@@ -235,11 +220,9 @@ Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site deve
 
 ---
 
-<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/1e305c65a3738f8396fa7cf47e2d8224b59b017dd32940a62be10488aaa599c6/MrFoxPro/bloki" height="200"/></a>
-
 ### Bloki
 
-Blocks-based collaborative editor. Contribute to MrFoxPro/bloki development by creating an account on GitHub.
+an interactive block editor
 
 **Website:** [https://bloki.app/](https://bloki.app/)
 
@@ -247,11 +230,9 @@ Blocks-based collaborative editor. Contribute to MrFoxPro/bloki development by c
 
 ---
 
-<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/f3961268fdbcf07adfaa604efa3a3657f03cefda875dd1d046415f3a06eadd98/lawrencecchen/sailwind" height="200"/></a>
-
 ### Sailwind
 
-A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
+A super fast Tailwind/React repl.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -259,11 +240,9 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/e082865158a3a70e5e01b8df3761f2a054e3a0a316d5ef07cf321ed7cabe159b/hope-ui/hope-ui" height="200"/></a>
-
 ### HopeUI
 
-🤞 The SolidJS component library you've hoped for. Contribute to hope-ui/hope-ui development by creating an account on GitHub.
+the component library you've hoped for
 
 **Website:** [https://hope-ui.com/](https://hope-ui.com/)
 
@@ -271,11 +250,9 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="http://solid-headless.vercel.app"><img src="https://repository-images.githubusercontent.com/397940426/4a3e1810-cd70-4b9f-945a-69fd623812d1" height="200"/></a>
-
 ### Headless UI for SolidJS
 
-Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by creating an account on GitHub.
+Headless UI for SolidJS
 
 **Website:** [http://solid-headless.vercel.app](http://solid-headless.vercel.app)
 
@@ -283,11 +260,9 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/dba1ba02679da80d25e1c1a12c103c7718289fe7c3d0116dcf5ec0affb821f96/fabian-hiller/modular-forms" height="200"/></a>
-
 ### Modular Forms
 
-The modular form library for SolidJS. Contribute to fabian-hiller/modular-forms development by creating an account on GitHub.
+Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms.
 
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
