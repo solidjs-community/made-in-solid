@@ -95,6 +95,12 @@
 		"description": "a client for reddit and mastodon. extensible so it can support multiple platforms"
 	},
 	{
+		"name": "RedditLattice",
+		"website": "https://redditlattice.netlify.app",
+		"repo": "https://github.com/vanillacode314/redditlattice",
+		"description": "A reddit viewer for image based subreddits. Lays out the images in a tight lattice."
+	},
+	{
 		"name": "Räppli",
 		"website": "https://rappli.ch",
 		"repo": "https://git.lufrai.com/rappli/rappli",
