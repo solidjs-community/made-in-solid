@@ -28,6 +28,12 @@
 		"description": "Modern Image Favicon Generator built with Solid Start"
 	},
 	{
+		"name": "Dropcode",
+		"website": "https://github.com/egoist/dropcode",
+		"repo": "https://github.com/egoist/dropcode",
+		"description": "Dropcode is a simple and lightweight code snippet manager. It's built with Tauri and SolidJS"
+	},
+	{
 		"name": "Ipadder.",
 		"website": "https://www.lpadder.ml",
 		"repo": "https://github.com/Vexcited/lpadder",
