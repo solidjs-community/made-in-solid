@@ -247,15 +247,15 @@ Lorre Huggan Portfolio
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/09c60b0b4409c5d842fa309fe5af887e0a771f5e6e95247ce9c3936e04abb18f/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/a014aabbbf640d0155db04695f39fad08ae448092506d609d212fb3d937744b1/alist-org/alist" height="200"/></a>
 
-### AList Website
+### AList
 
-🗂️ The front end of Alist V3. Contribute to alist-org/alist-web development by creating an account on GitHub.
+🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。 - GitHub - alist-org/alist: 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 
 **Website:** [https://alist.pages.dev](https://alist.pages.dev)
 
-**Repository:** [https://github.com/alist-org/alist-web](https://github.com/alist-org/alist-web)
+**Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
 
 ---
 
@@ -283,9 +283,11 @@ Blocks-based collaborative editor. Contribute to MrFoxPro/bloki development by c
 
 ---
 
+<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/c1f4f05da8f01f573495200c4a3e1ebe2dbd7a983e8956d5608737d14ffdd74b/lawrencecchen/sailwind" height="200"/></a>
+
 ### Sailwind
 
-A super fast Tailwind/React repl.
+A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
