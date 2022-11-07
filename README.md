@@ -221,15 +221,15 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/a014aabbbf640d0155db04695f39fad08ae448092506d609d212fb3d937744b1/alist-org/alist" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/09c60b0b4409c5d842fa309fe5af887e0a771f5e6e95247ce9c3936e04abb18f/alist-org/alist-web" height="200"/></a>
 
-### AList
+### AList frontend
 
-🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。 - GitHub - alist-org/alist: 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+🗂️ The front end of Alist V3. Contribute to alist-org/alist-web development by creating an account on GitHub.
 
 **Website:** [https://alist.pages.dev](https://alist.pages.dev)
 
-**Repository:** [https://github.com/alist-org/alist](https://github.com/alist-org/alist)
+**Repository:** [https://github.com/alist-org/alist-web](https://github.com/alist-org/alist-web)
 
 ---
 
@@ -319,11 +319,9 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="http://solid-headless.vercel.app"><img src="https://repository-images.githubusercontent.com/397940426/4a3e1810-cd70-4b9f-945a-69fd623812d1" height="200"/></a>
-
 ### Headless UI for SolidJS
 
-Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by creating an account on GitHub.
+Headless UI for SolidJS
 
 **Website:** [http://solid-headless.vercel.app](http://solid-headless.vercel.app)
 
