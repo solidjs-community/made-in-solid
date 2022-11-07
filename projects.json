@@ -103,10 +103,10 @@
 		"description": "Räppli is a free web app for creating Swiss invoices including QR code."
 	},
 	{
-		"name": "AList",
+		"name": "AList frontend",
 		"website": "https://alist.pages.dev",
 		"description": "A file list program that supports multiple storage, powered by Gin and Solidjs",
-		"repo": "https://github.com/alist-org/alist"
+		"repo": "https://github.com/alist-org/alist-web"
 	},
 	{
 		"name": "tahti",
