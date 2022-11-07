@@ -106,18 +106,6 @@ Create color shades just from primary colors that are APCA contrast safe, all do
 
 ---
 
-<a href="https://www.holodevdao.xyz/"><img src="https://holodevdao.xyz/og_image.jpg" height="200"/></a>
-
-### HoloDevDao
-
-Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
-
-**Website:** [https://www.holodevdao.xyz/](https://www.holodevdao.xyz/)
-
-**Repository:** [https://github.com/naomihauret/holodevdao](https://github.com/naomihauret/holodevdao)
-
----
-
 <a href="https://www.locatorjs.com"><img src="https://www.locatorjs.com/preview.png" height="200"/></a>
 
 ### LocatorJS (Runtime & Extension)
@@ -127,6 +115,18 @@ Click on any component and go from your app to component's code.
 **Website:** [https://www.locatorjs.com](https://www.locatorjs.com)
 
 **Repository:** [https://github.com/infi-pc/locatorjs](https://github.com/infi-pc/locatorjs)
+
+---
+
+<a href="https://www.holodevdao.xyz/"><img src="https://holodevdao.xyz/og_image.jpg" height="200"/></a>
+
+### HoloDevDao
+
+Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
+
+**Website:** [https://www.holodevdao.xyz/](https://www.holodevdao.xyz/)
+
+**Repository:** [https://github.com/naomihauret/holodevdao](https://github.com/naomihauret/holodevdao)
 
 ---
 
@@ -163,18 +163,6 @@ Create beautiful, customizable toasts with Solid JS
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/fa50a4846ed147608d53a8494eb6c4e0bd46fcbc408f416ac1025d758d9d1bcb/ianthehenry/bauble" height="200"/></a>
-
-### Bauble
-
-a playground for making 3D art with lisp and math. Contribute to ianthehenry/bauble development by creating an account on GitHub.
-
-**Website:** [https://bauble.studio](https://bauble.studio)
-
-**Repository:** [https://github.com/ianthehenry/bauble](https://github.com/ianthehenry/bauble)
-
----
-
 <a href="https://nook.glo.quebec"><img src="https://nook.glo.quebec/assets/nook.fd5a426b.png" height="200"/></a>
 
 ### Nook
@@ -185,19 +173,15 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-### tahti
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/fa50a4846ed147608d53a8494eb6c4e0bd46fcbc408f416ac1025d758d9d1bcb/ianthehenry/bauble" height="200"/></a>
 
-a groovebox for the browser
+### Bauble
 
-**Website:** [https://tahti.studio](https://tahti.studio)
+a playground for making 3D art with lisp and math. Contribute to ianthehenry/bauble development by creating an account on GitHub.
 
----
+**Website:** [https://bauble.studio](https://bauble.studio)
 
-### Is Market High?
-
-ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries.
-
-**Website:** [https://ismarkethigh.com](https://ismarkethigh.com)
+**Repository:** [https://github.com/ianthehenry/bauble](https://github.com/ianthehenry/bauble)
 
 ---
 
@@ -237,16 +221,6 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://www.lorrehuggan.com"><img src="https://www.lorrehuggan.com/image/Me.png" height="200"/></a>
-
-### Lorre Huggan personal website
-
-Lorre Huggan Portfolio
-
-**Website:** [https://www.lorrehuggan.com](https://www.lorrehuggan.com)
-
----
-
 <a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/a014aabbbf640d0155db04695f39fad08ae448092506d609d212fb3d937744b1/alist-org/alist" height="200"/></a>
 
 ### AList
@@ -259,6 +233,32 @@ Lorre Huggan Portfolio
 
 ---
 
+### tahti
+
+a groovebox for the browser
+
+**Website:** [https://tahti.studio](https://tahti.studio)
+
+---
+
+### Is Market High?
+
+ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries.
+
+**Website:** [https://ismarkethigh.com](https://ismarkethigh.com)
+
+---
+
+<a href="https://www.lorrehuggan.com"><img src="https://www.lorrehuggan.com/image/Me.png" height="200"/></a>
+
+### Lorre Huggan personal website
+
+Lorre Huggan Portfolio
+
+**Website:** [https://www.lorrehuggan.com](https://www.lorrehuggan.com)
+
+---
+
 <a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/c3ceb615769cad45d0853657328233b9a566a44fe4640a7a98a2fb19627a87b2/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
@@ -268,6 +268,18 @@ Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site deve
 **Website:** [https://www.solidjs.com](https://www.solidjs.com)
 
 **Repository:** [https://github.com/solidjs/solid-site](https://github.com/solidjs/solid-site)
+
+---
+
+<a href="https://solid-movies.app"><img src="https://solid-movies.app/solidjs.svg" height="200"/></a>
+
+### Solid Movies
+
+Solid Start Demo App based on Nuxt Movies
+
+**Website:** [https://solid-movies.app](https://solid-movies.app)
+
+**Repository:** [https://github.com/solidjs/solid-start/tree/movies/examples/movies](https://github.com/solidjs/solid-start/tree/movies/examples/movies)
 
 ---
 
