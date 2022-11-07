@@ -70,7 +70,7 @@ Quickly generate a favicon from an image for your website for free.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/daa8e5f2f63934fe499e9862972d83c565d63f948f7c3e25b585f2a9980a3042/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/71df5b4875d26821c1db6878a4b383d47e1c68a02666470e50ff3376bb89c8e7/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -82,9 +82,11 @@ A simple and lightweight code snippet manager. Contribute to egoist/dropcode dev
 
 ---
 
+<a href="https://www.lpadder.ml"><img src="https://www.lpadder.ml/banner.png" height="200"/></a>
+
 ### Ipadder.
 
-Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser.
+Web application that lets you play Launchpad covers directly from your browser.
 
 **Website:** [https://www.lpadder.ml](https://www.lpadder.ml)
 
@@ -161,7 +163,7 @@ Create beautiful, customizable toasts with Solid JS
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/c77babfa71eb7e13fc9d045dba19346b17b796621c54d719b9bad71f044e898e/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/fa50a4846ed147608d53a8494eb6c4e0bd46fcbc408f416ac1025d758d9d1bcb/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -173,7 +175,7 @@ a playground for making 3D art with lisp and math. Contribute to ianthehenry/bau
 
 ---
 
-<a href="https://nook.glo.quebec"><img src="https://nook.glo.quebec/assets/nook.3d835e65.png" height="200"/></a>
+<a href="https://nook.glo.quebec"><img src="https://nook.glo.quebec/assets/nook.fd5a426b.png" height="200"/></a>
 
 ### Nook
 
@@ -245,6 +247,18 @@ Lorre Huggan Portfolio
 
 ---
 
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/09c60b0b4409c5d842fa309fe5af887e0a771f5e6e95247ce9c3936e04abb18f/alist-org/alist-web" height="200"/></a>
+
+### AList Website
+
+🗂️ The front end of Alist V3. Contribute to alist-org/alist-web development by creating an account on GitHub.
+
+**Website:** [https://alist.pages.dev](https://alist.pages.dev)
+
+**Repository:** [https://github.com/alist-org/alist-web](https://github.com/alist-org/alist-web)
+
+---
+
 <a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/c3ceb615769cad45d0853657328233b9a566a44fe4640a7a98a2fb19627a87b2/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
@@ -279,7 +293,7 @@ A super fast Tailwind/React repl.
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/e79f0737027267e2800a3a98e0c24d18e5cda835587facf51af3cbc3618b3d8e/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/aae0a7193c38dc2519d499af0d97f0435720f59c912f5302123a65b7a7d7eb80/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -303,7 +317,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/fa8cc816bdec14e773a442983b7ad5b243b3ffb4787afe42334346bfabf0822a/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/3147bcea3860280a50de25197775396de5636c8206fc452f7507e32f77a206b8/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
