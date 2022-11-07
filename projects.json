@@ -118,6 +118,12 @@
 		"description": "Lorre Huggan's personal website and a portfolio, built with Astro and SolidJS."
 	},
 	{
+		"name": "AList Website",
+		"website": "https://alist.pages.dev",
+		"description": "A file list program that supports multiple storage, powered by Gin and Solidjs",
+		"repo": "https://github.com/alist-org/alist-web"
+	},
+	{
 		"name": "Solid Website",
 		"description": "you already know",
 		"website": "https://www.solidjs.com",
