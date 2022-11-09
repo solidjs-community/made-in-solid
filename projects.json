@@ -114,6 +114,12 @@
 		"description": "a groovebox for the browser"
 	},
 	{
+		"name": "Krestianstvo",
+		"website": "https://play.krestianstvo.org",
+		"description": "Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm",
+		"repo": "https://github.com/NikolaySuslov/krestianstvo"
+	},
+	{
 		"name": "Is Market High?",
 		"website": "https://ismarkethigh.com",
 		"description": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
