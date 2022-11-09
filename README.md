@@ -70,7 +70,7 @@ Quickly generate a favicon from an image for your website for free.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/71df5b4875d26821c1db6878a4b383d47e1c68a02666470e50ff3376bb89c8e7/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/50cc72ae0d000f492963c0b1e3101f0065802861a2e2a6c0fb6ca93ba30954e3/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -173,7 +173,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/fa50a4846ed147608d53a8494eb6c4e0bd46fcbc408f416ac1025d758d9d1bcb/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/83453c7f4bab02bdb70321304b8dd39e702008c6fd6eed05cf6af890b2a78fae/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -197,7 +197,7 @@ a client for reddit and mastodon. extensible so it can support multiple platform
 
 ---
 
-<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/176bfa57b78d8194b75b2f6c6e3b338bf7491ddfe743eb55e728d17b549b8c5f/vanillacode314/redditlattice" height="200"/></a>
+<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/c764ac9ca8c0e802017e40bf164daa2f91f62c4d43f0360bcc71301c25fa37e9/vanillacode314/redditlattice" height="200"/></a>
 
 ### RedditLattice
 
@@ -238,6 +238,18 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 a groovebox for the browser
 
 **Website:** [https://tahti.studio](https://tahti.studio)
+
+---
+
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/99836b08d4b04e5b451b848d2ce4005004887b0bc5933bba967deee1786a4742/NikolaySuslov/krestianstvo" height="200"/></a>
+
+### Krestianstvo
+
+Krestianstvo SDK 4 | Solid JS. Contribute to NikolaySuslov/krestianstvo development by creating an account on GitHub.
+
+**Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
+
+**Repository:** [https://github.com/NikolaySuslov/krestianstvo](https://github.com/NikolaySuslov/krestianstvo)
 
 ---
 
@@ -319,9 +331,11 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
+<a href="http://solid-headless.vercel.app"><img src="https://repository-images.githubusercontent.com/397940426/4a3e1810-cd70-4b9f-945a-69fd623812d1" height="200"/></a>
+
 ### Headless UI for SolidJS
 
-Headless UI for SolidJS
+Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by creating an account on GitHub.
 
 **Website:** [http://solid-headless.vercel.app](http://solid-headless.vercel.app)
 
@@ -329,7 +343,7 @@ Headless UI for SolidJS
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/3147bcea3860280a50de25197775396de5636c8206fc452f7507e32f77a206b8/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/7a7f5f948a3e24f8177b17c8f6d238e5dc998a1d79cb21656964941c81125554/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
