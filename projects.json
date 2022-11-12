@@ -34,7 +34,7 @@
 		"description": "Dropcode is a simple and lightweight code snippet manager. It's built with Tauri and SolidJS"
 	},
 	{
-		"name": "Ipadder.",
+		"name": "lpadder.",
 		"website": "https://www.lpadder.ml",
 		"repo": "https://github.com/Vexcited/lpadder",
 		"description": "Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser."
