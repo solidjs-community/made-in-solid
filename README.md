@@ -84,7 +84,7 @@ A simple and lightweight code snippet manager. Contribute to egoist/dropcode dev
 
 <a href="https://www.lpadder.ml"><img src="https://www.lpadder.ml/banner.png" height="200"/></a>
 
-### Ipadder.
+### lpadder.
 
 Web application that lets you play Launchpad covers directly from your browser.
 
