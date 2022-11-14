@@ -70,7 +70,7 @@ Quickly generate a favicon from an image for your website for free.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/50cc72ae0d000f492963c0b1e3101f0065802861a2e2a6c0fb6ca93ba30954e3/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/ed4554115a03d7aa6fca64e0f16f770a250eaecb4d47fcacd7d8c549e77fcfce/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -173,7 +173,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/83453c7f4bab02bdb70321304b8dd39e702008c6fd6eed05cf6af890b2a78fae/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/41cb8e64174fddc305a59b8ea7961b0fa8f7bdd5cb28d9e2b068cac776fc41c8/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -221,7 +221,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/09c60b0b4409c5d842fa309fe5af887e0a771f5e6e95247ce9c3936e04abb18f/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/3245d56200e9cb3b888bf51add928cd14c64dc0e868ba89c79ac3e740553791c/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -241,11 +241,9 @@ a groovebox for the browser
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/99836b08d4b04e5b451b848d2ce4005004887b0bc5933bba967deee1786a4742/NikolaySuslov/krestianstvo" height="200"/></a>
-
 ### Krestianstvo
 
-Krestianstvo SDK 4 | Solid JS. Contribute to NikolaySuslov/krestianstvo development by creating an account on GitHub.
+Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm
 
 **Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
 
@@ -295,11 +293,9 @@ Solid Start Demo App based on Nuxt Movies
 
 ---
 
-<a href="https://bloki.app/"><img src="https://opengraph.githubassets.com/1e305c65a3738f8396fa7cf47e2d8224b59b017dd32940a62be10488aaa599c6/MrFoxPro/bloki" height="200"/></a>
-
 ### Bloki
 
-Blocks-based collaborative editor. Contribute to MrFoxPro/bloki development by creating an account on GitHub.
+an interactive block editor
 
 **Website:** [https://bloki.app/](https://bloki.app/)
 
@@ -307,11 +303,9 @@ Blocks-based collaborative editor. Contribute to MrFoxPro/bloki development by c
 
 ---
 
-<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/c1f4f05da8f01f573495200c4a3e1ebe2dbd7a983e8956d5608737d14ffdd74b/lawrencecchen/sailwind" height="200"/></a>
-
 ### Sailwind
 
-A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
+A super fast Tailwind/React repl.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -319,7 +313,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/aae0a7193c38dc2519d499af0d97f0435720f59c912f5302123a65b7a7d7eb80/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/b919db83859b7754afb826ed60486a44691c7487a310a4165e35111c7da5aba9/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -343,7 +337,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/7a7f5f948a3e24f8177b17c8f6d238e5dc998a1d79cb21656964941c81125554/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/ca7962bbcd5100e77a176dbf5affd05ffac4e1b7a236dde37a2ebba9925cab29/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
