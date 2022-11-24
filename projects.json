@@ -85,6 +85,12 @@
 		"description": "A playground for making 3D art with lisp and math"
 	},
 	{
+		"name": "Globle: Capitals",
+		"website": "https://globle-capitals.com",
+		"repo": "https://github.com/the-abe-train/globle-capitals",
+		"description": "Globle: Capitals is a daily guessing game. Use your geography skills to find the Mystery Capital City!"
+	},
+	{
 		"name": "ThreadClient",
 		"website": "https://thread.pfg.pw",
 		"repo": "https://github.com/pfgithub/threadclient",
