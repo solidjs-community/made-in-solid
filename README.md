@@ -26,9 +26,11 @@ CodeImage is the next-gen tool to help developers to create and share beautiful 
 
 ---
 
+<a href="https://lume.io/"><img src="https://repository-images.githubusercontent.com/28641272/6c3b9c00-1e8d-11eb-9eb4-457e08c7c444" height="200"/></a>
+
 ### LUME
 
-A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences
+Create 3D web applications with HTML. Bring a new depth to your DOM! - GitHub - lume/lume: Create 3D web applications with HTML. Bring a new depth to your DOM!
 
 **Website:** [https://lume.io/](https://lume.io/)
 
@@ -68,7 +70,7 @@ Quickly generate a favicon from an image for your website for free.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/18658223a4de9e7e96039d6fc941cd89ff04b82884b7cc474482dd996e42077b/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/a3f0cd3ab4d783d9baa1c2cf13ae86e3fb20ed6545ab55ffe012f4adb8230f6d/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -132,7 +134,7 @@ Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
 
 ### Zapp!
 
-A free online sandbox for building Flutter applications in the browser.
+A free online sandbox for building Dart & Flutter applications in the browser.
 
 **Website:** [https://zapp.run](https://zapp.run)
 
@@ -171,7 +173,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/5dac2c9d7e764ad0c8575d135076870678d484d14d06356631bc07a0bb68af36/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/a6ca8a31bad441cb36b98fee2e745097ca1ef437df0d204a6ed9b311765c89b9/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -183,7 +185,7 @@ a playground for making 3D art with lisp and math. Contribute to ianthehenry/bau
 
 ---
 
-<a href="https://globle-capitals.com"><img src="https://globle-capitals.netlify.app/globle-capitals-preview.png" height="200"/></a>
+<a href="https://globle-capitals.com"><img src="https://globle-capitals.com/globle-capitals-preview.png" height="200"/></a>
 
 ### Globle: Capitals
 
@@ -195,7 +197,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/f71808ef7ff58c26a6b1a3d6acbc7d0affa4af3e60e1fb4883854792bff69528/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/ca5351214d91f7616f9001d83e151db3e26914ce28eb9360c080c9a6c040e450/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -207,7 +209,7 @@ a client for reddit and mastodon. extensible so it can support multiple platform
 
 ---
 
-<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/c764ac9ca8c0e802017e40bf164daa2f91f62c4d43f0360bcc71301c25fa37e9/vanillacode314/redditlattice" height="200"/></a>
+<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/12741a99d41ac2fc0ebca1c0149f8d75553fe394abf0eb9a2240bf6c74cf6a22/vanillacode314/redditlattice" height="200"/></a>
 
 ### RedditLattice
 
@@ -231,7 +233,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/e180810dcf0b415cf0386cfab5a92a7e32899f9a41a69c17d42a62114588261a/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/3d8624ea6053e663dceca9ad4e26667ad24dd02ba0cc86a5354a32a94484a383/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -251,13 +253,27 @@ a groovebox for the browser
 
 ---
 
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/99836b08d4b04e5b451b848d2ce4005004887b0bc5933bba967deee1786a4742/NikolaySuslov/krestianstvo" height="200"/></a>
+
 ### Krestianstvo
 
-Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm
+Krestianstvo SDK 4 | Solid JS. Contribute to NikolaySuslov/krestianstvo development by creating an account on GitHub.
 
 **Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
 
 **Repository:** [https://github.com/NikolaySuslov/krestianstvo](https://github.com/NikolaySuslov/krestianstvo)
+
+---
+
+<a href="https://kurtsmurf.github.io/clips/"><img src="https://opengraph.githubassets.com/8f2c816ce61d38dba5322c97c2e9ed49168fba7240865906c1b0666d30e62218/kurtsmurf/clips" height="200"/></a>
+
+### clips
+
+Contribute to kurtsmurf/clips development by creating an account on GitHub.
+
+**Website:** [https://kurtsmurf.github.io/clips/](https://kurtsmurf.github.io/clips/)
+
+**Repository:** [https://github.com/kurtsmurf/clips](https://github.com/kurtsmurf/clips)
 
 ---
 
@@ -279,7 +295,7 @@ Lorre Huggan Portfolio
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/0528295a4aa3dd7afd051f61c1e7564e0cb66bf43188618c5ea6decb49fa4ede/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/8b44e1dfbe242fda7c5514147d89d236cf2eae108086a86e71df80bdcf8050d9/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -323,7 +339,7 @@ A super fast Tailwind/React repl.
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/5bcdeaaa4099809c0b7e43d1c32c398c4fc2664e46de537f410fa248ae0348d0/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/117c3f320a6faa638040b5f5b7623334d35eb899ac0f2386d720ed03dacebb53/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -347,7 +363,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/e741be5ce60c9350911ee6d18a3887669cbf5a45bc56de323130d3f335e344a4/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/30a343209eee49e13bbb9a053cfecc15761727933b11364ac039be29260d6f59/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
