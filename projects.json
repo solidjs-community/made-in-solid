@@ -126,6 +126,12 @@
 		"repo": "https://github.com/NikolaySuslov/krestianstvo"
 	},
 	{
+		"name": "clips",
+		"website": "https://kurtsmurf.github.io/clips/",
+		"repo": "https://github.com/kurtsmurf/clips",
+		"description": "drum pad for playing audio samples"
+	},
+	{
 		"name": "Is Market High?",
 		"website": "https://ismarkethigh.com",
 		"description": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
