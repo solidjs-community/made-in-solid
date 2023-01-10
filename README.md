@@ -14,11 +14,11 @@ Have you made something awesome with Solid? It can be both open-source or closed
 
 ## <!-- INSERT-PROJECTS:START -->
 
-<a href="https://codeimage.dev/"><img src="https://codeimage.dev/assets/codeimage-card.png" height="200"/></a>
+<a href="https://codeimage.dev/"><img src="https://github.com/riccardoperra/codeimage/blob/main/assets/codeimage_card.png?raw=true" height="200"/></a>
 
 ### CodeImage
 
-CodeImage is the next-gen tool to help developers to create and share beautiful screenshots of their source code
+CodeImage is the newest tool to help developers to manage their snippets and create beautiful screenshots of their source code
 
 **Website:** [https://codeimage.dev/](https://codeimage.dev/)
 
@@ -50,7 +50,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://nordvpn.org"><img src="https://s1.nordcdn.com/nordvpn/media/1.1717.0/images/meta/nordvpn-default.png" height="200"/></a>
+<a href="https://nordvpn.org"><img src="https://s1.nordcdn.com/nordvpn/media/1.1772.0/images/meta/nordvpn-default.png" height="200"/></a>
 
 ### NordVPN.org
 
@@ -70,7 +70,7 @@ Quickly generate a favicon from an image for your website for free.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/a3f0cd3ab4d783d9baa1c2cf13ae86e3fb20ed6545ab55ffe012f4adb8230f6d/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/9652c9eb5978178c931e209b4c4ae628da98c5083092493fd832adc90e191268/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -173,7 +173,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/a6ca8a31bad441cb36b98fee2e745097ca1ef437df0d204a6ed9b311765c89b9/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/b1d77f9ddc1c465326ad1f19615940ea7d440c695fe77e9fc53a2d0d5812d90d/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -197,7 +197,19 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/ca5351214d91f7616f9001d83e151db3e26914ce28eb9360c080c9a6c040e450/pfgithub/threadclient" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://asciinema.org/images/logo-red-949d10005bb389d1ae900a13b5ac53d7.svg?vsn=d" height="200"/></a>
+
+### asciinema-player
+
+Web player for terminal session recordings
+
+**Website:** [https://asciinema.org/](https://asciinema.org/)
+
+**Repository:** [https://github.com/asciinema/asciinema-player](https://github.com/asciinema/asciinema-player)
+
+---
+
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/21c64af21dfb957c59f6b576bb32acf45170b57c353f18ca6135f818f68c2c7e/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -209,7 +221,7 @@ a client for reddit and mastodon. extensible so it can support multiple platform
 
 ---
 
-<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/12741a99d41ac2fc0ebca1c0149f8d75553fe394abf0eb9a2240bf6c74cf6a22/vanillacode314/redditlattice" height="200"/></a>
+<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/d8642ff4a52e53e2ea1cd61913a7e728c70cc0b92a7cebe4f92554eb317bbd36/vanillacode314/redditlattice" height="200"/></a>
 
 ### RedditLattice
 
@@ -233,7 +245,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/3d8624ea6053e663dceca9ad4e26667ad24dd02ba0cc86a5354a32a94484a383/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/34bcf0a4cc88b5bc7fa0f8598f84d9bdbe64eea790668ebe7a53f996a22c70ed/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -253,7 +265,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/99836b08d4b04e5b451b848d2ce4005004887b0bc5933bba967deee1786a4742/NikolaySuslov/krestianstvo" height="200"/></a>
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/96ece7a7b2f55340fa33d6930cdc06beab11abd6e7819a294a0b43d09f69539f/NikolaySuslov/krestianstvo" height="200"/></a>
 
 ### Krestianstvo
 
@@ -265,7 +277,7 @@ Krestianstvo SDK 4 | Solid JS. Contribute to NikolaySuslov/krestianstvo developm
 
 ---
 
-<a href="https://kurtsmurf.github.io/clips/"><img src="https://opengraph.githubassets.com/8f2c816ce61d38dba5322c97c2e9ed49168fba7240865906c1b0666d30e62218/kurtsmurf/clips" height="200"/></a>
+<a href="https://kurtsmurf.github.io/clips/"><img src="https://opengraph.githubassets.com/5deb9ecd1bedcbf6770e1f1eca3e3d87cb853f292acb577814ba9e939d00ae5e/kurtsmurf/clips" height="200"/></a>
 
 ### clips
 
@@ -295,7 +307,7 @@ Lorre Huggan Portfolio
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/8b44e1dfbe242fda7c5514147d89d236cf2eae108086a86e71df80bdcf8050d9/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/d5f19d4e7b88b901ebd2f1b43715dc11736495d74104275268c2554788831263/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -329,9 +341,11 @@ an interactive block editor
 
 ---
 
+<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/c1f4f05da8f01f573495200c4a3e1ebe2dbd7a983e8956d5608737d14ffdd74b/lawrencecchen/sailwind" height="200"/></a>
+
 ### Sailwind
 
-A super fast Tailwind/React repl.
+A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -339,7 +353,7 @@ A super fast Tailwind/React repl.
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/117c3f320a6faa638040b5f5b7623334d35eb899ac0f2386d720ed03dacebb53/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/706beed465aa0729e1d7febf4e043d8468ef3782e5bd6a1604090f3ee4ae64a7/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -363,7 +377,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/30a343209eee49e13bbb9a053cfecc15761727933b11364ac039be29260d6f59/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/a023b3108d1f5d3cfa74cdef3417210743144804ce79d6dc5533d79b4cfc955c/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
