@@ -70,7 +70,17 @@ Quickly generate a favicon from an image for your website for free.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/9652c9eb5978178c931e209b4c4ae628da98c5083092493fd832adc90e191268/egoist/dropcode" height="200"/></a>
+<a href="https://calendrop.co"><img src="https://calendrop.co/og-image.png" height="200"/></a>
+
+### Calendrop landing page
+
+Easily display events on your website. Manage and showcase your upcoming events on your website without the hassle.
+
+**Website:** [https://calendrop.co](https://calendrop.co)
+
+---
+
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/94660f139a3c90ef284392ebaa48e48924f7723811b47dc3478d73ccfdece11b/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -173,7 +183,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/b1d77f9ddc1c465326ad1f19615940ea7d440c695fe77e9fc53a2d0d5812d90d/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/4f27d5c1035efbc1eaf22396dd96b90f73cf879c64611a1909d2cd2d96d795f0/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -245,7 +255,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/34bcf0a4cc88b5bc7fa0f8598f84d9bdbe64eea790668ebe7a53f996a22c70ed/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/60f93db73bcbb86b52d520f722c03422a367f365bc6ccfc2e46e42c094bee964/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -265,11 +275,11 @@ a groovebox for the browser
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/96ece7a7b2f55340fa33d6930cdc06beab11abd6e7819a294a0b43d09f69539f/NikolaySuslov/krestianstvo" height="200"/></a>
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/dc875f517ffcd748c5f5c2bb1d01e5d843e0b603b34b8e5436389e6c838d49c6/NikolaySuslov/krestianstvo" height="200"/></a>
 
 ### Krestianstvo
 
-Krestianstvo SDK 4 | Solid JS. Contribute to NikolaySuslov/krestianstvo development by creating an account on GitHub.
+Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications. - GitHub - NikolaySuslov/krestianstvo: Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications.
 
 **Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
 
@@ -277,7 +287,7 @@ Krestianstvo SDK 4 | Solid JS. Contribute to NikolaySuslov/krestianstvo developm
 
 ---
 
-<a href="https://kurtsmurf.github.io/clips/"><img src="https://opengraph.githubassets.com/5deb9ecd1bedcbf6770e1f1eca3e3d87cb853f292acb577814ba9e939d00ae5e/kurtsmurf/clips" height="200"/></a>
+<a href="https://kurtsmurf.github.io/clips/"><img src="https://opengraph.githubassets.com/5ad070ffb86fb6a533c87f5c2f4ee697025d4bfd59435f06a8165c2d8ef6fd31/kurtsmurf/clips" height="200"/></a>
 
 ### clips
 
@@ -307,7 +317,7 @@ Lorre Huggan Portfolio
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/d5f19d4e7b88b901ebd2f1b43715dc11736495d74104275268c2554788831263/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/c34dda1ba84ce3bddaf0f12f4c595845ebf97e9d2d5e94203cd53f409eefa6b4/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -341,11 +351,9 @@ an interactive block editor
 
 ---
 
-<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/c1f4f05da8f01f573495200c4a3e1ebe2dbd7a983e8956d5608737d14ffdd74b/lawrencecchen/sailwind" height="200"/></a>
-
 ### Sailwind
 
-A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
+A super fast Tailwind/React repl.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -353,7 +361,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/706beed465aa0729e1d7febf4e043d8468ef3782e5bd6a1604090f3ee4ae64a7/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/1e781dd02a11535da7122930590b157dbab60a654cefe10b4bcf7a61f531aa28/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -377,7 +385,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/a023b3108d1f5d3cfa74cdef3417210743144804ce79d6dc5533d79b4cfc955c/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/092e7643e6ecd2e588f86b538553ac69cfeb0359e53a910c03e41b085b3f4e2c/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
