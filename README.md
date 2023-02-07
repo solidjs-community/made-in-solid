@@ -50,7 +50,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://nordvpn.org"><img src="https://s1.nordcdn.com/nordvpn/media/1.1772.0/images/meta/nordvpn-default.png" height="200"/></a>
+<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.1772.0/images/meta/nordvpn-default.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=uZSsPX8v9wP951bUru_IPaTbj9PnJWbayxE7ASO4GDU." height="200"/></a>
 
 ### NordVPN.org
 
@@ -80,7 +80,19 @@ Easily display events on your website. Manage and showcase your upcoming events 
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/94660f139a3c90ef284392ebaa48e48924f7723811b47dc3478d73ccfdece11b/egoist/dropcode" height="200"/></a>
+<a href="https://inlang.com"><img src="https://inlang.com/favicon/favicon.ico" height="200"/></a>
+
+### inlang website
+
+Inlang provides dev tools, an editor to manage translations and automation via CI/CD to streamline localization.
+
+**Website:** [https://inlang.com](https://inlang.com)
+
+**Repository:** [https://github.com/inlang/inlang/tree/main/source-code/website](https://github.com/inlang/inlang/tree/main/source-code/website)
+
+---
+
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/dab360eb78f8404ae9e4bfda918b677b791f7e8fd6628c196b423caffb5d318e/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -183,11 +195,11 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/4f27d5c1035efbc1eaf22396dd96b90f73cf879c64611a1909d2cd2d96d795f0/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/274188dd7aa26811f3142c613d153c1f9347ef4ab3ac575d66a250b04391a05d/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
-a playground for making 3D art with lisp and math. Contribute to ianthehenry/bauble development by creating an account on GitHub.
+a playground for making 3D art with lisp and math. Contribute to ianthehenry/bauble.studio development by creating an account on GitHub.
 
 **Website:** [https://bauble.studio](https://bauble.studio)
 
@@ -231,7 +243,7 @@ a client for reddit and mastodon. extensible so it can support multiple platform
 
 ---
 
-<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/d8642ff4a52e53e2ea1cd61913a7e728c70cc0b92a7cebe4f92554eb317bbd36/vanillacode314/redditlattice" height="200"/></a>
+<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/ba1c6962af1d0a1ad8b3690982b36e8adfd47857a7e95154394b93cc8f513474/vanillacode314/redditlattice" height="200"/></a>
 
 ### RedditLattice
 
@@ -255,7 +267,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/60f93db73bcbb86b52d520f722c03422a367f365bc6ccfc2e46e42c094bee964/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/eb6d06ff5b7051008a94c923f6a959f098a918c179b562ec007751ca040318b5/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -275,11 +287,9 @@ a groovebox for the browser
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/dc875f517ffcd748c5f5c2bb1d01e5d843e0b603b34b8e5436389e6c838d49c6/NikolaySuslov/krestianstvo" height="200"/></a>
-
 ### Krestianstvo
 
-Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications. - GitHub - NikolaySuslov/krestianstvo: Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications.
+Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm
 
 **Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
 
@@ -351,9 +361,11 @@ an interactive block editor
 
 ---
 
+<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/c1f4f05da8f01f573495200c4a3e1ebe2dbd7a983e8956d5608737d14ffdd74b/lawrencecchen/sailwind" height="200"/></a>
+
 ### Sailwind
 
-A super fast Tailwind/React repl.
+A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -361,7 +373,7 @@ A super fast Tailwind/React repl.
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/1e781dd02a11535da7122930590b157dbab60a654cefe10b4bcf7a61f531aa28/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/c9cae2201b1e1f1fe1447214f49a0e25d27780f0fa00b18d776d12d6402891d5/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -385,11 +397,9 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/092e7643e6ecd2e588f86b538553ac69cfeb0359e53a910c03e41b085b3f4e2c/fabian-hiller/modular-forms" height="200"/></a>
-
 ### Modular Forms
 
-The modular form library for SolidJS. Contribute to fabian-hiller/modular-forms development by creating an account on GitHub.
+Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms.
 
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
