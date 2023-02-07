@@ -33,6 +33,12 @@
 		"describtion": "Landing page of the Calendrop startup app."
 	},
 	{
+		"name": "inlang website",
+		"website": "https://inlang.com",
+		"repo": "https://github.com/inlang/inlang/tree/main/source-code/website",
+		"description": "Developer-first localization infrastructure built on git"
+	},
+	{
 		"name": "Dropcode",
 		"website": "https://github.com/egoist/dropcode",
 		"repo": "https://github.com/egoist/dropcode",
