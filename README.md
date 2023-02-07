@@ -60,6 +60,14 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
+### Zapp!
+
+Zapp is a free online sandbox environment for building Flutter applications in the browser.
+
+**Website:** [https://zapp.run](https://zapp.run)
+
+---
+
 <a href="https://favicoon.com"><img src="https://favicoon.com/og-image-image.png" height="200"/></a>
 
 ### Favicoon
@@ -149,16 +157,6 @@ Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
 **Website:** [https://www.holodevdao.xyz/](https://www.holodevdao.xyz/)
 
 **Repository:** [https://github.com/naomihauret/holodevdao](https://github.com/naomihauret/holodevdao)
-
----
-
-<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
-
-### Zapp!
-
-A free online sandbox for building Dart & Flutter applications in the browser.
-
-**Website:** [https://zapp.run](https://zapp.run)
 
 ---
 
@@ -287,9 +285,11 @@ a groovebox for the browser
 
 ---
 
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/dc875f517ffcd748c5f5c2bb1d01e5d843e0b603b34b8e5436389e6c838d49c6/NikolaySuslov/krestianstvo" height="200"/></a>
+
 ### Krestianstvo
 
-Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm
+Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications. - GitHub - NikolaySuslov/krestianstvo: Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications.
 
 **Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
 
@@ -397,9 +397,11 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/e89d2bbb7bcb9e8eb89afe50141e8d762bad23ade96a91f83a8f1e73b8d52784/fabian-hiller/modular-forms" height="200"/></a>
+
 ### Modular Forms
 
-Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms.
+The modular form library for SolidJS. Contribute to fabian-hiller/modular-forms development by creating an account on GitHub.
 
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
