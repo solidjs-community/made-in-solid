@@ -23,6 +23,11 @@
 		"description": "NordVPN is a virtual private network and security tool that protects your online data. It’s part of Nord Security, a leading online security provider."
 	},
 	{
+		"name": "Zapp!",
+		"website": "https://zapp.run",
+		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
+	},
+	{
 		"name": "Favicoon",
 		"website": "https://favicoon.com",
 		"description": "Modern Image Favicon Generator built with Solid Start"
@@ -67,11 +72,6 @@
 		"website": "https://www.holodevdao.xyz/",
 		"repo": "https://github.com/naomihauret/holodevdao",
 		"description": "An alternative viewer for DevDAO NFT"
-	},
-	{
-		"name": "Zapp!",
-		"website": "https://zapp.run",
-		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
 	},
 	{
 		"name": "Chikn World",
