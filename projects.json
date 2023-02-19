@@ -147,12 +147,13 @@
 		"website": "https://kurtsmurf.github.io/clips/",
 		"repo": "https://github.com/kurtsmurf/clips",
 		"description": "drum pad for playing audio samples"
-	},{
-"name": "Yal",
-"website": "https://github.com/srsholmes/yal",
-"repo": "https://github.com/srsholmes/yal",
-"description": "Yet another launcher. A launcher app similar to Alfred, Raycast, ScriptKit etc."
-},
+	},
+	{
+		"name": "Yal",
+		"website": "https://github.com/srsholmes/yal",
+		"repo": "https://github.com/srsholmes/yal",
+		"description": "Yet another launcher. A launcher app similar to Alfred, Raycast, ScriptKit etc."
+	},
 	{
 		"name": "Is Market High?",
 		"website": "https://ismarkethigh.com",

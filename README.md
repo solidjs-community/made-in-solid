@@ -50,7 +50,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.1772.0/images/meta/nordvpn-default.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=uZSsPX8v9wP951bUru_IPaTbj9PnJWbayxE7ASO4GDU." height="200"/></a>
+<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.1846.0/images/meta/nordvpn-default.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=g43fgycgJY5iSB-vPvbE5qonaytD70gFOz-_x3WJeDc." height="200"/></a>
 
 ### NordVPN.org
 
@@ -60,9 +60,11 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
+<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
+
 ### Zapp!
 
-Zapp is a free online sandbox environment for building Flutter applications in the browser.
+A free online sandbox for building Dart & Flutter applications in the browser.
 
 **Website:** [https://zapp.run](https://zapp.run)
 
@@ -100,7 +102,7 @@ Inlang provides dev tools, an editor to manage translations and automation via C
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/dab360eb78f8404ae9e4bfda918b677b791f7e8fd6628c196b423caffb5d318e/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/83e6b67822fede26b1818131fd744f6d3e422aa372330d040c606776cd966b4d/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -193,7 +195,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/274188dd7aa26811f3142c613d153c1f9347ef4ab3ac575d66a250b04391a05d/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/b1addca8afb1a1748c9bd89a6318189766d3c91c3a79efb5b498a47c1d748e6c/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -265,7 +267,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/eb6d06ff5b7051008a94c923f6a959f098a918c179b562ec007751ca040318b5/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/7c69fe742c26c8a1413ec2effee6bf82f46b17c579464ce03d1e1ba836bc25bf/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -309,6 +311,18 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/4ba9570026fa4fe5a66ccd9c516b1f09ede82947f95b07f1dc96755bdd8018d8/srsholmes/yal" height="200"/></a>
+
+### Yal
+
+Yet Another Launcher. Contribute to srsholmes/yal development by creating an account on GitHub.
+
+**Website:** [https://github.com/srsholmes/yal](https://github.com/srsholmes/yal)
+
+**Repository:** [https://github.com/srsholmes/yal](https://github.com/srsholmes/yal)
+
+---
+
 ### Is Market High?
 
 ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries.
@@ -327,7 +341,7 @@ Lorre Huggan Portfolio
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/c34dda1ba84ce3bddaf0f12f4c595845ebf97e9d2d5e94203cd53f409eefa6b4/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/f030936b0f6a362c3d4d8341c16481bdd190e5d69b956fee9ff16c66a9f1bb9c/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -361,11 +375,9 @@ an interactive block editor
 
 ---
 
-<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/c1f4f05da8f01f573495200c4a3e1ebe2dbd7a983e8956d5608737d14ffdd74b/lawrencecchen/sailwind" height="200"/></a>
-
 ### Sailwind
 
-A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
+A super fast Tailwind/React repl.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -373,7 +385,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/c9cae2201b1e1f1fe1447214f49a0e25d27780f0fa00b18d776d12d6402891d5/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/001dc98cf4db8eae0749731c86638d01128129666e40e35c4f9dcfd7a8f98065/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -397,7 +409,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/e89d2bbb7bcb9e8eb89afe50141e8d762bad23ade96a91f83a8f1e73b8d52784/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/aa78f1564976600d90aaeef6851b9d3f2f40366437721129afa273c92def8b23/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
