@@ -184,7 +184,7 @@
 		"repo": "https://github.com/MrFoxPro/bloki"
 	},
 	{
-	  "name": "HTML to SolidJSX",
+		"name": "HTML to SolidJSX",
 		"description": "An online HTML to Solid JSX converter",
 		"website": "https://solidjs-community.github.io/html-to-solidjsx/",
 		"repo": "https://github.com/solidjs-community/html-to-solidjsx"

@@ -60,11 +60,9 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
-<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
-
 ### Zapp!
 
-A free online sandbox for building Dart & Flutter applications in the browser.
+Zapp is a free online sandbox environment for building Flutter applications in the browser.
 
 **Website:** [https://zapp.run](https://zapp.run)
 
@@ -102,7 +100,7 @@ Inlang provides dev tools, an editor to manage translations and automation via C
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/83e6b67822fede26b1818131fd744f6d3e422aa372330d040c606776cd966b4d/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/8cc656b987e6c174a671922cc70bfc9068021ed391241d225c8535990b10bf6f/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -267,7 +265,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/7c69fe742c26c8a1413ec2effee6bf82f46b17c579464ce03d1e1ba836bc25bf/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/5d7d3cd3e654fa9d5dec9c3c2f4056a9f2325c822ae4be69afbaeab0c819212a/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -287,11 +285,9 @@ a groovebox for the browser
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/dc875f517ffcd748c5f5c2bb1d01e5d843e0b603b34b8e5436389e6c838d49c6/NikolaySuslov/krestianstvo" height="200"/></a>
-
 ### Krestianstvo
 
-Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications. - GitHub - NikolaySuslov/krestianstvo: Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications.
+Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm
 
 **Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
 
@@ -311,7 +307,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/4ba9570026fa4fe5a66ccd9c516b1f09ede82947f95b07f1dc96755bdd8018d8/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/6cb88dd8e4fdb9742f0e38eef33d979f7526f0b73791754fa1a3df5054127d40/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -331,16 +327,6 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.lorrehuggan.com"><img src="https://www.lorrehuggan.com/image/Me.png" height="200"/></a>
-
-### Lorre Huggan personal website
-
-Lorre Huggan Portfolio
-
-**Website:** [https://www.lorrehuggan.com](https://www.lorrehuggan.com)
-
----
-
 <a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/f030936b0f6a362c3d4d8341c16481bdd190e5d69b956fee9ff16c66a9f1bb9c/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
@@ -350,6 +336,18 @@ Code that powers the SolidJS.com platform. Contribute to solidjs/solid-site deve
 **Website:** [https://www.solidjs.com](https://www.solidjs.com)
 
 **Repository:** [https://github.com/solidjs/solid-site](https://github.com/solidjs/solid-site)
+
+---
+
+<a href="https://chrome.google.com/webstore/detail/solid-devtools/kmcfjchnmmaeeagadbhoofajiopoceel"><img src="https://lh3.googleusercontent.com/j6ISkT39gg_yvg1S8FnhGSTK4iCqxnPg9hS5suqROuy8bbtqy55l9EL1aaIOFKOvmeEJtioEY2oI8I7wZYmQiW5rMdo=w128-h128-e365-rj-sc0x00ffffff" height="200"/></a>
+
+### Solid Devtools Chrome Extension
+
+Chrome Developer Tools extension for debugging SolidJS applications.
+
+**Website:** [https://chrome.google.com/webstore/detail/solid-devtools/kmcfjchnmmaeeagadbhoofajiopoceel](https://chrome.google.com/webstore/detail/solid-devtools/kmcfjchnmmaeeagadbhoofajiopoceel)
+
+**Repository:** [https://github.com/thetarnav/solid-devtools](https://github.com/thetarnav/solid-devtools)
 
 ---
 
@@ -375,6 +373,18 @@ an interactive block editor
 
 ---
 
+<a href="https://solidjs-community.github.io/html-to-solidjsx/"><img src="https://solidjs-community.github.io/html-to-solidjsx/og.png" height="200"/></a>
+
+### HTML to SolidJSX
+
+Convert your HTML to Solid JSX template
+
+**Website:** [https://solidjs-community.github.io/html-to-solidjsx/](https://solidjs-community.github.io/html-to-solidjsx/)
+
+**Repository:** [https://github.com/solidjs-community/html-to-solidjsx](https://github.com/solidjs-community/html-to-solidjsx)
+
+---
+
 ### Sailwind
 
 A super fast Tailwind/React repl.
@@ -385,7 +395,7 @@ A super fast Tailwind/React repl.
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/001dc98cf4db8eae0749731c86638d01128129666e40e35c4f9dcfd7a8f98065/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/e5164a182677a83abbf58403430e9846643e6014823e93b6f4a317ecbe42fa86/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -409,7 +419,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/aa78f1564976600d90aaeef6851b9d3f2f40366437721129afa273c92def8b23/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/2e67097e5ea9a60f707ddb41eb18c91b469c310994953a1269fd58e23d25ca39/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
