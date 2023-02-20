@@ -160,15 +160,16 @@
 		"description": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
 	},
 	{
-		"name": "Lorre Huggan personal website",
-		"website": "https://www.lorrehuggan.com",
-		"description": "Lorre Huggan's personal website and a portfolio, built with Astro and SolidJS."
-	},
-	{
 		"name": "Solid Website",
 		"description": "you already know",
 		"website": "https://www.solidjs.com",
 		"repo": "https://github.com/solidjs/solid-site"
+	},
+	{
+		"name": "Solid Devtools Chrome Extension",
+		"description": "Devtools Chrome extension for visualizing SolidJS reactivity graph",
+		"website": "https://chrome.google.com/webstore/detail/solid-devtools/kmcfjchnmmaeeagadbhoofajiopoceel",
+		"repo": "https://github.com/thetarnav/solid-devtools"
 	},
 	{
 		"name": "Solid Movies",
@@ -181,6 +182,12 @@
 		"description": "an interactive block editor",
 		"website": "https://bloki.app/",
 		"repo": "https://github.com/MrFoxPro/bloki"
+	},
+	{
+	  "name": "HTML to SolidJSX",
+		"description": "An online HTML to Solid JSX converter",
+		"website": "https://solidjs-community.github.io/html-to-solidjsx/",
+		"repo": "https://github.com/solidjs-community/html-to-solidjsx"
 	},
 	{
 		"name": "Sailwind",
