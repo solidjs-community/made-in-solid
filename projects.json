@@ -44,6 +44,11 @@
 		"description": "Developer-first localization infrastructure built on git"
 	},
 	{
+		"name": "Moonrepo Dashboard",
+		"website": "https://moonrepo.app",
+		"description": "A task runner and repo management tool for the web ecosystem, written in Rust."
+	},
+	{
 		"name": "Dropcode",
 		"website": "https://github.com/egoist/dropcode",
 		"repo": "https://github.com/egoist/dropcode",
