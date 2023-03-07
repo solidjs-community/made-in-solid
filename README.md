@@ -60,9 +60,11 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
+<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
+
 ### Zapp!
 
-Zapp is a free online sandbox environment for building Flutter applications in the browser.
+A free online sandbox for building Dart & Flutter applications in the browser.
 
 **Website:** [https://zapp.run](https://zapp.run)
 
@@ -100,7 +102,15 @@ Inlang provides dev tools, an editor to manage translations and automation via C
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/8cc656b987e6c174a671922cc70bfc9068021ed391241d225c8535990b10bf6f/egoist/dropcode" height="200"/></a>
+### Moonrepo Dashboard
+
+A task runner and repo management tool for the web ecosystem, written in Rust.
+
+**Website:** [https://moonrepo.app](https://moonrepo.app)
+
+---
+
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/75e47e1f09b6c4fa369d25b82a083fbc5a67cee3c3cb7e5c6aaa876d720e1c57/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -193,7 +203,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/b1addca8afb1a1748c9bd89a6318189766d3c91c3a79efb5b498a47c1d748e6c/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/8ec7acfd255cc1aa74572307568b08bae07fdc8c249c772a251bc0e27072b1a7/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -265,7 +275,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/5d7d3cd3e654fa9d5dec9c3c2f4056a9f2325c822ae4be69afbaeab0c819212a/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/e8c99804b105daf5c683c77c88b9f16f547ceb4d032a4485cf820eb2cd53b0f1/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -307,7 +317,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/6cb88dd8e4fdb9742f0e38eef33d979f7526f0b73791754fa1a3df5054127d40/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/462acbcd733eb8b1c1b3bbc041cb4174805a360ccb730aa3768e5562df31ca08/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -327,7 +337,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/f030936b0f6a362c3d4d8341c16481bdd190e5d69b956fee9ff16c66a9f1bb9c/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/f053c5543e4ffb575af0bc1424475ad303e38e28d744188c30616d0378ea976a/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -385,9 +395,11 @@ Convert your HTML to Solid JSX template
 
 ---
 
+<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/c1f4f05da8f01f573495200c4a3e1ebe2dbd7a983e8956d5608737d14ffdd74b/lawrencecchen/sailwind" height="200"/></a>
+
 ### Sailwind
 
-A super fast Tailwind/React repl.
+A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -395,7 +407,7 @@ A super fast Tailwind/React repl.
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/e5164a182677a83abbf58403430e9846643e6014823e93b6f4a317ecbe42fa86/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/9eb28c1ba11bc1b7e460c0557f0b280e2d0cb4c2e0bc8c125cdc01b15f39ba72/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -419,11 +431,11 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/2e67097e5ea9a60f707ddb41eb18c91b469c310994953a1269fd58e23d25ca39/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/02d878390d4fdf6ca0d199d1392976ed09fb268331983ffbc57e93147a47f058/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
-The modular form library for SolidJS. Contribute to fabian-hiller/modular-forms development by creating an account on GitHub.
+The modular and type-safe form library for SolidJS and Qwik - GitHub - fabian-hiller/modular-forms: The modular and type-safe form library for SolidJS and Qwik
 
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
