@@ -160,6 +160,11 @@
 		"description": "Yet another launcher. A launcher app similar to Alfred, Raycast, ScriptKit etc."
 	},
 	{
+		"name": "MastoMetrics",
+		"website": "https://mastometrics.com",
+		"description": "Analytics for Mastodon. An app built with SolidStart."
+	},
+	{
 		"name": "Is Market High?",
 		"website": "https://ismarkethigh.com",
 		"description": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
