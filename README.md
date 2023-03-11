@@ -60,6 +60,16 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
+<a href="https://post.news"><img src="https://post.news/images/post-logo.svg" height="200"/></a>
+
+### Post.news
+
+Post News
+
+**Website:** [https://post.news](https://post.news)
+
+---
+
 <a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
 
 ### Zapp!
@@ -295,11 +305,9 @@ a groovebox for the browser
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/dc875f517ffcd748c5f5c2bb1d01e5d843e0b603b34b8e5436389e6c838d49c6/NikolaySuslov/krestianstvo" height="200"/></a>
-
 ### Krestianstvo
 
-Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications. - GitHub - NikolaySuslov/krestianstvo: Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications.
+Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm
 
 **Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
 
@@ -407,9 +415,11 @@ Convert your HTML to Solid JSX template
 
 ---
 
+<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/c1f4f05da8f01f573495200c4a3e1ebe2dbd7a983e8956d5608737d14ffdd74b/lawrencecchen/sailwind" height="200"/></a>
+
 ### Sailwind
 
-A super fast Tailwind/React repl.
+A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -441,11 +451,9 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/74da8178b119b88884f603596163e209c719868d5bcef97192476f0893b6722b/fabian-hiller/modular-forms" height="200"/></a>
-
 ### Modular Forms
 
-The modular and type-safe form library for SolidJS and Qwik - GitHub - fabian-hiller/modular-forms: The modular and type-safe form library for SolidJS and Qwik
+Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms.
 
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
