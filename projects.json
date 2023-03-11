@@ -23,6 +23,11 @@
 		"description": "NordVPN is a virtual private network and security tool that protects your online data. It’s part of Nord Security, a leading online security provider."
 	},
 	{
+		"name": "Post.news",
+		"website": "https://post.news",
+		"description": "A Social Platform for Real People, Real News, and Civil Conversations"
+	},
+	{
 		"name": "Zapp!",
 		"website": "https://zapp.run",
 		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
