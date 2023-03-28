@@ -54,6 +54,12 @@
 		"description": "A task runner and repo management tool for the web ecosystem, written in Rust."
 	},
 	{
+		"name": "AoE4 Explorer",
+		"website": "https://aoe4world.com/explorer",
+		"repo": "https://github.com/aoe4world/explorer",
+		"description": "AoE4 World Explorer providing a detailed breakdown on what specific upgrades, tecnologies and bonuses make units perform better."
+	},
+	{
 		"name": "Dropcode",
 		"website": "https://github.com/egoist/dropcode",
 		"repo": "https://github.com/egoist/dropcode",
