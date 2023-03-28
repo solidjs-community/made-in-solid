@@ -50,7 +50,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.1846.0/images/meta/nordvpn-default.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=g43fgycgJY5iSB-vPvbE5qonaytD70gFOz-_x3WJeDc." height="200"/></a>
+<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.1877.0/images/meta/nordvpn-default.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=ZUPpvQkfz_FJ8SFxE0IsFh8DEL_BlchE0RHK7rqhb6U." height="200"/></a>
 
 ### NordVPN.org
 
@@ -100,7 +100,7 @@ Easily display events on your website. Manage and showcase your upcoming events 
 
 ---
 
-<a href="https://inlang.com"><img src="https://inlang.com/favicon/favicon.ico" height="200"/></a>
+<a href="https://inlang.com"><img src="https://inlang.com/favicon/safari-pinned-tab.svg" height="200"/></a>
 
 ### inlang website
 
@@ -120,7 +120,19 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/4a86c84f8ecaf4845faa54f84a12cfde85c4464ccd2e7841e85c8a80c7ff5e5d/egoist/dropcode" height="200"/></a>
+<a href="https://aoe4world.com/explorer"><img src="https://static.aoe4world.com/logo-social.png" height="200"/></a>
+
+### AoE4 Explorer
+
+AoE4 World is website with Age of Empires 4 news, stats, tools, and much more.
+
+**Website:** [https://aoe4world.com/explorer](https://aoe4world.com/explorer)
+
+**Repository:** [https://github.com/aoe4world/explorer](https://github.com/aoe4world/explorer)
+
+---
+
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/45a6465fbaa58d967c3c79a8f34cfd82b2251ff20a855c43de65c1f1b26be426/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -213,7 +225,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/8ec7acfd255cc1aa74572307568b08bae07fdc8c249c772a251bc0e27072b1a7/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/53a2a9df586956b8d74ab93be4fddcb6c5015826db7411eaa9f73f5c03e6c994/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -285,7 +297,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/b2729a439861e96f2b6ed414fc04e61b19a79be74e6c59fcbd5949e263b6f09e/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/904c08f3ee50e2f3e284ae294593641e79c78a78543f73004f21895081811444/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -305,9 +317,11 @@ a groovebox for the browser
 
 ---
 
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/dc875f517ffcd748c5f5c2bb1d01e5d843e0b603b34b8e5436389e6c838d49c6/NikolaySuslov/krestianstvo" height="200"/></a>
+
 ### Krestianstvo
 
-Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm
+Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications. - GitHub - NikolaySuslov/krestianstvo: Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in functional reactive paradigm using Solid JS. For developing serverless collaborative and multiplayer applications.
 
 **Website:** [https://play.krestianstvo.org](https://play.krestianstvo.org)
 
@@ -327,7 +341,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/c44d104a46546310cbcd3c0a392a572e14645905c2e18aca3dbc9b6ca3f00266/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/490cd6bc3c98b4420a272ebc91b20720bb97e3c2aabe9cbf41ed5028b27c002c/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -339,7 +353,7 @@ Yet Another Launcher. Contribute to srsholmes/yal development by creating an acc
 
 ---
 
-<a href="https://mastometrics.com"><img src="https://mastometrics.com/public/og-image.png" height="200"/></a>
+<a href="https://mastometrics.com"><img src="https://mastometrics.com/og-image.png" height="200"/></a>
 
 ### MastoMetrics
 
@@ -357,7 +371,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/f053c5543e4ffb575af0bc1424475ad303e38e28d744188c30616d0378ea976a/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/c6ccec55e33c9dedaf13d3907036674a5eaa6ef09ce5fa8ad2776a27db7b2a1c/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -427,7 +441,7 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/605069c744fc858a37c135ee09b45191943cbbd1bbc2f44a9a12586ac8970f1c/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/bf7a0fd04e7a61ccf6d737db07e735c95f04dec5e0e0b136504411317d652d26/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -451,9 +465,11 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/b8e2a24f29119096936ad1b941e8951a53d82c06595ac1c4363a4a38c8dd05ce/fabian-hiller/modular-forms" height="200"/></a>
+
 ### Modular Forms
 
-Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms.
+The modular and type-safe form library for SolidJS and Qwik - GitHub - fabian-hiller/modular-forms: The modular and type-safe form library for SolidJS and Qwik
 
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
