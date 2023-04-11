@@ -49,21 +49,15 @@
 		"description": "Developer-first localization infrastructure built on git"
 	},
 	{
-		"name": "Moonrepo Dashboard",
-		"website": "https://moonrepo.app",
-		"description": "A task runner and repo management tool for the web ecosystem, written in Rust."
+		"name": "MÁLÀ PROJECT Website",
+		"website": "https://www.malaproject.com",
+		"description": "Website of the MáLà Project - a restaurant brand founded with a mission to deliver joy through neo-Sichuanese cuisine."
 	},
 	{
 		"name": "AoE4 Explorer",
 		"website": "https://aoe4world.com/explorer",
 		"repo": "https://github.com/aoe4world/explorer",
 		"description": "AoE4 World Explorer providing a detailed breakdown on what specific upgrades, tecnologies and bonuses make units perform better."
-	},
-	{
-		"name": "Dropcode",
-		"website": "https://github.com/egoist/dropcode",
-		"repo": "https://github.com/egoist/dropcode",
-		"description": "Dropcode is a simple and lightweight code snippet manager. It's built with Tauri and SolidJS"
 	},
 	{
 		"name": "lpadder.",
@@ -84,21 +78,37 @@
 		"description": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
 	},
 	{
+		"name": "Moonrepo Dashboard",
+		"website": "https://moonrepo.app",
+		"description": "A task runner and repo management tool for the web ecosystem, written in Rust."
+	},
+	{
+		"name": "Dropcode",
+		"website": "https://github.com/egoist/dropcode",
+		"repo": "https://github.com/egoist/dropcode",
+		"description": "Dropcode is a simple and lightweight code snippet manager. It's built with Tauri and SolidJS"
+	},
+	{
 		"name": "HoloDevDao",
 		"website": "https://www.holodevdao.xyz/",
 		"repo": "https://github.com/naomihauret/holodevdao",
 		"description": "An alternative viewer for DevDAO NFT"
 	},
 	{
-		"name": "Chikn World",
-		"website": "https://chikn.world",
-		"description": "Chikn World breaks down the metrics and tokenomics so you don't have to!"
-	},
-	{
 		"name": "Solid Toast",
 		"website": "https://www.solid-toast.com",
 		"repo": "https://github.com/ardeora/solid-toast",
 		"description": "Customizable Toast Notifications for SolidJS"
+	},
+	{
+		"name": "MastoMetrics",
+		"website": "https://mastometrics.com",
+		"description": "Analytics for Mastodon. An app built with SolidStart."
+	},
+	{
+		"name": "Chikn World",
+		"website": "https://chikn.world",
+		"description": "Chikn World breaks down the metrics and tokenomics so you don't have to!"
 	},
 	{
 		"name": "Nook",
@@ -169,11 +179,6 @@
 		"website": "https://github.com/srsholmes/yal",
 		"repo": "https://github.com/srsholmes/yal",
 		"description": "Yet another launcher. A launcher app similar to Alfred, Raycast, ScriptKit etc."
-	},
-	{
-		"name": "MastoMetrics",
-		"website": "https://mastometrics.com",
-		"description": "Analytics for Mastodon. An app built with SolidStart."
 	},
 	{
 		"name": "Is Market High?",
