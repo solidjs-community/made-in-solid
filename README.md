@@ -134,6 +134,16 @@ AoE4 World is website with Age of Empires 4 news, stats, tools, and much more.
 
 ---
 
+<a href="https://www.dimeadozen.ai"><img src="https://www.dimeadozen.ai/meta-asset.png" height="200"/></a>
+
+### Dimeadozen.ai website
+
+Expertise from the best, powered by AI, tailored to your exact needs
+
+**Website:** [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
+
+---
+
 <a href="https://www.lpadder.ml"><img src="https://www.lpadder.ml/banner.png" height="200"/></a>
 
 ### lpadder.
@@ -381,7 +391,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/c8b17e6d43d263708ef56b19f870b29e6e1e21b255d38641e8c9fef71ab136f2/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/775f7422df429dc91572c21521e8b203ca4b6a5410589b012974fdaf005f0aa5/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -439,9 +449,11 @@ Convert your HTML to Solid JSX template
 
 ---
 
+<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/0258c273a22124fdb55571829863cc211a24a7cac3d77d2a63616062592796e6/lawrencecchen/sailwind" height="200"/></a>
+
 ### Sailwind
 
-A super fast Tailwind/React repl.
+A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
 
 **Website:** [https://sailwind.dev](https://sailwind.dev)
 
@@ -449,7 +461,7 @@ A super fast Tailwind/React repl.
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/84d9f4114cb5ee31895db99677cc9dd75029b62e201999379cea8db58380c589/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/51dea6d2330e0b6cda4db79a087daa32d75250a3da9ae1b862daace25717b2eb/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -473,7 +485,7 @@ Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by cr
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/f7aad06d0cf3f99748f38be0a691d91be39d5d7c11869dcd2d4bb4dfba1b3219/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/6a4198adef6b546a27ed34c24194c700c63da6b59650f7afa777aa8dc4809377/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
