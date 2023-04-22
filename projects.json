@@ -221,22 +221,16 @@
 		"repo": "https://github.com/solidjs-community/html-to-solidjsx"
 	},
 	{
-		"name": "Sailwind",
-		"website": "https://sailwind.dev",
-		"repo": "https://github.com/lawrencecchen/sailwind",
-		"description": "A super fast Tailwind/React repl."
-	},
-	{
 		"name": "HopeUI",
 		"website": "https://hope-ui.com/",
 		"repo": "https://github.com/hope-ui/hope-ui",
 		"description": "the component library you've hoped for"
 	},
 	{
-		"name": "Headless UI for SolidJS",
-		"website": "http://solid-headless.vercel.app",
-		"repo": "https://github.com/lxsmnsyc/solid-headless",
-		"description": "Headless UI for SolidJS"
+		"name": "Solid Primitives",
+		"website": "https://primitives.solidjs.community",
+		"repo": "https://github.com/solidjs-community/solid-primitives",
+		"description": "A library of high-quality primitives that extend SolidJS reactivity."
 	},
 	{
 		"name": "Modular Forms",
