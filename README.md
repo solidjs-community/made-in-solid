@@ -188,7 +188,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/a4bf4a70ada35e4b0617baf8027ed5b92f361bda86667b475a5d01abacedf500/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/1c6ab9b2f61135b647dfff65fbceff3933af9c689977be920a9472260aa01b12/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -255,7 +255,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/09b49c0ddd4d7fbb2fc5a147a36b2afe3e1ceb408567780c47632f9d97ad8942/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/daf27dabc7232e7001e9cd48c10c3225db3cbd0cd9e40399e07b265d48db76ee/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -327,7 +327,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/4f39944a3e82c22068a422d475c717180cb967f2a912dcedffa87e362fa59de5/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/c5960ba5c594c4616ef663643ee831f326ad9975a82869b979bc09d92d516d90/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -371,7 +371,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/490cd6bc3c98b4420a272ebc91b20720bb97e3c2aabe9cbf41ed5028b27c002c/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/0c05116d7dc71932ecfc2ba28555a8974b5865f607c4a215f7f018502f24b0aa/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -391,7 +391,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/775f7422df429dc91572c21521e8b203ca4b6a5410589b012974fdaf005f0aa5/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/81018f007e2a026d5d46fdbfff3dfaa97453188b754efbfce67452892da95a88/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -449,19 +449,7 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://sailwind.dev"><img src="https://opengraph.githubassets.com/0258c273a22124fdb55571829863cc211a24a7cac3d77d2a63616062592796e6/lawrencecchen/sailwind" height="200"/></a>
-
-### Sailwind
-
-A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind development by creating an account on GitHub.
-
-**Website:** [https://sailwind.dev](https://sailwind.dev)
-
-**Repository:** [https://github.com/lawrencecchen/sailwind](https://github.com/lawrencecchen/sailwind)
-
----
-
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/51dea6d2330e0b6cda4db79a087daa32d75250a3da9ae1b862daace25717b2eb/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/aa332e771ccfcedc47ffc7d65511808f1b00629486e007e2e23aa2fdc5403d39/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -473,19 +461,19 @@ A super fast Tailwind/React repl. Contribute to lawrencecchen/sailwind developme
 
 ---
 
-<a href="http://solid-headless.vercel.app"><img src="https://repository-images.githubusercontent.com/397940426/4a3e1810-cd70-4b9f-945a-69fd623812d1" height="200"/></a>
+<a href="https://primitives.solidjs.community"><img src="https://solid-primitives.netlify.app/og.jpeg" height="200"/></a>
 
-### Headless UI for SolidJS
+### Solid Primitives
 
-Headless UI for SolidJS. Contribute to lxsmnsyc/solid-headless development by creating an account on GitHub.
+A library of high-quality primitives that extend SolidJS reactivity
 
-**Website:** [http://solid-headless.vercel.app](http://solid-headless.vercel.app)
+**Website:** [https://primitives.solidjs.community](https://primitives.solidjs.community)
 
-**Repository:** [https://github.com/lxsmnsyc/solid-headless](https://github.com/lxsmnsyc/solid-headless)
+**Repository:** [https://github.com/solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/6a4198adef6b546a27ed34c24194c700c63da6b59650f7afa777aa8dc4809377/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/1cdff5ad6d857274eea6afc2fab69ca5a7bbf94c20deae51e9e3d4188435e876/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
