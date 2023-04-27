@@ -237,5 +237,11 @@
 		"website": "https://modularforms.dev",
 		"repo": "https://github.com/fabian-hiller/modular-forms",
 		"description": "Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms."
+	},
+	{
+		"name": "Devs Playing Poker",
+		"website": "https://devsplayingpoker.com",
+		"repo": "https://github.com/lvl-mattwells/DevsPlayingPoker",
+		"description": "A simple and fast tool to help your scrum team effort tickets as quickly as possible."
 	}
 ]
