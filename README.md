@@ -60,11 +60,11 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
-<a href="https://post.news"><img src="https://post.news/images/post-logo.svg" height="200"/></a>
+<a href="https://post.news"><img src="https://post.news/images/post-share.png" height="200"/></a>
 
 ### Post.news
 
-A Social Platform for Real People, Real News, and Civil Conversations
+Access journalism from premium publishers without subscriptions or ads. Discover, follow, and connect with diverse voices on topics you care about.
 
 **Website:** [https://post.news](https://post.news)
 
@@ -188,7 +188,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/1c6ab9b2f61135b647dfff65fbceff3933af9c689977be920a9472260aa01b12/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/9dfcfc98217b181a310b3fe5b12215000c0aed73e14dae1e3ee4f04cadcb2031/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -255,7 +255,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/daf27dabc7232e7001e9cd48c10c3225db3cbd0cd9e40399e07b265d48db76ee/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/852a4f51f273bdfca1d1a611bcfcbcfdf7edfcbe602d7dbd3c1ef075029d181a/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -327,7 +327,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/c5960ba5c594c4616ef663643ee831f326ad9975a82869b979bc09d92d516d90/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/b62358c0d22b9e0de7327157de7e975874633c8757b15443905b9f4f28796966/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -347,7 +347,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/dc875f517ffcd748c5f5c2bb1d01e5d843e0b603b34b8e5436389e6c838d49c6/NikolaySuslov/krestianstvo" height="200"/></a>
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/fa2faad4fef4a16216cb4fbb935c3e1a6d819dec00cbdba228f4fcd39e8b2561/NikolaySuslov/krestianstvo" height="200"/></a>
 
 ### Krestianstvo
 
@@ -371,7 +371,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/0c05116d7dc71932ecfc2ba28555a8974b5865f607c4a215f7f018502f24b0aa/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/6b537b77081540d5a8066ce0d96eeb60a6ca07e80d5ae2132c662b33ccf0d362/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -449,7 +449,7 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/aa332e771ccfcedc47ffc7d65511808f1b00629486e007e2e23aa2fdc5403d39/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/87efa11944f9081cb492c6c7e0ead46587d6028a2cff327fe84aa10e86c668c3/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -473,7 +473,7 @@ A library of high-quality primitives that extend SolidJS reactivity
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/1cdff5ad6d857274eea6afc2fab69ca5a7bbf94c20deae51e9e3d4188435e876/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/bca6d25e584cc0d9ca98d000c0af5e1d48a27059cccee428aa6fd7de41de7d49/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
@@ -482,6 +482,18 @@ The modular and type-safe form library for SolidJS and Qwik - GitHub - fabian-hi
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
 **Repository:** [https://github.com/fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms)
+
+---
+
+<a href="https://devsplayingpoker.com"><img src="https://devsplayingpoker.com/icons/DPP-Social.png" height="200"/></a>
+
+### Devs Playing Poker
+
+A simple and fast tool to help your scrum team effort tickets as quickly as possible.
+
+**Website:** [https://devsplayingpoker.com](https://devsplayingpoker.com)
+
+**Repository:** [https://github.com/lvl-mattwells/DevsPlayingPoker](https://github.com/lvl-mattwells/DevsPlayingPoker)
 
 <!-- INSERT-PROJECTS:END -->
 
