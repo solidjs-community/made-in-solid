@@ -148,7 +148,7 @@ Expertise from the best, powered by AI, tailored to your exact needs
 
 Rust gambling experience created in SolidJS
 
-**Website:** [https://rustmoment.com](https://rustmoment.com)
+**Website:** [https://rustmoment.com/jackpot](https://rustmoment.com/jackpot)
 
 ---
 
