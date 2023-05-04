@@ -144,6 +144,14 @@ Expertise from the best, powered by AI, tailored to your exact needs
 
 ---
 
+### RUSTMOMENT
+
+Rust gambling experience created in SolidJS
+
+**Website:** [https://rustmoment.com](https://rustmoment.com)
+
+---
+
 <a href="https://www.lpadder.ml"><img src="https://www.lpadder.ml/banner.png" height="200"/></a>
 
 ### lpadder.
@@ -188,7 +196,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/9dfcfc98217b181a310b3fe5b12215000c0aed73e14dae1e3ee4f04cadcb2031/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/7a0e70b5f5d3ad12ad1d04d791eb758202f8f98eeb4eef25312b65c1d6a0183c/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -255,7 +263,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/852a4f51f273bdfca1d1a611bcfcbcfdf7edfcbe602d7dbd3c1ef075029d181a/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/61b610ba65c55ed995e56980fd6db4b9b29bfe565f15624ba91730f25597131d/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -303,7 +311,7 @@ a client for reddit and mastodon. extensible so it can support multiple platform
 
 ---
 
-<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/c7a132cd9715e59f7abbc033cce887f5cb7f8788f37bf666a783e868c7633748/vanillacode314/redditlattice" height="200"/></a>
+<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/f0239b20aca135a24e822072b71291cd2b44985c648d2a325ad7f307e575c297/vanillacode314/redditlattice" height="200"/></a>
 
 ### RedditLattice
 
@@ -327,7 +335,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/b62358c0d22b9e0de7327157de7e975874633c8757b15443905b9f4f28796966/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/bd0274c6ecdd3b4af6f1fd34e36a051ce2d7d4acdea9156d52f5624f9a8094ad/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -371,7 +379,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/6b537b77081540d5a8066ce0d96eeb60a6ca07e80d5ae2132c662b33ccf0d362/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/7c349e8e6e42fd8fe1475a83e0fe160761fc512e08af5f39835db10b0df35fae/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -449,7 +457,7 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/87efa11944f9081cb492c6c7e0ead46587d6028a2cff327fe84aa10e86c668c3/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/dfdea57829701b604d7dfcf09e1b8e2c67ee217c7aa03f64fd25751f5ad0f967/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -473,11 +481,11 @@ A library of high-quality primitives that extend SolidJS reactivity
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/bca6d25e584cc0d9ca98d000c0af5e1d48a27059cccee428aa6fd7de41de7d49/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/577ff3467b9ab3de3dfc8b4f35868015370de2ff08f658c3426ebdf2fa1484f8/fabian-hiller/modular-forms" height="200"/></a>
 
 ### Modular Forms
 
-The modular and type-safe form library for SolidJS and Qwik - GitHub - fabian-hiller/modular-forms: The modular and type-safe form library for SolidJS and Qwik
+The modular and type-safe form library for SolidJS, Qwik and Preact - GitHub - fabian-hiller/modular-forms: The modular and type-safe form library for SolidJS, Qwik and Preact
 
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
