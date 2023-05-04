@@ -65,6 +65,11 @@
 		"description": "Validate Your Business Idea In Seconds"
 	},
 	{
+		"name": "RUSTMOMENT",
+		"website": "https://rustmoment.com",
+		"description": "Rust gambling experience created in SolidJS"
+	},
+	{
 		"name": "lpadder.",
 		"website": "https://www.lpadder.ml",
 		"repo": "https://github.com/Vexcited/lpadder",
