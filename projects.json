@@ -173,6 +173,12 @@
 		"description": "a groovebox for the browser"
 	},
 	{
+		"name": "xkcd search",
+		"website": "https://xkcd-search.netlify.app/",
+		"description": "A search engine for XKCD comics!",
+		"repo": "https://github.com/caizoryan/xkcd-better"
+	},
+	{
 		"name": "Krestianstvo",
 		"website": "https://play.krestianstvo.org",
 		"description": "Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm",
