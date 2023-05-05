@@ -196,7 +196,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/7a0e70b5f5d3ad12ad1d04d791eb758202f8f98eeb4eef25312b65c1d6a0183c/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/3a228ea3b90d1d84a289bdfbfb127de86d66d626180ccc70ce4adda388b83e7b/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -352,6 +352,18 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 a groovebox for the browser
 
 **Website:** [https://tahti.studio](https://tahti.studio)
+
+---
+
+<a href="https://xkcd-search.netlify.app/"><img src="https://opengraph.githubassets.com/99d0b573a7226cbdfe2411e0c37acf2332c6de5017e7aa10e61b39739846aa82/caizoryan/xkcd-better" height="200"/></a>
+
+### xkcd search
+
+Contribute to caizoryan/xkcd-better development by creating an account on GitHub.
+
+**Website:** [https://xkcd-search.netlify.app/](https://xkcd-search.netlify.app/)
+
+**Repository:** [https://github.com/caizoryan/xkcd-better](https://github.com/caizoryan/xkcd-better)
 
 ---
 
