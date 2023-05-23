@@ -1,5 +1,10 @@
 [
 	{
+		"name": "GitBook App",
+		"description": "GitBook is a documentation platform for you and your team to create beautiful documentation for everything from products to internal knowledge-bases and APIs.",
+		"website": "https://app.gitbook.com/"
+	},
+	{
 		"name": "CodeImage",
 		"description": "Create elegant screenshots of your source code",
 		"website": "https://codeimage.dev/",
