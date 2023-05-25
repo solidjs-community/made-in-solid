@@ -112,6 +112,24 @@ Inlang provides dev tools, an editor to manage translations and automation via C
 
 ---
 
+### KusKus
+
+A fast todo app with AI
+
+**Website:** [https://kuskus.app](https://kuskus.app)
+
+---
+
+<a href="https://andagain.uk"><img src="https://cdn.sanity.io/images/cmcv945w/production/aced783352c685a3e9f70b467af605b1520c1ced-1200x630.png" height="200"/></a>
+
+### AndAgain
+
+Bringing together strategy, creativity and innovation to build digital products and campaigns that live everywhere.
+
+**Website:** [https://andagain.uk](https://andagain.uk)
+
+---
+
 <a href="https://www.malaproject.com"><img src="https://www.malaproject.com/assets/meta-e24a6525.jpg" height="200"/></a>
 
 ### MÁLÀ PROJECT Website
