@@ -49,6 +49,16 @@
 		"description": "Developer-first localization infrastructure built on git"
 	},
 	{
+		"name": "KusKus",
+		"website": "https://kuskus.app",
+		"description": "A fast todo app with AI"
+	},
+	{
+		"name": "AndAgain",
+		"website": "https://andagain.uk",
+		"description": "London Digital Agency."
+	},
+	{
 		"name": "MÁLÀ PROJECT Website",
 		"website": "https://www.malaproject.com",
 		"description": "Website of the MáLà Project - a restaurant brand founded with a mission to deliver joy through neo-Sichuanese cuisine."
