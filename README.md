@@ -134,6 +134,16 @@ AoE4 World is website with Age of Empires 4 news, stats, tools, and much more.
 
 ---
 
+<a href="https://degreehub.com"><img src="https://assets.voxpoplabs.com/fa826279f68a44938efad2b367a00d/share.png" height="200"/></a>
+
+### DegreeHub
+
+Degree Hub helps prospective students get matched with universities and programs they’ll love.
+
+**Website:** [https://degreehub.com](https://degreehub.com)
+
+---
+
 <a href="https://www.dimeadozen.ai"><img src="https://www.dimeadozen.ai/meta-asset.png" height="200"/></a>
 
 ### Dimeadozen.ai website
@@ -196,7 +206,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/3a228ea3b90d1d84a289bdfbfb127de86d66d626180ccc70ce4adda388b83e7b/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/620f5aa2ff724b6a2790cd659ddff9e79cfa029b67abd8949a67131d4840d11a/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -263,7 +273,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/61b610ba65c55ed995e56980fd6db4b9b29bfe565f15624ba91730f25597131d/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/9ede8e0e64ff33e1484ebc10b7ccc592d795e8db9ee566abf7edd00ea493711b/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -335,7 +345,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/bd0274c6ecdd3b4af6f1fd34e36a051ce2d7d4acdea9156d52f5624f9a8094ad/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/357bb56fdec7b0bba2875dcf6cc702f4cf52989214fbf2130a1d860f3fb14a9b/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -355,7 +365,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://xkcd-search.netlify.app/"><img src="https://opengraph.githubassets.com/99d0b573a7226cbdfe2411e0c37acf2332c6de5017e7aa10e61b39739846aa82/caizoryan/xkcd-better" height="200"/></a>
+<a href="https://xkcd-search.netlify.app/"><img src="https://opengraph.githubassets.com/775a827629f1ad9640d11eb74411f507dd504b44c57f3c1d4b4db61996b4e686/caizoryan/xkcd-better" height="200"/></a>
 
 ### xkcd search
 
@@ -367,7 +377,7 @@ Contribute to caizoryan/xkcd-better development by creating an account on GitHub
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/fa2faad4fef4a16216cb4fbb935c3e1a6d819dec00cbdba228f4fcd39e8b2561/NikolaySuslov/krestianstvo" height="200"/></a>
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/40ef7a0e3fba1637b08c90b4524ce5a8034b102fd65796419b0ae2b79fff5452/NikolaySuslov/krestianstvo" height="200"/></a>
 
 ### Krestianstvo
 
@@ -391,7 +401,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/7c349e8e6e42fd8fe1475a83e0fe160761fc512e08af5f39835db10b0df35fae/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/da568c6e9e4a125638589fe9bbbb01878b88f1abbb6ff6b4e110b556798ce5e1/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -411,7 +421,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/81018f007e2a026d5d46fdbfff3dfaa97453188b754efbfce67452892da95a88/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/d99b835775d1c3a13aff06e957936611d2894d53810658f6856a0a9d067a8ddd/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -469,7 +479,7 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/dfdea57829701b604d7dfcf09e1b8e2c67ee217c7aa03f64fd25751f5ad0f967/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/f14e08b0dbe8bbbf646fa2f7da6c2f9566bcfd952b8ff4c1836612fd4d8d7e8b/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -493,11 +503,11 @@ A library of high-quality primitives that extend SolidJS reactivity
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://opengraph.githubassets.com/577ff3467b9ab3de3dfc8b4f35868015370de2ff08f658c3426ebdf2fa1484f8/fabian-hiller/modular-forms" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://modularforms.dev/assets/blurred-code-dark.73430189.jpg" height="200"/></a>
 
 ### Modular Forms
 
-The modular and type-safe form library for SolidJS, Qwik and Preact - GitHub - fabian-hiller/modular-forms: The modular and type-safe form library for SolidJS, Qwik and Preact
+Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms.
 
 **Website:** [https://modularforms.dev](https://modularforms.dev)
 
