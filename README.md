@@ -224,7 +224,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/620f5aa2ff724b6a2790cd659ddff9e79cfa029b67abd8949a67131d4840d11a/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/f0ecb98781d33e1e4d0189536ea3ccb47543088a3de17040df99117655fabaae/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -291,7 +291,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/9ede8e0e64ff33e1484ebc10b7ccc592d795e8db9ee566abf7edd00ea493711b/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/a3d98c4d5f670ab578cc40b997b7455e7d8a18808d26a180077cf7ab01680d6d/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -363,7 +363,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/357bb56fdec7b0bba2875dcf6cc702f4cf52989214fbf2130a1d860f3fb14a9b/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/2c4b1ef2182ea8e0007340de7473371e3268f1ed6ee1fdd6ac1bfc2876f21983/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -419,7 +419,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/da568c6e9e4a125638589fe9bbbb01878b88f1abbb6ff6b4e110b556798ce5e1/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/47a014b6b1685a0bb9a8abaa8ebf714da689cc5b0a28b22c91707cf83cc397aa/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -533,8 +533,6 @@ Modular Forms is a JavaScript library that is build on top of SolidJS to validat
 
 ---
 
-<a href="https://devsplayingpoker.com"><img src="https://devsplayingpoker.com/icons/DPP-Social.png" height="200"/></a>
-
 ### Devs Playing Poker
 
 A simple and fast tool to help your scrum team effort tickets as quickly as possible.
@@ -542,6 +540,18 @@ A simple and fast tool to help your scrum team effort tickets as quickly as poss
 **Website:** [https://devsplayingpoker.com](https://devsplayingpoker.com)
 
 **Repository:** [https://github.com/lvl-mattwells/DevsPlayingPoker](https://github.com/lvl-mattwells/DevsPlayingPoker)
+
+---
+
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/20dc030ff0ddb510d778144c00952feada96a113f77cfb651ee273fcffdbd739/Nerimity/nerimity-web" height="200"/></a>
+
+### Nerimity
+
+A modern and sleek chat app. Contribute to Nerimity/nerimity-web development by creating an account on GitHub.
+
+**Website:** [https://nerimity.com](https://nerimity.com)
+
+**Repository:** [https://github.com/Nerimity/nerimity-web](https://github.com/Nerimity/nerimity-web)
 
 <!-- INSERT-PROJECTS:END -->
 
