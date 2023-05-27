@@ -269,5 +269,11 @@
 		"website": "https://devsplayingpoker.com",
 		"repo": "https://github.com/lvl-mattwells/DevsPlayingPoker",
 		"description": "A simple and fast tool to help your scrum team effort tickets as quickly as possible."
+	},
+	{
+		"name": "Nerimity",
+		"website": "https://nerimity.com",
+		"repo": "https://github.com/Nerimity/nerimity-web",
+		"description": "A modern and sleek chat app."
 	}
 ]
