@@ -50,7 +50,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.1896.0/images/meta/nordvpn-default.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=_4-de725MPwl5sMlRXZGGFToxfjGXWZmiGNMwwNrtuw." height="200"/></a>
+<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.2031.0/images/meta/nordvpn-default.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=bhIaOuLlLhmCGd9Uyto4Mt34_GY5ZMELtdeDr8y02fo." height="200"/></a>
 
 ### NordVPN.org
 
@@ -70,6 +70,18 @@ Access journalism from premium publishers without subscriptions or ads. Discover
 
 ---
 
+<a href="https://vrite.io"><img src="https://vrite.io/meta-image.png" height="200"/></a>
+
+### Vrite
+
+Open-Source headless Content Management System (CMS) for technical content, like programming blogs, documentation, and more.
+
+**Website:** [https://vrite.io](https://vrite.io)
+
+**Repository:** [https://github.com/vriteio/vrite](https://github.com/vriteio/vrite)
+
+---
+
 <a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
 
 ### Zapp!
@@ -80,13 +92,25 @@ A free online sandbox for building Dart & Flutter applications in the browser.
 
 ---
 
-<a href="https://favicoon.com"><img src="https://favicoon.com/og-image-image.png" height="200"/></a>
+<a href="https://nitropage.com"><img src="https://nitropage.com/media/mhcbozdajb8neefws63t8rba.svg" height="200"/></a>
 
-### Favicoon
+### Nitropage
 
-Quickly generate a favicon from an image for your website for free.
+A free visual website editor, powered with your own SolidJS components.
 
-**Website:** [https://favicoon.com](https://favicoon.com)
+**Website:** [https://nitropage.com](https://nitropage.com)
+
+---
+
+<a href="https://inlang.com"><img src="https://inlang.com/images/inlang-social-image.jpg" height="200"/></a>
+
+### inlang website
+
+inlang's ecosystem makes adapting your application to different markets easy.
+
+**Website:** [https://inlang.com](https://inlang.com)
+
+**Repository:** [https://github.com/inlang/inlang/tree/main/source-code/website](https://github.com/inlang/inlang/tree/main/source-code/website)
 
 ---
 
@@ -100,31 +124,11 @@ Easily display events on your website. Manage and showcase your upcoming events 
 
 ---
 
-<a href="https://inlang.com"><img src="https://inlang.com/favicon/safari-pinned-tab.svg" height="200"/></a>
-
-### inlang website
-
-Inlang provides dev tools, an editor to manage translations and automation via CI/CD to streamline localization.
-
-**Website:** [https://inlang.com](https://inlang.com)
-
-**Repository:** [https://github.com/inlang/inlang/tree/main/source-code/website](https://github.com/inlang/inlang/tree/main/source-code/website)
-
----
-
-### KusKus
-
-A fast todo app with AI
-
-**Website:** [https://kuskus.app](https://kuskus.app)
-
----
-
-<a href="https://andagain.uk"><img src="https://cdn.sanity.io/images/cmcv945w/production/aced783352c685a3e9f70b467af605b1520c1ced-1200x630.png" height="200"/></a>
+<a href="https://andagain.uk"><img src="https://cdn.sanity.io/images/cmcv945w/production/7d1942d2c2c08a4513990e0bbd3cdf878e0fb393-1200x630.png" height="200"/></a>
 
 ### AndAgain
 
-Bringing together strategy, creativity and innovation to build digital products and campaigns that live everywhere.
+Bringing together strategy, creativity and technology to build digital products and campaigns for global clients. Specialists in engaging and immersive projects across luxury, fashion, retail, entertainment and business.
 
 **Website:** [https://andagain.uk](https://andagain.uk)
 
@@ -137,6 +141,14 @@ Bringing together strategy, creativity and innovation to build digital products 
 MáLà Project is a Chinese restaurant founded by four friends with a mission to deliver joy through the flavors of Sichuan cuisine. Michelin Bib recommend since its first year open, it’s a place to gather round with friends and family.
 
 **Website:** [https://www.malaproject.com](https://www.malaproject.com)
+
+---
+
+### KusKus
+
+A fast todo app with AI
+
+**Website:** [https://kuskus.app](https://kuskus.app)
 
 ---
 
@@ -166,7 +178,7 @@ Degree Hub helps prospective students get matched with universities and programs
 
 ### Dimeadozen.ai website
 
-Expertise from the best, powered by AI, tailored to your exact needs
+Validate your business idea with AI. DimeADozen.ai offers AI-powered business validation services for entrepreneurs and startups. Leverage artificial intelligence to validate your startup idea today.
 
 **Website:** [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
 
@@ -180,11 +192,9 @@ Rust gambling experience created in SolidJS
 
 ---
 
-<a href="https://www.lpadder.ml"><img src="https://www.lpadder.ml/banner.png" height="200"/></a>
-
 ### lpadder.
 
-Web application that lets you play Launchpad covers directly from your browser.
+Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser.
 
 **Website:** [https://www.lpadder.ml](https://www.lpadder.ml)
 
@@ -224,7 +234,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/f0ecb98781d33e1e4d0189536ea3ccb47543088a3de17040df99117655fabaae/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/da4b8c9da2a3c6099d710e48e0bd627731a4f721e2e310cc8e4abccd3c485e60/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -291,7 +301,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/a3d98c4d5f670ab578cc40b997b7455e7d8a18808d26a180077cf7ab01680d6d/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/f8a7467223ae58abdf7b76f86a7c0ab6958c5a69ab053dd31d6773da1b69471c/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -327,7 +337,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/21c64af21dfb957c59f6b576bb32acf45170b57c353f18ca6135f818f68c2c7e/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/b6c1699a8e297716de39264e76d11a5e7918433225b0fc0a62b2e9800b2ca32d/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -339,7 +349,7 @@ a client for reddit and mastodon. extensible so it can support multiple platform
 
 ---
 
-<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/f0239b20aca135a24e822072b71291cd2b44985c648d2a325ad7f307e575c297/vanillacode314/redditlattice" height="200"/></a>
+<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/a43cb240263fbf2a24da9e929c33eb0368fbfb09bff8bbfe84ab4ec7ef476c68/vanillacode314/redditlattice" height="200"/></a>
 
 ### RedditLattice
 
@@ -363,11 +373,11 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/2c4b1ef2182ea8e0007340de7473371e3268f1ed6ee1fdd6ac1bfc2876f21983/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/e1089654d6d574b0cc938b8d50fa7e5810c82094b4a05c2e05ed5b68b53e642e/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
-🗂️ The front end of Alist V3. Contribute to alist-org/alist-web development by creating an account on GitHub.
+🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs) - GitHub - alist-org/alist-web: 🗂️ The front end of Alist V3 (A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs)
 
 **Website:** [https://alist.pages.dev](https://alist.pages.dev)
 
@@ -383,7 +393,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://xkcd-search.netlify.app/"><img src="https://opengraph.githubassets.com/775a827629f1ad9640d11eb74411f507dd504b44c57f3c1d4b4db61996b4e686/caizoryan/xkcd-better" height="200"/></a>
+<a href="https://xkcd-search.netlify.app/"><img src="https://opengraph.githubassets.com/32596da0dae546724df79aea2674f05decb5f987332323a7832a4b71d7d61e92/caizoryan/xkcd-better" height="200"/></a>
 
 ### xkcd search
 
@@ -395,7 +405,7 @@ Contribute to caizoryan/xkcd-better development by creating an account on GitHub
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/40ef7a0e3fba1637b08c90b4524ce5a8034b102fd65796419b0ae2b79fff5452/NikolaySuslov/krestianstvo" height="200"/></a>
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/7658ac8f7c39dbb99f3e047aeb4aed9ab3d39b25042670fda883a68face18fe2/NikolaySuslov/krestianstvo" height="200"/></a>
 
 ### Krestianstvo
 
@@ -419,7 +429,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/47a014b6b1685a0bb9a8abaa8ebf714da689cc5b0a28b22c91707cf83cc397aa/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/09a6025fdded94af614fec288d0e7ea82ab3b16532abd589affc10fafbf55600/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -439,7 +449,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/d99b835775d1c3a13aff06e957936611d2894d53810658f6856a0a9d067a8ddd/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/476405b89288c57459841a3fc14a166451f71e136f701cd31bdea8be2f22c08b/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -497,7 +507,7 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/f14e08b0dbe8bbbf646fa2f7da6c2f9566bcfd952b8ff4c1836612fd4d8d7e8b/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/48c8a70d10f91771e25bfb8a85124a5db9328ed1140042b77550e46bf2a06d43/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -521,8 +531,6 @@ A library of high-quality primitives that extend SolidJS reactivity
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://modularforms.dev/assets/blurred-code-dark.73430189.jpg" height="200"/></a>
-
 ### Modular Forms
 
 Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms.
@@ -532,6 +540,8 @@ Modular Forms is a JavaScript library that is build on top of SolidJS to validat
 **Repository:** [https://github.com/fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms)
 
 ---
+
+<a href="https://devsplayingpoker.com"><img src="https://devsplayingpoker.com/icons/DPP-Social.png" height="200"/></a>
 
 ### Devs Playing Poker
 
@@ -543,7 +553,7 @@ A simple and fast tool to help your scrum team effort tickets as quickly as poss
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/20dc030ff0ddb510d778144c00952feada96a113f77cfb651ee273fcffdbd739/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/3d0b6600acd28164e20f61eac2ec3d8b5399601fb57fbc5dfdae0a76af60327d/Nerimity/nerimity-web" height="200"/></a>
 
 ### Nerimity
 
