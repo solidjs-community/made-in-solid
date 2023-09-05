@@ -28,13 +28,19 @@
 		"description": "A Social Platform for Real People, Real News, and Civil Conversations"
 	},
 	{
+		"name": "Vrite",
+		"website": "https://vrite.io",
+		"repo": "https://github.com/vriteio/vrite",
+		"description": "Open-source headless Content Management System"
+	},
+	{
 		"name": "Zapp!",
 		"website": "https://zapp.run",
 		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
 	},
 	{
 		"name": "Nitropage",
-		"website": "https://nitropage.com"
+		"website": "https://nitropage.com",
 		"description": "Visual website editing for individualists"
 	},
 	{
