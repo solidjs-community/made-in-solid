@@ -33,14 +33,9 @@
 		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
 	},
 	{
-		"name": "Favicoon",
-		"website": "https://favicoon.com",
-		"description": "Modern Image Favicon Generator built with Solid Start"
-	},
-	{
-		"name": "Calendrop landing page",
-		"website": "https://calendrop.co",
-		"describtion": "Landing page of the Calendrop startup app."
+		"name": "Nitropage",
+		"website": "https://nitropage.com"
+		"description": "Visual website editing for individualists"
 	},
 	{
 		"name": "inlang website",
@@ -49,9 +44,9 @@
 		"description": "Developer-first localization infrastructure built on git"
 	},
 	{
-		"name": "KusKus",
-		"website": "https://kuskus.app",
-		"description": "A fast todo app with AI"
+		"name": "Calendrop landing page",
+		"website": "https://calendrop.co",
+		"describtion": "Landing page of the Calendrop startup app."
 	},
 	{
 		"name": "AndAgain",
@@ -62,6 +57,11 @@
 		"name": "MÁLÀ PROJECT Website",
 		"website": "https://www.malaproject.com",
 		"description": "Website of the MáLà Project - a restaurant brand founded with a mission to deliver joy through neo-Sichuanese cuisine."
+	},
+	{
+		"name": "KusKus",
+		"website": "https://kuskus.app",
+		"description": "A fast todo app with AI"
 	},
 	{
 		"name": "AoE4 Explorer",
