@@ -100,13 +100,15 @@ A free visual website editor, powered with your own SolidJS components.
 
 **Website:** [https://nitropage.com](https://nitropage.com)
 
+**Repository:** [https://git.lufrai.org/nitropage/nitropage](https://git.lufrai.org/nitropage/nitropage)
+
 ---
 
 <a href="https://inlang.com"><img src="https://inlang.com/images/inlang-social-image.jpg" height="200"/></a>
 
 ### inlang website
 
-inlang's ecosystem makes adapting your application to different markets easy.
+Developer-first localization infrastructure built on git
 
 **Website:** [https://inlang.com](https://inlang.com)
 
@@ -114,11 +116,7 @@ inlang's ecosystem makes adapting your application to different markets easy.
 
 ---
 
-<a href="https://calendrop.co"><img src="https://calendrop.co/og-image.png" height="200"/></a>
-
 ### Calendrop landing page
-
-Easily display events on your website. Manage and showcase your upcoming events on your website without the hassle.
 
 **Website:** [https://calendrop.co](https://calendrop.co)
 
@@ -234,7 +232,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/da4b8c9da2a3c6099d710e48e0bd627731a4f721e2e310cc8e4abccd3c485e60/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/3e0fdb2402b0236198ed3c6095ad4ab9949ce16ee6d05a1bb8db72656a367096/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -301,7 +299,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/f8a7467223ae58abdf7b76f86a7c0ab6958c5a69ab053dd31d6773da1b69471c/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/2c225f04477818e247bf84bdb1aa7a57ff829c8b8aa0fbd6c26171224dd8532a/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -373,7 +371,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/e1089654d6d574b0cc938b8d50fa7e5810c82094b4a05c2e05ed5b68b53e642e/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/3ca67a6418b3631e5f818dccc229d56350886d66fa4c40d90f1399e55072e5ec/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -429,7 +427,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/09a6025fdded94af614fec288d0e7ea82ab3b16532abd589affc10fafbf55600/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/a5038d99e7cd8d0d9c6a01a1f9c1d6dc952b31810786c8b4b32a5878d59f6231/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -449,7 +447,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/476405b89288c57459841a3fc14a166451f71e136f701cd31bdea8be2f22c08b/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/4f50be04283e95a80346a145d94afbf83b2b23073ab16cd889ff2dc619609f80/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -507,7 +505,7 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/48c8a70d10f91771e25bfb8a85124a5db9328ed1140042b77550e46bf2a06d43/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/2fd1eda5bd9dc937fa1b5e8a807b51244bd296841ccdd1a04623581dc9b68bf4/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -530,6 +528,8 @@ A library of high-quality primitives that extend SolidJS reactivity
 **Repository:** [https://github.com/solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
 
 ---
+
+<a href="https://modularforms.dev"><img src="https://modularforms.dev/assets/blurred-code-dark.73430189.jpg" height="200"/></a>
 
 ### Modular Forms
 
