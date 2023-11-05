@@ -50,7 +50,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.2031.0/images/meta/nordvpn-default.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=bhIaOuLlLhmCGd9Uyto4Mt34_GY5ZMELtdeDr8y02fo." height="200"/></a>
+<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.2104.0/images/global/icons/main.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=HOT68I78g40quaG7LWGTtFTFgikFPtHmy5gbAJhh2Us." height="200"/></a>
 
 ### NordVPN.org
 
@@ -74,7 +74,7 @@ Access journalism from premium publishers without subscriptions or ads. Discover
 
 ### Vrite
 
-Open-Source headless Content Management System (CMS) for technical content, like programming blogs, documentation, and more.
+Open-Source, collaborative developer content platform for documentation, technical blogs, and more.
 
 **Website:** [https://vrite.io](https://vrite.io)
 
@@ -82,11 +82,9 @@ Open-Source headless Content Management System (CMS) for technical content, like
 
 ---
 
-<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
-
 ### Zapp!
 
-A free online sandbox for building Dart & Flutter applications in the browser.
+Zapp is a free online sandbox environment for building Flutter applications in the browser.
 
 **Website:** [https://zapp.run](https://zapp.run)
 
@@ -104,15 +102,25 @@ A free visual website editor, powered with your own SolidJS components.
 
 ---
 
-<a href="https://inlang.com"><img src="https://inlang.com/images/inlang-social-image.jpg" height="200"/></a>
+<a href="https://inlang.com"><img src="https://inlang.com/opengraph/inlang-social-image.jpg" height="200"/></a>
 
 ### inlang website
 
-Developer-first localization infrastructure built on git
+Quickly find the best solution to globalize (i18n) your app. inlang helps you to expand to new markets and acquire new customers.
 
 **Website:** [https://inlang.com](https://inlang.com)
 
 **Repository:** [https://github.com/inlang/inlang/tree/main/source-code/website](https://github.com/inlang/inlang/tree/main/source-code/website)
+
+---
+
+<a href="https://aster.page/"><img src="https://aster.page/_astro/aster-logo-v3.e74aa5ef.svg" height="200"/></a>
+
+### Aster App & Website
+
+An all-in-one visual tool for individuals and small teams that want to build fast and stay organized.
+
+**Website:** [https://aster.page/](https://aster.page/)
 
 ---
 
@@ -126,7 +134,7 @@ Developer-first localization infrastructure built on git
 
 ### AndAgain
 
-Bringing together strategy, creativity and technology to build digital products and campaigns for global clients. Specialists in engaging and immersive projects across luxury, fashion, retail, entertainment and business.
+Bringing together strategy, creativity and technology to build digital products and campaigns for global clients. Specialists in engaging and immersive digital projects across luxury, fashion, retail, entertainment and business. Based in London + Liverpool, with global reach.
 
 **Website:** [https://andagain.uk](https://andagain.uk)
 
@@ -232,7 +240,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/3e0fdb2402b0236198ed3c6095ad4ab9949ce16ee6d05a1bb8db72656a367096/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/46e9b176359a8e5a66a41fd2fbf5abbc3f98d66f3fb235d633c860098ad0f050/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -299,7 +307,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/2c225f04477818e247bf84bdb1aa7a57ff829c8b8aa0fbd6c26171224dd8532a/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/dd445431ae6a15091e9e9d5ba2d861edb24f7416e1609e0ec67075d3b1b212d7/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -335,7 +343,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/b6c1699a8e297716de39264e76d11a5e7918433225b0fc0a62b2e9800b2ca32d/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/3159683701296663095d5a7eb06baf7726178b9140737a360e940c143512b5ed/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -371,7 +379,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/3ca67a6418b3631e5f818dccc229d56350886d66fa4c40d90f1399e55072e5ec/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/c2111a730f21908f83872a0850f5ae77ef868638e46199653db396a3ee0eec75/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -415,7 +423,7 @@ Krestianstvo SDK 4 is the OSS implementation of Croquet architecture in function
 
 ---
 
-<a href="https://kurtsmurf.github.io/clips/"><img src="https://opengraph.githubassets.com/5ad070ffb86fb6a533c87f5c2f4ee697025d4bfd59435f06a8165c2d8ef6fd31/kurtsmurf/clips" height="200"/></a>
+<a href="https://kurtsmurf.github.io/clips/"><img src="https://opengraph.githubassets.com/bf0bcaf8b6f0d385f755caaf4aa6968c392cb3ee71863387e6268b0432b27cd2/kurtsmurf/clips" height="200"/></a>
 
 ### clips
 
@@ -427,7 +435,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/a5038d99e7cd8d0d9c6a01a1f9c1d6dc952b31810786c8b4b32a5878d59f6231/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/6025022e46d2d18a2aac46ae5588556559339f709b1d50242dd57599bbc48995/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -447,7 +455,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/4f50be04283e95a80346a145d94afbf83b2b23073ab16cd889ff2dc619609f80/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/47b4c68137293d61450e499c739348100dd5ea1895faf1b04d3df4f699627bed/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -505,7 +513,7 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/2fd1eda5bd9dc937fa1b5e8a807b51244bd296841ccdd1a04623581dc9b68bf4/hope-ui/hope-ui" height="200"/></a>
+<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/1fdf7634278bdc3d1367b355f3284814b143d4f369124bf0b7f80034ad5ede04/hope-ui/hope-ui" height="200"/></a>
 
 ### HopeUI
 
@@ -553,7 +561,7 @@ A simple and fast tool to help your scrum team effort tickets as quickly as poss
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/3d0b6600acd28164e20f61eac2ec3d8b5399601fb57fbc5dfdae0a76af60327d/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/d2dd896c5027e46e032a767bb76ee58983028d25ca359a596f8d8860f073c625/Nerimity/nerimity-web" height="200"/></a>
 
 ### Nerimity
 
