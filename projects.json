@@ -76,6 +76,12 @@
 		"description": "A fast todo app with AI"
 	},
 	{
+		"name": "Learn Anything",
+		"website": "https://learn-anything.xyz/",
+		"repo": "https://github.com/learn-anything/learn-anything.xyz",
+		"description": "Organize world's knowledge, explore connections and curate learning paths"
+	},
+	{
 		"name": "AoE4 Explorer",
 		"website": "https://aoe4world.com/explorer",
 		"repo": "https://github.com/aoe4world/explorer",
