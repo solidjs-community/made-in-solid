@@ -51,6 +51,11 @@
 		"description": "Developer-first localization infrastructure built on git"
 	},
 	{
+		"name": "Aster App & Website",
+		"website": "https://aster.page/",
+		"description": "Aster is a Knowledge Management App for the Information Era."
+	},
+	{
 		"name": "Calendrop landing page",
 		"website": "https://calendrop.co",
 		"describtion": "Landing page of the Calendrop startup app."
