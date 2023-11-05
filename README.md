@@ -82,9 +82,11 @@ Open-Source, collaborative developer content platform for documentation, technic
 
 ---
 
+<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
+
 ### Zapp!
 
-Zapp is a free online sandbox environment for building Flutter applications in the browser.
+A free online sandbox for building Dart & Flutter applications in the browser.
 
 **Website:** [https://zapp.run](https://zapp.run)
 
@@ -155,6 +157,18 @@ MáLà Project is a Chinese restaurant founded by four friends with a mission to
 A fast todo app with AI
 
 **Website:** [https://kuskus.app](https://kuskus.app)
+
+---
+
+<a href="https://learn-anything.xyz/"><img src="https://repository-images.githubusercontent.com/65219131/b8d4210d-7791-47bb-b2f7-4911b43f805b" height="200"/></a>
+
+### Learn Anything
+
+Organize world's knowledge, explore connections and curate learning paths - GitHub - learn-anything/learn-anything.xyz: Organize world's knowledge, explore connections and curate learning paths
+
+**Website:** [https://learn-anything.xyz/](https://learn-anything.xyz/)
+
+**Repository:** [https://github.com/learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz)
 
 ---
 
@@ -561,11 +575,9 @@ A simple and fast tool to help your scrum team effort tickets as quickly as poss
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/d2dd896c5027e46e032a767bb76ee58983028d25ca359a596f8d8860f073c625/Nerimity/nerimity-web" height="200"/></a>
-
 ### Nerimity
 
-A modern and sleek chat app. Contribute to Nerimity/nerimity-web development by creating an account on GitHub.
+A modern and sleek chat app.
 
 **Website:** [https://nerimity.com](https://nerimity.com)
 
