@@ -26,11 +26,9 @@ CodeImage is the newest tool to help developers to manage their snippets and cre
 
 ---
 
-<a href="https://lume.io/"><img src="https://repository-images.githubusercontent.com/28641272/6c3b9c00-1e8d-11eb-9eb4-457e08c7c444" height="200"/></a>
-
 ### LUME
 
-Create 3D web applications with HTML. Bring a new depth to your DOM! - GitHub - lume/lume: Create 3D web applications with HTML. Bring a new depth to your DOM!
+A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences
 
 **Website:** [https://lume.io/](https://lume.io/)
 
@@ -82,16 +80,6 @@ Open-Source, collaborative developer content platform for documentation, technic
 
 ---
 
-<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
-
-### Zapp!
-
-A free online sandbox for building Dart & Flutter applications in the browser.
-
-**Website:** [https://zapp.run](https://zapp.run)
-
----
-
 <a href="https://nitropage.com"><img src="https://nitropage.com/media/mhcbozdajb8neefws63t8rba.svg" height="200"/></a>
 
 ### Nitropage
@@ -104,6 +92,16 @@ A free visual website editor, powered with your own SolidJS components.
 
 ---
 
+<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
+
+### Zapp!
+
+A free online sandbox for building Dart & Flutter applications in the browser.
+
+**Website:** [https://zapp.run](https://zapp.run)
+
+---
+
 <a href="https://inlang.com"><img src="https://inlang.com/opengraph/inlang-social-image.jpg" height="200"/></a>
 
 ### inlang website
@@ -113,6 +111,16 @@ Quickly find the best solution to globalize (i18n) your app. inlang helps you to
 **Website:** [https://inlang.com](https://inlang.com)
 
 **Repository:** [https://github.com/inlang/inlang/tree/main/source-code/website](https://github.com/inlang/inlang/tree/main/source-code/website)
+
+---
+
+<a href="https://mochia.net/"><img src="https://mochia.net/apple-touch-icon.png" height="200"/></a>
+
+### Mochia
+
+Explore the world of Mochia!
+
+**Website:** [https://mochia.net/](https://mochia.net/)
 
 ---
 
@@ -254,7 +262,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/46e9b176359a8e5a66a41fd2fbf5abbc3f98d66f3fb235d633c860098ad0f050/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/c0c0509c741c611209b018b3c3ad4e087ccb42fd23efe36482b11fce496c6e69/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -321,7 +329,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/dd445431ae6a15091e9e9d5ba2d861edb24f7416e1609e0ec67075d3b1b212d7/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/52554142b86405c6cbc79276fd4f6ec1611aa08b208c7c23f93e70f657107ec7/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -357,7 +365,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/3159683701296663095d5a7eb06baf7726178b9140737a360e940c143512b5ed/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/448b84fba48c1a89015ab4f3b647c1d98b3fe3fa022319d23d0d9cae4aa39905/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -393,7 +401,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/c2111a730f21908f83872a0850f5ae77ef868638e46199653db396a3ee0eec75/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/32019a9f0e613bbb1e94d66f8872ea2fca4a08e809e4837015472127b34655a3/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -449,7 +457,7 @@ Contribute to kurtsmurf/clips development by creating an account on GitHub.
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/6025022e46d2d18a2aac46ae5588556559339f709b1d50242dd57599bbc48995/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/2e04a7b4954c5a6a4503a007f25c77194922a50090cb394644c162899908c6d9/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -469,7 +477,7 @@ ismarkethigh.com pictures performance of the entire market and its groups: 11 se
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/47b4c68137293d61450e499c739348100dd5ea1895faf1b04d3df4f699627bed/solidjs/solid-site" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://opengraph.githubassets.com/019bd316ab0d54adc91e22d50b79bbf0c2bf5594bec6bad28996b49c031dc256/solidjs/solid-site" height="200"/></a>
 
 ### Solid Website
 
@@ -527,11 +535,9 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://hope-ui.com/"><img src="https://opengraph.githubassets.com/1fdf7634278bdc3d1367b355f3284814b143d4f369124bf0b7f80034ad5ede04/hope-ui/hope-ui" height="200"/></a>
-
 ### HopeUI
 
-🤞 The SolidJS component library you've hoped for. Contribute to hope-ui/hope-ui development by creating an account on GitHub.
+the component library you've hoped for
 
 **Website:** [https://hope-ui.com/](https://hope-ui.com/)
 
@@ -539,19 +545,15 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://primitives.solidjs.community"><img src="https://solid-primitives.netlify.app/og.jpeg" height="200"/></a>
-
 ### Solid Primitives
 
-A library of high-quality primitives that extend SolidJS reactivity
+A library of high-quality primitives that extend SolidJS reactivity.
 
 **Website:** [https://primitives.solidjs.community](https://primitives.solidjs.community)
 
 **Repository:** [https://github.com/solidjs-community/solid-primitives](https://github.com/solidjs-community/solid-primitives)
 
 ---
-
-<a href="https://modularforms.dev"><img src="https://modularforms.dev/assets/blurred-code-dark.73430189.jpg" height="200"/></a>
 
 ### Modular Forms
 
@@ -562,8 +564,6 @@ Modular Forms is a JavaScript library that is build on top of SolidJS to validat
 **Repository:** [https://github.com/fabian-hiller/modular-forms](https://github.com/fabian-hiller/modular-forms)
 
 ---
-
-<a href="https://devsplayingpoker.com"><img src="https://devsplayingpoker.com/icons/DPP-Social.png" height="200"/></a>
 
 ### Devs Playing Poker
 
