@@ -34,21 +34,26 @@
 		"description": "Open-source headless Content Management System"
 	},
 	{
-		"name": "Zapp!",
-		"website": "https://zapp.run",
-		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
-	},
-	{
 		"name": "Nitropage",
 		"website": "https://nitropage.com",
 		"repo": "https://git.lufrai.org/nitropage/nitropage",
 		"description": "Visual website editing for individualists"
 	},
 	{
+		"name": "Zapp!",
+		"website": "https://zapp.run",
+		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
+	},
+	{
 		"name": "inlang website",
 		"website": "https://inlang.com",
 		"repo": "https://github.com/inlang/inlang/tree/main/source-code/website",
 		"description": "Developer-first localization infrastructure built on git"
+	},
+	{
+		"name": "Mochia",
+		"website": "https://mochia.net/",
+		"description": "Feed, play, train, and explore with your very own pets."
 	},
 	{
 		"name": "Aster App & Website",
