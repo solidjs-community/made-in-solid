@@ -1,302 +1,302 @@
 [
 	{
 		"name": "CodeImage",
-		"description": "Create elegant screenshots of your source code",
-		"website": "https://codeimage.dev/",
+		"desc": "Create elegant screenshots of your source code",
+		"link": "https://codeimage.dev/",
 		"repo": "https://github.com/riccardoperra/codeimage"
 	},
 	{
 		"name": "LUME",
-		"website": "https://lume.io/",
+		"link": "https://lume.io/",
 		"repo": "https://github.com/lume/lume",
-		"description": "A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences"
+		"desc": "A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences"
 	},
 	{
 		"name": "BundleJS",
-		"website": "https://bundlejs.com",
+		"link": "https://bundlejs.com",
 		"repo": "https://github.com/okikio/bundle",
-		"description": "An online tool to quickly bundle & minify your projects"
+		"desc": "An online tool to quickly bundle & minify your projects"
 	},
 	{
 		"name": "NordVPN.org",
-		"website": "https://nordvpn.org",
-		"description": "NordVPN is a virtual private network and security tool that protects your online data. It’s part of Nord Security, a leading online security provider."
+		"link": "https://nordvpn.org",
+		"desc": "NordVPN is a virtual private network and security tool that protects your online data. It’s part of Nord Security, a leading online security provider."
 	},
 	{
 		"name": "Post.news",
-		"website": "https://post.news",
-		"description": "A Social Platform for Real People, Real News, and Civil Conversations"
+		"link": "https://post.news",
+		"desc": "A Social Platform for Real People, Real News, and Civil Conversations"
 	},
 	{
 		"name": "Vrite",
-		"website": "https://vrite.io",
+		"link": "https://vrite.io",
 		"repo": "https://github.com/vriteio/vrite",
-		"description": "Open-source headless Content Management System"
+		"desc": "Open-source headless Content Management System"
 	},
 	{
 		"name": "Nitropage",
-		"website": "https://nitropage.com",
+		"link": "https://nitropage.com",
 		"repo": "https://git.lufrai.org/nitropage/nitropage",
-		"description": "Visual website editing for individualists"
+		"desc": "Visual website editing for individualists"
 	},
 	{
 		"name": "Zapp!",
-		"website": "https://zapp.run",
-		"description": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
+		"link": "https://zapp.run",
+		"desc": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
 	},
 	{
 		"name": "inlang website",
-		"website": "https://inlang.com",
+		"link": "https://inlang.com",
 		"repo": "https://github.com/inlang/inlang/tree/main/source-code/website",
-		"description": "Developer-first localization infrastructure built on git"
+		"desc": "Developer-first localization infrastructure built on git"
 	},
 	{
 		"name": "Mochia",
-		"website": "https://mochia.net/",
-		"description": "Feed, play, train, and explore with your very own pets."
+		"link": "https://mochia.net/",
+		"desc": "Feed, play, train, and explore with your very own pets."
 	},
 	{
 		"name": "Aster App & Website",
-		"website": "https://aster.page/",
-		"description": "Aster is a Knowledge Management App for the Information Era."
+		"link": "https://aster.page/",
+		"desc": "Aster is a Knowledge Management App for the Information Era."
 	},
 	{
 		"name": "Calendrop landing page",
-		"website": "https://calendrop.co",
+		"link": "https://calendrop.co",
 		"describtion": "Landing page of the Calendrop startup app."
 	},
 	{
 		"name": "AndAgain",
-		"website": "https://andagain.uk",
-		"description": "London Digital Agency."
+		"link": "https://andagain.uk",
+		"desc": "London Digital Agency."
 	},
 	{
 		"name": "MÁLÀ PROJECT Website",
-		"website": "https://www.malaproject.com",
-		"description": "Website of the MáLà Project - a restaurant brand founded with a mission to deliver joy through neo-Sichuanese cuisine."
+		"link": "https://www.malaproject.com",
+		"desc": "Website of the MáLà Project - a restaurant brand founded with a mission to deliver joy through neo-Sichuanese cuisine."
 	},
 	{
 		"name": "KusKus",
-		"website": "https://kuskus.app",
-		"description": "A fast todo app with AI"
+		"link": "https://kuskus.app",
+		"desc": "A fast todo app with AI"
 	},
 	{
 		"name": "Learn Anything",
-		"website": "https://learn-anything.xyz/",
+		"link": "https://learn-anything.xyz/",
 		"repo": "https://github.com/learn-anything/learn-anything.xyz",
-		"description": "Organize world's knowledge, explore connections and curate learning paths"
+		"desc": "Organize world's knowledge, explore connections and curate learning paths"
 	},
 	{
 		"name": "AoE4 Explorer",
-		"website": "https://aoe4world.com/explorer",
+		"link": "https://aoe4world.com/explorer",
 		"repo": "https://github.com/aoe4world/explorer",
-		"description": "AoE4 World Explorer providing a detailed breakdown on what specific upgrades, tecnologies and bonuses make units perform better."
+		"desc": "AoE4 World Explorer providing a detailed breakdown on what specific upgrades, tecnologies and bonuses make units perform better."
 	},
 	{
 		"name": "DegreeHub",
-		"website": "https://degreehub.com",
-		"description": "Find out which Canadian undergraduate programs could be a fit for you"
+		"link": "https://degreehub.com",
+		"desc": "Find out which Canadian undergraduate programs could be a fit for you"
 	},
 	{
 		"name": "Dimeadozen.ai website",
-		"website": "https://www.dimeadozen.ai",
-		"description": "Validate Your Business Idea In Seconds"
+		"link": "https://www.dimeadozen.ai",
+		"desc": "Validate Your Business Idea In Seconds"
 	},
 	{
 		"name": "RUSTMOMENT",
-		"website": "https://rustmoment.com/jackpot",
-		"description": "Rust gambling experience created in SolidJS"
+		"link": "https://rustmoment.com/jackpot",
+		"desc": "Rust gambling experience created in SolidJS"
 	},
 	{
 		"name": "lpadder.",
-		"website": "https://www.lpadder.ml",
+		"link": "https://www.lpadder.ml",
 		"repo": "https://github.com/Vexcited/lpadder",
-		"description": "Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser."
+		"desc": "Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser."
 	},
 	{
 		"name": "Ambient",
-		"website": "https://ambient-rvx.web.app",
+		"link": "https://ambient-rvx.web.app",
 		"repo": "https://github.com/kevintyj/ambient",
-		"description": "Color Checker Tool"
+		"desc": "Color Checker Tool"
 	},
 	{
 		"name": "LocatorJS (Runtime & Extension)",
-		"website": "https://www.locatorjs.com",
+		"link": "https://www.locatorjs.com",
 		"repo": "https://github.com/infi-pc/locatorjs",
-		"description": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
+		"desc": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
 	},
 	{
 		"name": "Moonrepo Dashboard",
-		"website": "https://moonrepo.app",
-		"description": "A task runner and repo management tool for the web ecosystem, written in Rust."
+		"link": "https://moonrepo.app",
+		"desc": "A task runner and repo management tool for the web ecosystem, written in Rust."
 	},
 	{
 		"name": "Dropcode",
-		"website": "https://github.com/egoist/dropcode",
+		"link": "https://github.com/egoist/dropcode",
 		"repo": "https://github.com/egoist/dropcode",
-		"description": "Dropcode is a simple and lightweight code snippet manager. It's built with Tauri and SolidJS"
+		"desc": "Dropcode is a simple and lightweight code snippet manager. It's built with Tauri and SolidJS"
 	},
 	{
 		"name": "HoloDevDao",
-		"website": "https://www.holodevdao.xyz/",
+		"link": "https://www.holodevdao.xyz/",
 		"repo": "https://github.com/naomihauret/holodevdao",
-		"description": "An alternative viewer for DevDAO NFT"
+		"desc": "An alternative viewer for DevDAO NFT"
 	},
 	{
 		"name": "Solid Toast",
-		"website": "https://www.solid-toast.com",
+		"link": "https://www.solid-toast.com",
 		"repo": "https://github.com/ardeora/solid-toast",
-		"description": "Customizable Toast Notifications for SolidJS"
+		"desc": "Customizable Toast Notifications for SolidJS"
 	},
 	{
 		"name": "MastoMetrics",
-		"website": "https://mastometrics.com",
-		"description": "Analytics for Mastodon. An app built with SolidStart."
+		"link": "https://mastometrics.com",
+		"desc": "Analytics for Mastodon. An app built with SolidStart."
 	},
 	{
 		"name": "Chikn World",
-		"website": "https://chikn.world",
-		"description": "Chikn World breaks down the metrics and tokenomics so you don't have to!"
+		"link": "https://chikn.world",
+		"desc": "Chikn World breaks down the metrics and tokenomics so you don't have to!"
 	},
 	{
 		"name": "Nook",
-		"website": "https://nook.glo.quebec",
-		"description": "Markdown-Powered Intelligent Knowledge Manager"
+		"link": "https://nook.glo.quebec",
+		"desc": "Markdown-Powered Intelligent Knowledge Manager"
 	},
 	{
 		"name": "Bauble",
-		"website": "https://bauble.studio",
+		"link": "https://bauble.studio",
 		"repo": "https://github.com/ianthehenry/bauble",
-		"description": "A playground for making 3D art with lisp and math"
+		"desc": "A playground for making 3D art with lisp and math"
 	},
 	{
 		"name": "Globle: Capitals",
-		"website": "https://globle-capitals.com",
+		"link": "https://globle-capitals.com",
 		"repo": "https://github.com/the-abe-train/globle-capitals",
-		"description": "Globle: Capitals is a daily guessing game. Use your geography skills to find the Mystery Capital City!"
+		"desc": "Globle: Capitals is a daily guessing game. Use your geography skills to find the Mystery Capital City!"
 	},
 	{
 		"name": "asciinema-player",
-		"website": "https://asciinema.org/",
+		"link": "https://asciinema.org/",
 		"repo": "https://github.com/asciinema/asciinema-player",
-		"description": "Web player for terminal session recordings"
+		"desc": "Web player for terminal session recordings"
 	},
 	{
 		"name": "ThreadClient",
-		"website": "https://thread.pfg.pw",
+		"link": "https://thread.pfg.pw",
 		"repo": "https://github.com/pfgithub/threadclient",
-		"description": "a client for reddit and mastodon. extensible so it can support multiple platforms"
+		"desc": "a client for reddit and mastodon. extensible so it can support multiple platforms"
 	},
 	{
 		"name": "RedditLattice",
-		"website": "https://redditlattice.netlify.app",
+		"link": "https://redditlattice.netlify.app",
 		"repo": "https://github.com/vanillacode314/redditlattice",
-		"description": "A reddit viewer for image based subreddits. Lays out the images in a tight lattice."
+		"desc": "A reddit viewer for image based subreddits. Lays out the images in a tight lattice."
 	},
 	{
 		"name": "Räppli",
-		"website": "https://rappli.ch",
+		"link": "https://rappli.ch",
 		"repo": "https://git.lufrai.com/rappli/rappli",
-		"description": "Räppli is a free web app for creating Swiss invoices including QR code."
+		"desc": "Räppli is a free web app for creating Swiss invoices including QR code."
 	},
 	{
 		"name": "AList frontend",
-		"website": "https://alist.pages.dev",
-		"description": "A file list program that supports multiple storage, powered by Gin and Solidjs",
+		"link": "https://alist.pages.dev",
+		"desc": "A file list program that supports multiple storage, powered by Gin and Solidjs",
 		"repo": "https://github.com/alist-org/alist-web"
 	},
 	{
+		"name": "Nerimity",
+		"link": "https://nerimity.com",
+		"repo": "https://github.com/Nerimity/nerimity-web",
+		"desc": "A modern and sleek chat app."
+	},
+	{
 		"name": "tahti",
-		"website": "https://tahti.studio",
-		"description": "a groovebox for the browser"
+		"link": "https://tahti.studio",
+		"desc": "a groovebox for the browser"
 	},
 	{
 		"name": "xkcd search",
-		"website": "https://xkcd-search.netlify.app/",
-		"description": "A search engine for XKCD comics!",
+		"link": "https://xkcd-search.netlify.app/",
+		"desc": "A search engine for XKCD comics!",
 		"repo": "https://github.com/caizoryan/xkcd-better"
 	},
 	{
 		"name": "Krestianstvo",
-		"website": "https://play.krestianstvo.org",
-		"description": "Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm",
+		"link": "https://play.krestianstvo.org",
+		"desc": "Open Source implementation of the Croquet application architecture in Functional Reactive Paradigm",
 		"repo": "https://github.com/NikolaySuslov/krestianstvo"
 	},
 	{
 		"name": "clips",
-		"website": "https://kurtsmurf.github.io/clips/",
+		"link": "https://kurtsmurf.github.io/clips/",
 		"repo": "https://github.com/kurtsmurf/clips",
-		"description": "drum pad for playing audio samples"
+		"desc": "drum pad for playing audio samples"
 	},
 	{
 		"name": "Yal",
-		"website": "https://github.com/srsholmes/yal",
+		"link": "https://github.com/srsholmes/yal",
 		"repo": "https://github.com/srsholmes/yal",
-		"description": "Yet another launcher. A launcher app similar to Alfred, Raycast, ScriptKit etc."
+		"desc": "Yet another launcher. A launcher app similar to Alfred, Raycast, ScriptKit etc."
 	},
 	{
 		"name": "Is Market High?",
-		"website": "https://ismarkethigh.com",
-		"description": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
+		"link": "https://ismarkethigh.com",
+		"desc": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
 	},
 	{
 		"name": "Solid Website",
-		"description": "you already know",
-		"website": "https://www.solidjs.com",
+		"desc": "you already know",
+		"link": "https://www.solidjs.com",
 		"repo": "https://github.com/solidjs/solid-site"
 	},
 	{
 		"name": "Solid Devtools Chrome Extension",
-		"description": "Devtools Chrome extension for visualizing SolidJS reactivity graph",
-		"website": "https://chrome.google.com/webstore/detail/solid-devtools/kmcfjchnmmaeeagadbhoofajiopoceel",
+		"desc": "Devtools Chrome extension for visualizing SolidJS reactivity graph",
+		"link": "https://chrome.google.com/webstore/detail/solid-devtools/kmcfjchnmmaeeagadbhoofajiopoceel",
 		"repo": "https://github.com/thetarnav/solid-devtools"
 	},
 	{
 		"name": "Solid Movies",
-		"description": "Solid Start Demo App based on Nuxt Movies",
-		"website": "https://solid-movies.app",
+		"desc": "Solid Start Demo App based on Nuxt Movies",
+		"link": "https://solid-movies.app",
 		"repo": "https://github.com/solidjs/solid-start/tree/movies/examples/movies"
 	},
 	{
 		"name": "Bloki",
-		"description": "an interactive block editor",
-		"website": "https://bloki.app/",
+		"desc": "an interactive block editor",
+		"link": "https://bloki.app/",
 		"repo": "https://github.com/MrFoxPro/bloki"
 	},
 	{
 		"name": "HTML to SolidJSX",
-		"description": "An online HTML to Solid JSX converter",
-		"website": "https://solidjs-community.github.io/html-to-solidjsx/",
+		"desc": "An online HTML to Solid JSX converter",
+		"link": "https://solidjs-community.github.io/html-to-solidjsx/",
 		"repo": "https://github.com/solidjs-community/html-to-solidjsx"
 	},
 	{
 		"name": "HopeUI",
-		"website": "https://hope-ui.com/",
+		"link": "https://hope-ui.com/",
 		"repo": "https://github.com/hope-ui/hope-ui",
-		"description": "the component library you've hoped for"
+		"desc": "the component library you've hoped for"
 	},
 	{
 		"name": "Solid Primitives",
-		"website": "https://primitives.solidjs.community",
+		"link": "https://primitives.solidjs.community",
 		"repo": "https://github.com/solidjs-community/solid-primitives",
-		"description": "A library of high-quality primitives that extend SolidJS reactivity."
+		"desc": "A library of high-quality primitives that extend SolidJS reactivity."
 	},
 	{
 		"name": "Modular Forms",
-		"website": "https://modularforms.dev",
+		"link": "https://modularforms.dev",
 		"repo": "https://github.com/fabian-hiller/modular-forms",
-		"description": "Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms."
+		"desc": "Modular Forms is a JavaScript library that is build on top of SolidJS to validate and handle various types of forms."
 	},
 	{
 		"name": "Devs Playing Poker",
-		"website": "https://devsplayingpoker.com",
+		"link": "https://devsplayingpoker.com",
 		"repo": "https://github.com/lvl-mattwells/DevsPlayingPoker",
-		"description": "A simple and fast tool to help your scrum team effort tickets as quickly as possible."
-	},
-	{
-		"name": "Nerimity",
-		"website": "https://nerimity.com",
-		"repo": "https://github.com/Nerimity/nerimity-web",
-		"description": "A modern and sleek chat app."
+		"desc": "A simple and fast tool to help your scrum team effort tickets as quickly as possible."
 	}
 ]

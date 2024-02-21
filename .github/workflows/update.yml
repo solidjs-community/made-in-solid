@@ -1,33 +1,29 @@
-name: Format and Update Projects
+name: Update Projects
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
-  format-and-update:
+  update-projects:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
-      - uses: pnpm/action-setup@v2.2.2
 
       - name: Setup Node.js environment
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 16
+          node-version: 20
+          cache: npm
 
       - name: Install dependencies
-        run: pnpm install
+        run: npm install
 
       - name: Update Projects
-        run: pnpm run update-list
-
-      - name: Format
-        run: pnpm run format
+        run: npm run update-list
 
       - name: Add, Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Format and Update Projects"
+          commit_message: "Update Projects"
