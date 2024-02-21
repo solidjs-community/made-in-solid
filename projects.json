@@ -40,15 +40,20 @@
 		"desc": "Visual website editing for individualists"
 	},
 	{
-		"name": "Zapp!",
-		"link": "https://zapp.run",
-		"desc": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
+		"name": "Calry",
+		"link": "https://calry.app/",
+		"desc": "The Unified API for Vacation Rental PMS Integrations"
 	},
 	{
 		"name": "inlang website",
 		"link": "https://inlang.com",
 		"repo": "https://github.com/inlang/inlang/tree/main/source-code/website",
 		"desc": "Developer-first localization infrastructure built on git"
+	},
+	{
+		"name": "Zapp!",
+		"link": "https://zapp.run",
+		"desc": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
 	},
 	{
 		"name": "Mochia",
@@ -71,15 +76,15 @@
 		"desc": "Website of the MáLà Project - a restaurant brand founded with a mission to deliver joy through neo-Sichuanese cuisine."
 	},
 	{
-		"name": "KusKus",
-		"link": "https://kuskus.app",
-		"desc": "A fast todo app with AI"
-	},
-	{
 		"name": "Learn Anything",
 		"link": "https://learn-anything.xyz/",
 		"repo": "https://github.com/learn-anything/learn-anything.xyz",
 		"desc": "Organize world's knowledge, explore connections and curate learning paths"
+	},
+	{
+		"name": "KusKus",
+		"link": "https://kuskus.app",
+		"desc": "A fast todo app with AI"
 	},
 	{
 		"name": "AoE4 Explorer",
@@ -96,6 +101,12 @@
 		"name": "Dimeadozen.ai website",
 		"link": "https://www.dimeadozen.ai",
 		"desc": "Validate Your Business Idea In Seconds"
+	},
+	{
+		"name": "Lwin Moe Paing Dev",
+		"link": "https://www.lwinmoepaing.com/",
+		"desc": "Personal website of Lwin Moe Paing",
+		"repo": "https://github.com/lwinmoepaing/lwinmoepaing.github.io"
 	},
 	{
 		"name": "RUSTMOMENT",
