@@ -1,20 +1,20 @@
-import * as fsp          from "node:fs/promises"
-import * as path         from "node:path"
-import * as url          from "node:url"
+import * as fsp  from "node:fs/promises"
+import * as path from "node:path"
+import * as url  from "node:url"
 
 /**
+ * @typedef {object} Project
+ * @property {string            } name
+ * @property {string            } desc
+ * @property {string            } link
+ * @property {string | undefined} repo
+ *
  * @typedef {object} Project_Preview
  * @property {string       } name
  * @property {string       } desc
  * @property {string       } link
  * @property {string | null} repo
  * @property {string | null} image
- *
- * @typedef {object} Project
- * @property {string            } name
- * @property {string            } desc
- * @property {string            } link
- * @property {string | undefined} repo
  */
 
 const dirname     = path.dirname(url.fileURLToPath(import.meta.url))
