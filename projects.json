@@ -104,7 +104,7 @@
 	},
 	{
 		"name": "lpadder.",
-		"link": "https://www.lpadder.ml",
+		"link": "https://lpadder.vercel.app",
 		"repo": "https://github.com/Vexcited/lpadder",
 		"desc": "Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser."
 	},
@@ -236,11 +236,6 @@
 		"desc": "Yet another launcher. A launcher app similar to Alfred, Raycast, ScriptKit etc."
 	},
 	{
-		"name": "Is Market High?",
-		"link": "https://ismarkethigh.com",
-		"desc": "ismarkethigh.com pictures performance of the entire market and its groups: 11 sectors and 149 industries."
-	},
-	{
 		"name": "Solid Website",
 		"desc": "you already know",
 		"link": "https://www.solidjs.com",
@@ -259,22 +254,10 @@
 		"repo": "https://github.com/solidjs/solid-start/tree/movies/examples/movies"
 	},
 	{
-		"name": "Bloki",
-		"desc": "an interactive block editor",
-		"link": "https://bloki.app/",
-		"repo": "https://github.com/MrFoxPro/bloki"
-	},
-	{
 		"name": "HTML to SolidJSX",
 		"desc": "An online HTML to Solid JSX converter",
 		"link": "https://solidjs-community.github.io/html-to-solidjsx/",
 		"repo": "https://github.com/solidjs-community/html-to-solidjsx"
-	},
-	{
-		"name": "HopeUI",
-		"link": "https://hope-ui.com/",
-		"repo": "https://github.com/hope-ui/hope-ui",
-		"desc": "the component library you've hoped for"
 	},
 	{
 		"name": "Solid Primitives",
