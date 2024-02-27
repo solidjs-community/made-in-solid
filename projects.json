@@ -45,9 +45,9 @@
 		"desc": "The Unified API for Vacation Rental PMS Integrations"
 	},
 	{
-		"name": "inlang website",
+		"name": "Inlang website",
 		"link": "https://inlang.com",
-		"repo": "https://github.com/inlang/inlang/tree/main/source-code/website",
+		"repo": "https://github.com/opral/monorepo/tree/main/inlang/source-code/website",
 		"desc": "Developer-first localization infrastructure built on git"
 	},
 	{
