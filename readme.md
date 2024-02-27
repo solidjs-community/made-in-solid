@@ -113,13 +113,13 @@ The Unified API for Vacation Rental Software
 
 <a href="https://inlang.com"><img src="https://cdn.jsdelivr.net/gh/opral/monorepo@latest/inlang/source-code/website/public/opengraph/inlang-social-image.jpg" height="200"/></a>
 
-### inlang website
+### Inlang website
 
 Quickly find the best solution to globalize (i18n) your app. inlang helps you to expand to new markets and acquire new customers.
 
 **Website:** [https://inlang.com](https://inlang.com)
 
-**Repository:** [https://github.com/inlang/inlang/tree/main/source-code/website](https://github.com/inlang/inlang/tree/main/source-code/website)
+**Repository:** [https://github.com/opral/monorepo/tree/main/inlang/source-code/website](https://github.com/opral/monorepo/tree/main/inlang/source-code/website)
 
 ---
 
@@ -315,7 +315,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/35df26a737653d51d4c8bbb149081b48459a1000582a18a0df4804876e55ed88/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/6ac10fbdc73a624bddd8d96a82fc52b5621989e4b6e2a165fe11527c6d8e6c38/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -412,7 +412,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/02e820919b07ca5d0c9688870121ff801dba08452d894b5533dc3b64638b262a/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/833c615abf2794ffd0eb814ab0d35e3c5265f51d08fd63f6e7d25757947b7232/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -424,7 +424,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/046861e55881b189c5ecd8991cde9e1d4f9f492d8995df2ba884bf4a1f163f29/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/fad4d1dc1fde3ab723f20cde329396e23d4896028aae116628ec98cba277dadf/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -460,7 +460,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/224e6d8a7dfedc7225351f7801539972454e91921d71280fbd7286e5b6c720f4/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/e4a231d1f31390b90286b9d29712a1467673be3452618c9c9cd3ae5a0df5430b/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -538,7 +538,7 @@ Clips is a simple and attractive audio sampler built for the web with
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/de9c97c05b9e8c8c703b4557a96e23b3b07d1800cfd7b9dd71e66331f97fbb51/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/6e6f1c05f5a881950c2cef19eb20fc1e2fe05d1b066d865aa2cc53821e5f5107/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -574,7 +574,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/9f6b913d0f75e09c5f55ab40fc2ca601745ad962ce9bac4012d570222416adbf/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/1ae618c53350aa799e4744ca112f0dce499defe41333c2f4be14c596f1ad0dab/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
