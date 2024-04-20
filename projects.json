@@ -56,6 +56,12 @@
 		"desc": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
 	},
 	{
+		"name": "RelaGit",
+		"link": "https://rela.dev/",
+		"repo": "https://github.com/relagit/relagit",
+		"desc": "The elegant solution to graphical version control."
+	},
+	{
 		"name": "Mochia",
 		"link": "https://mochia.net/",
 		"desc": "Feed, play, train, and explore with your very own pets."
@@ -80,6 +86,11 @@
 		"link": "https://learn-anything.xyz/",
 		"repo": "https://github.com/learn-anything/learn-anything.xyz",
 		"desc": "Organize world's knowledge, explore connections and curate learning paths"
+	},
+	{
+		"name": "SeatSetApp",
+		"link": "https://seatset.app/",
+		"desc": "A desktop browser tool for creating seating layouts which are then exported into SVG files."
 	},
 	{
 		"name": "KusKus",
@@ -221,6 +232,12 @@
 		"name": "tahti",
 		"link": "https://tahti.studio",
 		"desc": "a groovebox for the browser"
+	},
+	{
+		"name": "Lightningjs Solid Demo App",
+		"link": "https://lightning-js.github.io/solid-demo-app/",
+		"repo": "https://github.com/lightning-js/solid-demo-app",
+		"desc": "A movie app built with LightningJS, a WebGL renderer for TV apps, and Solid-Lightning which uses SolidJS as the custom renderer"
 	},
 	{
 		"name": "xkcd search",
