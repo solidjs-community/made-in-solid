@@ -255,11 +255,11 @@ Degree Hub helps prospective students get matched with universities and programs
 
 ---
 
-
+<a href="https://www.dimeadozen.ai"><img src="https://www.dimeadozen.ai/meta-asset.png" height="200"/></a>
 
 ### Dimeadozen.ai website
 
-Validate Your Business Idea In Seconds
+Validate your business idea with AI. DimeADozen.ai offers AI-powered business validation services for entrepreneurs and startups. Create a comprehensive business report in just minutes.
 
 **Website:** [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
 
@@ -610,7 +610,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/57685ccfee4b2cfff45d7d5f93cc3dc50b616f5c1f617954f9067e9ffb4a0b65/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/56eaa9daaf63f13b21a941381ee50d05fbd59a55b8f582d40aff167c37001762/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
