@@ -147,6 +147,18 @@ The elegant solution to graphical version control. Built by developers, for deve
 
 ---
 
+
+
+### Chessbook App
+
+Your personal opening book
+
+**Website:** [https://chessbook.com/](https://chessbook.com/)
+
+
+
+---
+
 <a href="https://mochia.net/"><img src="https://mochia.net/apple-touch-icon.png" height="200"/></a>
 
 ### Mochia
@@ -412,7 +424,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/db74f2048a5e1cf7a1c36c24debcf11946d185d5e8afd0755dc62f0ee8cdfe07/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/21d63ee33db8cc9f6c14b3acb24c2bf9a65272ed426d68148302ae3d40431a3a/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -436,7 +448,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/8d08c19accc73e81a6080e9030128c9bd1c1c2766b2ea069e37cadcc50839645/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/8c639d3f6ccfa6586a52674b9b59e422d954ce11478cc48baf9879a0ba960c42/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -484,7 +496,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/a16023684689b71728bae06c43910e5c92db6b52678f274542b5bef126fe8aed/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/f8153bde0c223654ef69b5f0cdc52bcdfa590ad330a07da02a17b855af61ad83/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -496,7 +508,7 @@ A file list program that supports multiple storage, powered by Gin and Solidjs
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/593946316fc0d1cde51dc7c12333bacd6cb88e12bb030b05a48844c0b0d32ef2/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/1803d235c3a457288fdffeac610c534a889dcf413d154faa9ee44ee44e02fb3f/Nerimity/nerimity-web" height="200"/></a>
 
 ### Nerimity
 
@@ -522,7 +534,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/01fa10f3b520449605cfed8625c3abbe69f92896f760d8129b87e990a85cc07d/lightning-js/solid-demo-app" height="200"/></a>
+<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/1b99d6e21736e03f73d1d5d18c08d23103dfe4b49359a62e4d9a71656f7ddf5a/lightning-js/solid-demo-app" height="200"/></a>
 
 ### Lightningjs Solid Demo App
 
@@ -610,7 +622,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/56eaa9daaf63f13b21a941381ee50d05fbd59a55b8f582d40aff167c37001762/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/189b7bfb50f1184de67fb0ba458452c66c4131e8b7550f911849712ecf12ad25/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
