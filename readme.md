@@ -51,7 +51,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ---
 
-<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/q_70/https://ic.nordcdn.com/v1/q_70/https://s1.nordcdn.com/nordvpn/media/1.2234.0/images/global/icons/main.png?X-Nord-Credential=T4PcHqfACi8Naxvulzf4IE8XT4oypRTi0blOOGwbK2A8L4fcPw52k3qkvbkYH&X-Nord-Signature=wmSSoqUHMNbxSN_P_JiC2DO5ecwPGRVXLE8V5R_vurw." height="200"/></a>
+<a href="https://nordvpn.org"><img src="https://ic.nordcdn.com/v1/https://sb.nordcdn.com/m/576e7f7ee7c1bdc2/original/main" height="200"/></a>
 
 ### NordVPN.org
 
@@ -171,7 +171,7 @@ PianoRhythm is a multiplayer social web app to play music and casual games with 
 
 ---
 
-
+<a href="https://chessbook.com/"><img src="https://chessbook.com/splash_og.png" height="200"/></a>
 
 ### Chessbook App
 
@@ -240,6 +240,18 @@ Organize world's knowledge, explore connections and curate learning paths
 **Website:** [https://learn-anything.xyz/](https://learn-anything.xyz/)
 
 **Repository:** [https://github.com/learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz)
+
+---
+
+<a href="https://coinfactory.dk/"><img src="https://coinfactory.dk/favicon.png" height="200"/></a>
+
+### Coin Factory
+
+Coin Factory is a puzzle idle game that challenges players to strategically build a financial empire. The core gameplay involves tile placement, wealth generation, and the pursuit of becoming the ultimate tycoon. As you grow your earnings, unlock powerful tiles, and make strategic decisions, your financial empire expands, offering a rewarding and engaging gaming experience!
+
+**Website:** [https://coinfactory.dk/](https://coinfactory.dk/)
+
+
 
 ---
 
@@ -375,7 +387,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/e6743bce6a9d4381b7e36826670536c75bed696daf27f0afa83217393539dd4d/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/009ac4d2fa1d8458f7dba16fb117e27e0cdf8f533b2533c0c4ecc504d481db01/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -448,7 +460,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/d9202c18c7c458145e4df1a1b21e5d84ec063adea7996db93b8e92b365dbd19f/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/34e95d5cd918771e3a32d78f67aa26b2da8afc0bae57d9b2506f08d4cef87f30/ianthehenry/bauble.studio" height="200"/></a>
 
 ### Bauble
 
@@ -472,7 +484,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/3dd85958438aeb73ddd401e20cc9ac65f1755d948f1aa8c1447bbba3dead14b3/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/38556259529699adf1f8242bcdb92c03f320db13629cd884349ec66239e3ecb9/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -484,7 +496,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/fad4d1dc1fde3ab723f20cde329396e23d4896028aae116628ec98cba277dadf/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/0079f3d0d0f00998d712bf1c346ec66620daf28def775cde8666cbf8fe86de25/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -520,7 +532,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/539eadcc0d55ec5208b8d606bea59bcc1ae495f20c94c70a4e1f3bdda22a10a2/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/56623d05284deb952b1ead5b7c5b5d7bc8ba2c53e66d4dbb2e3c165f04d58802/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -532,7 +544,7 @@ A file list program that supports multiple storage, powered by Gin and Solidjs
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/1ebe76988ba254f32d53fc39ca74eeb88985b60c69d597fad08cc7a4394028a3/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/aeac9d445f4c6f444d0f17dab85803b9fc9d4777839210c5eabe935cef460d4a/Nerimity/nerimity-web" height="200"/></a>
 
 ### Nerimity
 
@@ -558,7 +570,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/31ec13f44d6a06329c2529af13f55980cbe02090ee7676aaee725527d3b899ff/lightning-js/solid-demo-app" height="200"/></a>
+<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/dc5b07bd50d1c5c55496cfd208bd6cc3f0d1ef40d90cd2ba6c5321e41ea2c6f0/lightning-js/solid-demo-app" height="200"/></a>
 
 ### Lightningjs Solid Demo App
 
@@ -610,7 +622,7 @@ Clips is a simple and attractive audio sampler built for the web with
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/0e35d2c6ad2073150160e8f16980971cc21d4bd00c9e71069587054c88a71a68/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/454fc25f8acb0ef1dc9df2eb32cb5c4f5f7c2288d0f6f89690f21e882649c0f5/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -646,7 +658,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/80b5d258d658ed7907e6c2a09ed2214a5ffcf7af46b387b19804182b4f7157a3/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/c8664050d7940da4e0f009e426846624ff1f22c4097137c4aac055179cdcb9af/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
