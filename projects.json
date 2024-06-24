@@ -103,6 +103,11 @@
 		"desc": "Organize world's knowledge, explore connections and curate learning paths"
 	},
 	{
+		"name": "Coin Factory",
+		"link": "https://coinfactory.dk/",
+		"desc": "Coin Factory is a puzzle idle game that challenges players to strategically build a financial empire. The core gameplay involves tile placement, wealth generation, and the pursuit of becoming the ultimate tycoon. As you grow your earnings, unlock powerful tiles, and make strategic decisions, your financial empire expands, offering a rewarding and engaging gaming experience!"
+	},
+	{
 		"name": "SeatSetApp",
 		"link": "https://seatset.app/",
 		"desc": "A desktop browser tool for creating seating layouts which are then exported into SVG files."
