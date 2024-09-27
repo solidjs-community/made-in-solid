@@ -63,11 +63,11 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
-<a href="https://post.news"><img src="https://post.news/images/post-share.png" height="200"/></a>
+
 
 ### Post.news
 
-Access journalism from premium publishers without subscriptions or ads. Discover, follow, and connect with diverse voices on topics you care about.
+A Social Platform for Real People, Real News, and Civil Conversations
 
 **Website:** [https://post.news](https://post.news)
 
@@ -87,11 +87,11 @@ Open-Source, collaborative developer content platform for documentation, technic
 
 ---
 
-<a href="https://nitropage.com"><img src="https://nitropage.com/_m/555d63072a/optimizeImage?image=/media/rg53yloqtwdfmnk3dkwq03qm.png&key=kLTJ50IaHzLZ7kFn&size=og" height="200"/></a>
+<a href="https://nitropage.com"><img src="https://nitropage.com/image/rg53yloqtwdfmnk3dkwq03qm.png?s=1200&ar=2/1&ts=1702587826" height="200"/></a>
 
 ### Nitropage
 
-A free visual website editor, powered with your own SolidJS components.
+Nitropage is an extensible, drag-and-drop website builder based on SolidStart, completely free and open source.
 
 **Website:** [https://nitropage.com](https://nitropage.com)
 
@@ -211,7 +211,7 @@ An all-in-one visual tool for individuals and small teams that want to build fas
 
 ### AndAgain
 
-Bringing together strategy, creativity and technology to build digital products and campaigns for global clients. Specialists in engaging and immersive digital projects across luxury, fashion, retail, entertainment and business. Based in London + Liverpool, with global reach.
+Bringing together strategy, creativity and technology to build digital products and campaigns that live everywhere. Specialists in engaging and immersive digital projects across luxury, fashion, retail, entertainment and business. Based in London + Liverpool, with global reach.
 
 **Website:** [https://andagain.uk](https://andagain.uk)
 
@@ -235,7 +235,7 @@ MáLà Project is a Chinese restaurant founded by four friends with a mission to
 
 ### Learn Anything
 
-Organize world's knowledge, explore connections and curate learning paths
+Organize world&#x27;s knowledge, explore connections and curate learning paths
 
 **Website:** [https://learn-anything.xyz/](https://learn-anything.xyz/)
 
@@ -267,11 +267,11 @@ SeatSetApp does one thing and one thing only. It is a desktop browser tool for c
 
 ---
 
-
+<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/70a35b7868349e633b69e1237017a951c849f4018b35dd2fda60276b8a6452c1/kuskusapp/kuskus" height="200"/></a>
 
 ### KusKus
 
-A fast todo app with AI
+Food/drink sharing app. Contribute to kuskusapp/kuskus development by creating an account on GitHub.
 
 **Website:** [https://kuskus.app](https://kuskus.app)
 
@@ -315,11 +315,11 @@ Validate your business idea with AI. DimeADozen.ai offers AI-powered business va
 
 ---
 
-<a href="https://www.lwinmoepaing.com/"><img src="https://lwinmoepaing.github.io/images/og_facebook_lmp.jpg" height="200"/></a>
+<a href="https://www.lwinmoepaing.com/"><img src="https://www.lwinmoepaing.com/images/auth/lwin-moe-paing.jpeg" height="200"/></a>
 
 ### Lwin Moe Paing Dev
 
-Portfolio : Lwin Moe Paing (Developer)
+Senior Frontend Engineer. I love building things and helping people. Very active on Facebook and also Twitter 🎉
 
 **Website:** [https://www.lwinmoepaing.com/](https://www.lwinmoepaing.com/)
 
@@ -387,7 +387,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/009ac4d2fa1d8458f7dba16fb117e27e0cdf8f533b2533c0c4ecc504d481db01/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/823d6d64250c87f2729be9af008ba1e6bed42a133316011ff1d86fff900c1805/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -460,7 +460,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/34e95d5cd918771e3a32d78f67aa26b2da8afc0bae57d9b2506f08d4cef87f30/ianthehenry/bauble.studio" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/2b6915b1774ed0baa4114bf9064cfca1a8a57423bbb3c20d0eeb2d01d1686adc/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -484,7 +484,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/38556259529699adf1f8242bcdb92c03f320db13629cd884349ec66239e3ecb9/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/102452b13136154cf0496cbd09c840c56c180a7867cd2326af6cc210b812c8b6/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -496,7 +496,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/0079f3d0d0f00998d712bf1c346ec66620daf28def775cde8666cbf8fe86de25/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/64937c05086dc1c33b4c4e299fb2aed7f8cd8b827008ece5f1db2ba035e32612/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -532,7 +532,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/56623d05284deb952b1ead5b7c5b5d7bc8ba2c53e66d4dbb2e3c165f04d58802/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/e21a533de2d9d172c6438cfc9137f3fb9075a8dde169ebcdce010aa5823875b3/alist-org/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -544,7 +544,7 @@ A file list program that supports multiple storage, powered by Gin and Solidjs
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/aeac9d445f4c6f444d0f17dab85803b9fc9d4777839210c5eabe935cef460d4a/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/1c61d84899de1d93ec2bcaec01887360bd1664eda3f6ce66336ca4224dd593e0/Nerimity/nerimity-web" height="200"/></a>
 
 ### Nerimity
 
@@ -570,7 +570,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/dc5b07bd50d1c5c55496cfd208bd6cc3f0d1ef40d90cd2ba6c5321e41ea2c6f0/lightning-js/solid-demo-app" height="200"/></a>
+<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/aec996a2f3dd019b85adad54f01cd1b1eb71dea397af5716f722a7d2da5649f9/lightning-js/solid-demo-app" height="200"/></a>
 
 ### Lightningjs Solid Demo App
 
@@ -594,7 +594,7 @@ A search engine for XKCD comics!
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/7658ac8f7c39dbb99f3e047aeb4aed9ab3d39b25042670fda883a68face18fe2/NikolaySuslov/krestianstvo" height="200"/></a>
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/0f61e5c12c88ff7ba46efe6c60cf55fd7d50c6473385b4c37a3c0166ac8a4234/NikolaySuslov/krestianstvo" height="200"/></a>
 
 ### Krestianstvo
 
@@ -622,7 +622,7 @@ Clips is a simple and attractive audio sampler built for the web with
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/454fc25f8acb0ef1dc9df2eb32cb5c4f5f7c2288d0f6f89690f21e882649c0f5/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/7b5a5735f1136d661c8bb15475d4e101f28ee67267856536385a206049417e62/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -658,7 +658,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/c8664050d7940da4e0f009e426846624ff1f22c4097137c4aac055179cdcb9af/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/ffd67cdfcce023dcd9b5bf84971e129d489b489a9cface018649d1000984dad1/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
@@ -715,6 +715,18 @@ A simple and fast tool to help your scrum team effort tickets as quickly as poss
 **Website:** [https://devsplayingpoker.com](https://devsplayingpoker.com)
 
 **Repository:** [https://github.com/lvl-mattwells/DevsPlayingPoker](https://github.com/lvl-mattwells/DevsPlayingPoker)
+
+---
+
+
+
+### Exocortex
+
+Capture, find, and explore relationships between your thoughts and ideas quickly, all shielded from prying eyes.
+
+**Website:** [https://www.getexocortex.com](https://www.getexocortex.com)
+
+
 <!-- INSERT-PROJECTS:END -->
 
 ## Looking for more project examples?
