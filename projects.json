@@ -324,5 +324,10 @@
 		"link": "https://devsplayingpoker.com",
 		"repo": "https://github.com/lvl-mattwells/DevsPlayingPoker",
 		"desc": "A simple and fast tool to help your scrum team effort tickets as quickly as possible."
+	},
+	{
+		"name": "Exocortex",
+		"link": "https://www.getexocortex.com",
+		"desc": "A note taking and personal knowledge management tool designed for users who value security and privacy."
 	}
 ]
