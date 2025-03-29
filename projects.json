@@ -329,5 +329,10 @@
 		"name": "Exocortex",
 		"link": "https://www.getexocortex.com",
 		"desc": "A note taking and personal knowledge management tool designed for users who value security and privacy."
+	},
+	{
+		"name": "bridj",
+		"link": "https://bridj.link",
+		"desc": "A daily puzzle game where you build a bridge out of your own words!"
 	}
 ]
