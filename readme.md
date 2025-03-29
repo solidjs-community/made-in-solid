@@ -27,11 +27,11 @@ CodeImage is the newest tool to help developers to manage their snippets and cre
 
 ---
 
-<a href="https://lume.io/"><img src="https://repository-images.githubusercontent.com/28641272/6c3b9c00-1e8d-11eb-9eb4-457e08c7c444" height="200"/></a>
+<a href="https://lume.io/"><img src="https://lume.io/images/LUME5.png" height="200"/></a>
 
 ### LUME
 
-A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences
+Create beautiful graphics on any website with simple HTML compatible with React, Vue, Svelte, Solid.js, Angular, and all web frameworks.
 
 **Website:** [https://lume.io/](https://lume.io/)
 
@@ -87,7 +87,7 @@ Open-Source, collaborative developer content platform for documentation, technic
 
 ---
 
-<a href="https://nitropage.com"><img src="https://nitropage.com/image/rg53yloqtwdfmnk3dkwq03qm.png?s=1200&ar=2/1&ts=1702587826" height="200"/></a>
+<a href="https://nitropage.com"><img src="https://nitropage.org/image/rg53yloqtwdfmnk3dkwq03qm.png?s=1200&ar=2/1&ts=1702587826" height="200"/></a>
 
 ### Nitropage
 
@@ -111,7 +111,7 @@ The Unified API for Vacation Rental Software
 
 ---
 
-<a href="https://inlang.com"><img src="https://cdn.jsdelivr.net/gh/opral/monorepo@latest/inlang/source-code/website/public/opengraph/inlang-social-image.jpg" height="200"/></a>
+<a href="https://inlang.com"><img src="https://cdn.jsdelivr.net/gh/opral/monorepo@latest/inlang/packages/website/public/opengraph/inlang-social-image.jpg" height="200"/></a>
 
 ### Inlang website
 
@@ -147,7 +147,7 @@ The elegant solution to graphical version control. Built by developers, for deve
 
 ---
 
-<a href="https://www.stashpad.com/"><img src="https://www.stashpad.com/stashpad-preview-1200-630.jpg" height="200"/></a>
+
 
 ### Stashpad
 
@@ -183,7 +183,7 @@ Chessbook is the fastest way to build a bulletproof opening repertoire.
 
 ---
 
-<a href="https://mochia.net/"><img src="https://mochia.net/apple-touch-icon.png" height="200"/></a>
+<a href="https://mochia.net/"><img src="https://mochia.net/mascot.png" height="200"/></a>
 
 ### Mochia
 
@@ -235,7 +235,7 @@ MáLà Project is a Chinese restaurant founded by four friends with a mission to
 
 ### Learn Anything
 
-Organize world&#x27;s knowledge, explore connections and curate learning paths
+Discover and learn about any topic with Learn-Anything. Our free, comprehensive platform connects you to the best resources for every subject. Start learning today!
 
 **Website:** [https://learn-anything.xyz/](https://learn-anything.xyz/)
 
@@ -267,11 +267,11 @@ SeatSetApp does one thing and one thing only. It is a desktop browser tool for c
 
 ---
 
-<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/70a35b7868349e633b69e1237017a951c849f4018b35dd2fda60276b8a6452c1/kuskusapp/kuskus" height="200"/></a>
+<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/f739ffb2d9715f037609ce5239dcddddc92f06ffdc0f1bce242a643bec39890e/kuskusapp/kuskus" height="200"/></a>
 
 ### KusKus
 
-Food/drink sharing app. Contribute to kuskusapp/kuskus development by creating an account on GitHub.
+Social network for photos, foods and places. Contribute to kuskusapp/kuskus development by creating an account on GitHub.
 
 **Website:** [https://kuskus.app](https://kuskus.app)
 
@@ -315,11 +315,11 @@ Validate your business idea with AI. DimeADozen.ai offers AI-powered business va
 
 ---
 
-<a href="https://www.lwinmoepaing.com/"><img src="https://www.lwinmoepaing.com/images/auth/lwin-moe-paing.jpeg" height="200"/></a>
+<a href="https://www.lwinmoepaing.com/"><img src="https://opengraph.githubassets.com/dc3a72db31755977a888856d6d46c56b356121170441d0319ab9057ba6991fb5/lwinmoepaing/lwinmoepaing.github.io" height="200"/></a>
 
 ### Lwin Moe Paing Dev
 
-Senior Frontend Engineer. I love building things and helping people. Very active on Facebook and also Twitter 🎉
+Personal website of Lwin Moe Paing
 
 **Website:** [https://www.lwinmoepaing.com/](https://www.lwinmoepaing.com/)
 
@@ -387,7 +387,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/823d6d64250c87f2729be9af008ba1e6bed42a133316011ff1d86fff900c1805/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/feb19d165054ea30e1165a085e5e6d32aa39f94166d297e32d2447c2ba5c42dc/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -460,7 +460,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/2b6915b1774ed0baa4114bf9064cfca1a8a57423bbb3c20d0eeb2d01d1686adc/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/db42f64f7396d5eab4576e8ec26ae13447d5c0ee1b7b22c28b2d15497a23acbb/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -484,7 +484,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/102452b13136154cf0496cbd09c840c56c180a7867cd2326af6cc210b812c8b6/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/5283f6ce4a03b553ea5f418b58842e7647ac2508125a08d28cc6ec70ae2b2ab9/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -496,7 +496,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/64937c05086dc1c33b4c4e299fb2aed7f8cd8b827008ece5f1db2ba035e32612/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/b6b5c7a47d6ae2a312d07bb4466d22635169b5a69b32e1b11989d0bd140289e8/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -532,7 +532,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/e21a533de2d9d172c6438cfc9137f3fb9075a8dde169ebcdce010aa5823875b3/alist-org/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/b91fc5ed8863b4d72e8ebfebec0e03eeb46f7569131e00ed36f604912a20006e/AlistGo/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -544,7 +544,7 @@ A file list program that supports multiple storage, powered by Gin and Solidjs
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/1c61d84899de1d93ec2bcaec01887360bd1664eda3f6ce66336ca4224dd593e0/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/d92a1463b8d373a94141ce738b60ecfa2c908cd9e02fb3e5c35e60b042c22307/Nerimity/nerimity-web" height="200"/></a>
 
 ### Nerimity
 
@@ -570,7 +570,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/aec996a2f3dd019b85adad54f01cd1b1eb71dea397af5716f722a7d2da5649f9/lightning-js/solid-demo-app" height="200"/></a>
+<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/5fef37280276458caeff97ec3d10b9c8710f48c3f50043abbb786f0b28d3dca1/lightning-js/solid-demo-app" height="200"/></a>
 
 ### Lightningjs Solid Demo App
 
@@ -594,7 +594,7 @@ A search engine for XKCD comics!
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/0f61e5c12c88ff7ba46efe6c60cf55fd7d50c6473385b4c37a3c0166ac8a4234/NikolaySuslov/krestianstvo" height="200"/></a>
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/b43cb62ae3247cc6a5c83e28ac463793827094064a47b8452751a0b100dcd0ca/NikolaySuslov/krestianstvo" height="200"/></a>
 
 ### Krestianstvo
 
@@ -622,7 +622,7 @@ Clips is a simple and attractive audio sampler built for the web with
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/7b5a5735f1136d661c8bb15475d4e101f28ee67267856536385a206049417e62/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/d43f30a09250973b225b266abf5d3c5bf086af1a5b5119c910c4935c0c7eccbf/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -658,7 +658,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/ffd67cdfcce023dcd9b5bf84971e129d489b489a9cface018649d1000984dad1/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/73baabd184396d9bc268cce9a16393fc33db28470043843a0fc1e2070f4d18f5/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
@@ -718,13 +718,25 @@ A simple and fast tool to help your scrum team effort tickets as quickly as poss
 
 ---
 
-
+<a href="https://www.getexocortex.com"><img src="https://privatenotes.pro/images/og-image.jpg" height="200"/></a>
 
 ### Exocortex
 
-Capture, find, and explore relationships between your thoughts and ideas quickly, all shielded from prying eyes.
+Take notes and manage knowledge securely with PrivateNotes—an end-to-end encrypted note-taking app. No trade-offs between privacy and usability. Sync across devices, stay organized, and keep your data truly private.
 
 **Website:** [https://www.getexocortex.com](https://www.getexocortex.com)
+
+
+
+---
+
+
+
+### bridj
+
+Connect two words to each other using a bridge of your own words. A new puzzle becomes available each day.
+
+**Website:** [https://bridj.link](https://bridj.link)
 
 
 <!-- INSERT-PROJECTS:END -->
