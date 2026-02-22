@@ -111,11 +111,11 @@ The Unified API for Vacation Rental Software
 
 ---
 
-<a href="https://inlang.com"><img src="https://cdn.jsdelivr.net/gh/opral/monorepo@latest/inlang/packages/website/public/opengraph/inlang-social-image.jpg" height="200"/></a>
+<a href="https://inlang.com"><img src="https://cdn.jsdelivr.net/gh/opral/inlang@latest/packages/website/public/opengraph/inlang-social-image.jpg" height="200"/></a>
 
 ### Inlang website
 
-Quickly find the best solution to globalize (i18n) your app. inlang helps you to expand to new markets and acquire new customers.
+Inlang is an open file format for localizing software (i18n). One file format, multiple solutions, all interoperable.
 
 **Website:** [https://inlang.com](https://inlang.com)
 
@@ -267,11 +267,11 @@ SeatSetApp does one thing and one thing only. It is a desktop browser tool for c
 
 ---
 
-<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/f739ffb2d9715f037609ce5239dcddddc92f06ffdc0f1bce242a643bec39890e/kuskusapp/kuskus" height="200"/></a>
+<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/4c1c7bb9fd29be108a82189b49a986900496132822320006725e0e95d3002a55/kuskusapp/kuskus" height="200"/></a>
 
 ### KusKus
 
-Social network for photos, foods and places. Contribute to kuskusapp/kuskus development by creating an account on GitHub.
+Share foods/places/photos. Manage all habits, health, fitness in one app. - kuskusapp/kuskus
 
 **Website:** [https://kuskus.app](https://kuskus.app)
 
@@ -387,7 +387,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/feb19d165054ea30e1165a085e5e6d32aa39f94166d297e32d2447c2ba5c42dc/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/b2ec61bbbb0e09cc1761eae36ba4541e52f75ef50745c2b1f4662e111fa1e086/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -399,11 +399,11 @@ A simple and lightweight code snippet manager. Contribute to egoist/dropcode dev
 
 ---
 
-<a href="https://www.holodevdao.xyz/"><img src="https://holodevdao.xyz/og_image.jpg" height="200"/></a>
+<a href="https://www.holodevdao.xyz/"><img src="https://opengraph.githubassets.com/38a51865ebd0a9b3d79a6f91b4e8e7216c7486bee3c2ca179e292806b8b1b7d5/naomiHauret/holodevdao" height="200"/></a>
 
 ### HoloDevDao
 
-Holographic Developer DAO is an alternative UI viewer for Developer DAO NFTs.
+An alternative viewer for DevDAO NFT
 
 **Website:** [https://www.holodevdao.xyz/](https://www.holodevdao.xyz/)
 
@@ -423,11 +423,11 @@ Create beautiful, customizable toasts with Solid JS
 
 ---
 
-<a href="https://mastometrics.com"><img src="https://mastometrics.com/og-image.png" height="200"/></a>
+
 
 ### MastoMetrics
 
-Analytics for Mastodon. Track the growth and success of your Mastodon account and posts.
+Analytics for Mastodon. An app built with SolidStart.
 
 **Website:** [https://mastometrics.com](https://mastometrics.com)
 
@@ -435,12 +435,11 @@ Analytics for Mastodon. Track the growth and success of your Mastodon account an
 
 ---
 
-<a href="https://chikn.world"><img src="https://s3.ap-southeast-1.amazonaws.com/chikn.world/chikn.world-share-square.jpg" height="200"/></a>
+
 
 ### Chikn World
 
-Chikn World breaks down the metrics and tokenomics so you don't have to! 
-  Get all the info you need for all Chikn eggosystem tokens; EGG, FEED, FERT & More!
+Chikn World breaks down the metrics and tokenomics so you don't have to!
 
 **Website:** [https://chikn.world](https://chikn.world)
 
@@ -460,7 +459,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/db42f64f7396d5eab4576e8ec26ae13447d5c0ee1b7b22c28b2d15497a23acbb/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/78fd1156e023274ae3e6de6769f9dcb245ec6ab7baf165655944b28422695bcf/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -484,7 +483,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/5283f6ce4a03b553ea5f418b58842e7647ac2508125a08d28cc6ec70ae2b2ab9/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/4956e47d9a1debd7728a75c26a72169430a5aa052b6f9899b63bf639adeca62f/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -496,7 +495,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/b6b5c7a47d6ae2a312d07bb4466d22635169b5a69b32e1b11989d0bd140289e8/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/7d02580a6a5623ed536050f20ae8ef9c663f31953927b540e4c409b9251da8fc/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -532,7 +531,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/b91fc5ed8863b4d72e8ebfebec0e03eeb46f7569131e00ed36f604912a20006e/AlistGo/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/3581143896274fee2d659de4efa7c87bc9147c9465a0f7120aafd25607a51793/AlistGo/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -544,11 +543,11 @@ A file list program that supports multiple storage, powered by Gin and Solidjs
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/d92a1463b8d373a94141ce738b60ecfa2c908cd9e02fb3e5c35e60b042c22307/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/26fa0d05c9f55be7df7e4c767faaca17dd5edbe8ef89c552888ee9ed7e7a72b4/Nerimity/nerimity-web" height="200"/></a>
 
 ### Nerimity
 
-Nerimity is a open source, modern and sleek chat app
+Nerimity is an open source, modern and sleek chat app
                made for everyone with features such as the ability to
                make servers, a lot of customization and a lot more!
 
@@ -570,7 +569,7 @@ a groovebox for the browser
 
 ---
 
-<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/5fef37280276458caeff97ec3d10b9c8710f48c3f50043abbb786f0b28d3dca1/lightning-js/solid-demo-app" height="200"/></a>
+<a href="https://lightning-js.github.io/solid-demo-app/"><img src="https://opengraph.githubassets.com/2c04dbceeb9d49516899ead150fe3e7ffeee4ffc7ff2d62663db1a2f22c2107e/lightning-js/solid-demo-app" height="200"/></a>
 
 ### Lightningjs Solid Demo App
 
@@ -594,7 +593,7 @@ A search engine for XKCD comics!
 
 ---
 
-<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/b43cb62ae3247cc6a5c83e28ac463793827094064a47b8452751a0b100dcd0ca/NikolaySuslov/krestianstvo" height="200"/></a>
+<a href="https://play.krestianstvo.org"><img src="https://opengraph.githubassets.com/856ab9f10e5c0438ad88659745e1e9d55576a14763cef9b87605a3f65b3be982/NikolaySuslov/krestianstvo" height="200"/></a>
 
 ### Krestianstvo
 
@@ -622,7 +621,7 @@ Clips is a simple and attractive audio sampler built for the web with
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/d43f30a09250973b225b266abf5d3c5bf086af1a5b5119c910c4935c0c7eccbf/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/2e91348a69f924a1595dfe715c72703d9355c16acaaa873801ea643a19f2805d/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -658,7 +657,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/73baabd184396d9bc268cce9a16393fc33db28470043843a0fc1e2070f4d18f5/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/ce01739fee32b28a0217a74922aecf998e9ba4e5b0d38f56ed8fa94e6e1e458f/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
@@ -718,11 +717,11 @@ A simple and fast tool to help your scrum team effort tickets as quickly as poss
 
 ---
 
-<a href="https://www.getexocortex.com"><img src="https://privatenotes.pro/images/og-image.jpg" height="200"/></a>
+
 
 ### Exocortex
 
-Take notes and manage knowledge securely with PrivateNotes—an end-to-end encrypted note-taking app. No trade-offs between privacy and usability. Sync across devices, stay organized, and keep your data truly private.
+A note taking and personal knowledge management tool designed for users who value security and privacy.
 
 **Website:** [https://www.getexocortex.com](https://www.getexocortex.com)
 
@@ -737,6 +736,18 @@ Take notes and manage knowledge securely with PrivateNotes—an end-to-end encry
 Connect two words to each other using a bridge of your own words. A new puzzle becomes available each day.
 
 **Website:** [https://bridj.link](https://bridj.link)
+
+
+
+---
+
+
+
+### Dither Scar
+
+Free desktop app for dithering images or videos
+
+**Website:** [dither-scar.com](dither-scar.com)
 
 
 <!-- INSERT-PROJECTS:END -->
