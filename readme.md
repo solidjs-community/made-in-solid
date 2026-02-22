@@ -742,6 +742,7 @@ Connect two words to each other using a bridge of your own words. A new puzzle b
 ---
 
 
+<a href="https://dither-scar.com"><img src="https://dither-scar.com/static/images/main-screenshot.png" height="200"/></a>
 
 ### Dither Scar
 
