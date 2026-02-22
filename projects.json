@@ -334,5 +334,10 @@
 		"name": "bridj",
 		"link": "https://bridj.link",
 		"desc": "A daily puzzle game where you build a bridge out of your own words!"
+	},
+	{
+		"name": "Dither Scar",
+		"link": "dither-scar.com",
+		"desc": "Free desktop app for dithering images or videos"
 	}
 ]
