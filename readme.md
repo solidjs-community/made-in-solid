@@ -483,7 +483,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/4956e47d9a1debd7728a75c26a72169430a5aa052b6f9899b63bf639adeca62f/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/eceb5a2647a94b6ae62fc0cdc21dca417e9f63fb6d4659df9fd42c553af96fc8/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -531,7 +531,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/3581143896274fee2d659de4efa7c87bc9147c9465a0f7120aafd25607a51793/AlistGo/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/6920c3616b27fe1d63f3cdea70d55d9642bda4316e8546900c9c1c8e177ed18e/AlistGo/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -657,7 +657,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/ce01739fee32b28a0217a74922aecf998e9ba4e5b0d38f56ed8fa94e6e1e458f/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/859376d17d6c77b3662c6827d5bf9fef3fcd327992acab755c10aa6bec3b6099/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
@@ -741,13 +741,13 @@ Connect two words to each other using a bridge of your own words. A new puzzle b
 
 ---
 
-
+<a href="https://dither-scar.com"><img src="https://dither-scar.com/static/images/main-screenshot.png" height="200"/></a>
 
 ### Dither Scar
 
-Free desktop app for dithering images or videos
+Transform your images and videos with 15 GPU-accelerated dithering algorithms. Free, powerful, and easy to use. Perfect for retro aesthetics, pixel art, and creative effects.
 
-**Website:** [dither-scar.com](dither-scar.com)
+**Website:** [https://dither-scar.com](https://dither-scar.com)
 
 
 <!-- INSERT-PROJECTS:END -->
