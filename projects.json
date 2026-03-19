@@ -339,5 +339,11 @@
 		"name": "Dither Scar",
 		"link": "https://dither-scar.com",
 		"desc": "Free desktop app for dithering images or videos"
+	},
+	{
+		"name": "Parallel Code",
+		"link": "https://parallelcode.app",
+		"repo": "https://github.com/johannesjo/parallel-code",
+		"desc": "Desktop app for running multiple AI coding agents simultaneously in isolated git worktrees"
 	}
 ]
