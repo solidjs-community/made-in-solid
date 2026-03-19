@@ -387,7 +387,7 @@ A task runner and repo management tool for the web ecosystem, written in Rust.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/b2ec61bbbb0e09cc1761eae36ba4541e52f75ef50745c2b1f4662e111fa1e086/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/37093d215597831eb3d7e8b1fb9033c3f0d9a4a7e0d4260dcfe272d7d1e30b23/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -459,7 +459,7 @@ Nook, the Markdown-Powered Intelligent Knowledge Manager
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/78fd1156e023274ae3e6de6769f9dcb245ec6ab7baf165655944b28422695bcf/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/fb960aa3327e235e2e65010d149de6b8a751ed3c3f098aa1968a24aa3a6b7fdb/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -483,7 +483,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/eceb5a2647a94b6ae62fc0cdc21dca417e9f63fb6d4659df9fd42c553af96fc8/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/660baab23befb62571f538452f42dd73c8240fd8784d02b59435784f02c27ee2/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -531,7 +531,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/6920c3616b27fe1d63f3cdea70d55d9642bda4316e8546900c9c1c8e177ed18e/AlistGo/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/72fc4e47cdd9c9444e57a0be19d39d9de04fc30ef2d2e1132b4ab7d6d0429efd/AlistGo/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -543,7 +543,7 @@ A file list program that supports multiple storage, powered by Gin and Solidjs
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/26fa0d05c9f55be7df7e4c767faaca17dd5edbe8ef89c552888ee9ed7e7a72b4/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/beb7858cb7283ada4583e1413fb69f35072a605cf7f5670511ab15b8a616de05/Nerimity/nerimity-web" height="200"/></a>
 
 ### Nerimity
 
@@ -621,7 +621,7 @@ Clips is a simple and attractive audio sampler built for the web with
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/2e91348a69f924a1595dfe715c72703d9355c16acaaa873801ea643a19f2805d/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/1f8132b8bec7bc031f2583724601696b14a3ac52b8d72f9196ce58aef7e13931/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -657,7 +657,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/859376d17d6c77b3662c6827d5bf9fef3fcd327992acab755c10aa6bec3b6099/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/1eb8a036c4add086c857ac5fb479e01c828270683af26a595d9b3a23653d93f3/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
@@ -750,6 +750,18 @@ Transform your images and videos with 15 GPU-accelerated dithering algorithms. F
 **Website:** [https://dither-scar.com](https://dither-scar.com)
 
 
+
+---
+
+<a href="https://parallelcode.app"><img src="https://parallelcode.app/images/og.png" height="200"/></a>
+
+### Parallel Code
+
+Use Claude Code, Codex, and Gemini in parallel — each in its own git worktree, all from one interface. Free and open source.
+
+**Website:** [https://parallelcode.app](https://parallelcode.app)
+
+**Repository:** [https://github.com/johannesjo/parallel-code](https://github.com/johannesjo/parallel-code)
 <!-- INSERT-PROJECTS:END -->
 
 ## Looking for more project examples?
