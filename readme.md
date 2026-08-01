@@ -27,11 +27,11 @@ CodeImage is the newest tool to help developers to manage their snippets and cre
 
 ---
 
-<a href="https://lume.io/"><img src="https://lume.io/images/LUME5.png" height="200"/></a>
+<a href="https://lume.io/"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/28641272/f7af517c-e982-4c8d-8b78-4a080a597111?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T113808Z&X-Amz-Expires=300&X-Amz-Signature=88acf0c3a04a402c612be0dcafa1e1a1da2b91ed15b2107fd1d8797be86c4ece&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDU4OCwibmJmIjoxNzg1NTg0Mjg4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.CUdI9mxwNac77HP8zuk3IRsZVJy8lJN-fzVa0pAVHfk" height="200"/></a>
 
 ### LUME
 
-Create beautiful graphics on any website with simple HTML compatible with React, Vue, Svelte, Solid.js, Angular, and all web frameworks.
+A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences
 
 **Website:** [https://lume.io/](https://lume.io/)
 
@@ -63,18 +63,6 @@ We want to see the internet free from crime, censorship, and surveillance. We co
 
 ---
 
-
-
-### Post.news
-
-A Social Platform for Real People, Real News, and Civil Conversations
-
-**Website:** [https://post.news](https://post.news)
-
-
-
----
-
 <a href="https://vrite.io"><img src="https://vrite.io/meta-image.png" height="200"/></a>
 
 ### Vrite
@@ -99,7 +87,7 @@ Nitropage is an extensible, drag-and-drop website builder based on SolidStart, c
 
 ---
 
-<a href="https://calry.app/"><img src="https://calry.app/Social_2024_Jan.png" height="200"/></a>
+<a href="https://calry.app/"><img src="https://calry.app/og.png" height="200"/></a>
 
 ### Calry
 
@@ -115,23 +103,11 @@ The Unified API for Vacation Rental Software
 
 ### Inlang website
 
-Inlang is an open file format for localizing software (i18n). One file format, multiple solutions, all interoperable.
+Inlang is the open-format TMS for software teams. Store translations in your repo as a vendor-neutral file format.
 
 **Website:** [https://inlang.com](https://inlang.com)
 
 **Repository:** [https://github.com/opral/monorepo/tree/main/inlang/source-code/website](https://github.com/opral/monorepo/tree/main/inlang/source-code/website)
-
----
-
-<a href="https://zapp.run"><img src="https://static.invertase.io/assets/zapp/zapp-social-preview.jpg" height="200"/></a>
-
-### Zapp!
-
-A free online sandbox for building Dart &#38; Flutter applications in the browser.
-
-**Website:** [https://zapp.run](https://zapp.run)
-
-
 
 ---
 
@@ -144,18 +120,6 @@ The elegant solution to graphical version control. Built by developers, for deve
 **Website:** [https://rela.dev/](https://rela.dev/)
 
 **Repository:** [https://github.com/relagit/relagit](https://github.com/relagit/relagit)
-
----
-
-
-
-### Stashpad
-
-Stashpad is a minimal Google Docs alternative for instant team collaboration. Get aligned effortlessly with markdown support and no account needed.
-
-**Website:** [https://www.stashpad.com/](https://www.stashpad.com/)
-
-
 
 ---
 
@@ -175,7 +139,7 @@ PianoRhythm is a multiplayer social web app to play music and casual games with 
 
 ### Chessbook App
 
-Chessbook is the fastest way to build a bulletproof opening repertoire.
+Build, train, and memorize your personal chess opening repertoire with spaced repetition and automatic gap detection.
 
 **Website:** [https://chessbook.com/](https://chessbook.com/)
 
@@ -231,7 +195,7 @@ MáLà Project is a Chinese restaurant founded by four friends with a mission to
 
 ---
 
-<a href="https://learn-anything.xyz/"><img src="https://repository-images.githubusercontent.com/65219131/b8d4210d-7791-47bb-b2f7-4911b43f805b" height="200"/></a>
+<a href="https://learn-anything.xyz/"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/65219131/b8d4210d-7791-47bb-b2f7-4911b43f805b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T113808Z&X-Amz-Expires=300&X-Amz-Signature=0198e6be955d1ec3b88e7b1980e20f89098700814a3072987fb2467d46e7406c&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDU4OCwibmJmIjoxNzg1NTg0Mjg4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.CUdI9mxwNac77HP8zuk3IRsZVJy8lJN-fzVa0pAVHfk" height="200"/></a>
 
 ### Learn Anything
 
@@ -267,7 +231,7 @@ SeatSetApp does one thing and one thing only. It is a desktop browser tool for c
 
 ---
 
-<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/4c1c7bb9fd29be108a82189b49a986900496132822320006725e0e95d3002a55/kuskusapp/kuskus" height="200"/></a>
+<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/4e7ce496c21892198ffa305c830b9604971333b0201aea41bc3dbcf2c91b0735/kuskusapp/kuskus" height="200"/></a>
 
 ### KusKus
 
@@ -303,11 +267,11 @@ Degree Hub helps prospective students get matched with universities and programs
 
 ---
 
-<a href="https://www.dimeadozen.ai"><img src="https://www.dimeadozen.ai/meta-asset.png" height="200"/></a>
+<a href="https://www.dimeadozen.ai"><img src="https://www.dimeadozen.ai/opengraph-image?079279481b9d28fc" height="200"/></a>
 
 ### Dimeadozen.ai website
 
-Validate your business idea with AI. DimeADozen.ai offers AI-powered business validation services for entrepreneurs and startups. Create a comprehensive business report in just minutes.
+Research-backed validation report. Sourced data + named comp-set + retention-curve math. Not a chatbot to argue with. Not a course to work through. From $9.
 
 **Website:** [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
 
@@ -339,18 +303,6 @@ The most unique Rust gambling experience. Win skins and withdraw some of the bes
 
 ---
 
-<a href="https://lpadder.vercel.app"><img src="https://lpadder.vercel.app/banner.png" height="200"/></a>
-
-### lpadder.
-
-Web application that lets you play Launchpad covers directly from your browser.
-
-**Website:** [https://lpadder.vercel.app](https://lpadder.vercel.app)
-
-**Repository:** [https://github.com/Vexcited/lpadder](https://github.com/Vexcited/lpadder)
-
----
-
 <a href="https://ambient-rvx.web.app"><img src="https://i.ibb.co/023K2MR/web-thumbnail.png" height="200"/></a>
 
 ### Ambient
@@ -375,19 +327,7 @@ Click on any component and go from your app to component&#x27;s code.
 
 ---
 
-
-
-### Moonrepo Dashboard
-
-A task runner and repo management tool for the web ecosystem, written in Rust.
-
-**Website:** [https://moonrepo.app](https://moonrepo.app)
-
-
-
----
-
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/37093d215597831eb3d7e8b1fb9033c3f0d9a4a7e0d4260dcfe272d7d1e30b23/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/97451579362ae2a57f2892a33c2f0c2d1e35c16723f86b2fb8f300908d0ec039/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -423,11 +363,11 @@ Create beautiful, customizable toasts with Solid JS
 
 ---
 
-
+<a href="https://mastometrics.com"><img src="https://mastometrics.com/og-image.png" height="200"/></a>
 
 ### MastoMetrics
 
-Analytics for Mastodon. An app built with SolidStart.
+Analytics for Mastodon. Track the growth and success of your Mastodon account and posts.
 
 **Website:** [https://mastometrics.com](https://mastometrics.com)
 
@@ -447,19 +387,7 @@ Chikn World breaks down the metrics and tokenomics so you don't have to!
 
 ---
 
-
-
-### Nook
-
-Nook, the Markdown-Powered Intelligent Knowledge Manager
-
-**Website:** [https://nook.glo.quebec](https://nook.glo.quebec)
-
-
-
----
-
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/fb960aa3327e235e2e65010d149de6b8a751ed3c3f098aa1968a24aa3a6b7fdb/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/c7fd8b0730a88d78ea45d0ab7cf1903d18089c008d0cf65e8ceaee0fc7fe656c/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -483,7 +411,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/660baab23befb62571f538452f42dd73c8240fd8784d02b59435784f02c27ee2/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/517ecc30e9db24eed2e34e38fbeebd092e9bbf34d5226225e9ef47387b517157/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -495,7 +423,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/7d02580a6a5623ed536050f20ae8ef9c663f31953927b540e4c409b9251da8fc/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/fc0ef241b2abdc4e342c938295e1b48f994a772a407ea14ffd1ee309e0c5c774/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -504,18 +432,6 @@ a client for reddit and mastodon. extensible so it can support multiple platform
 **Website:** [https://thread.pfg.pw](https://thread.pfg.pw)
 
 **Repository:** [https://github.com/pfgithub/threadclient](https://github.com/pfgithub/threadclient)
-
----
-
-<a href="https://redditlattice.netlify.app"><img src="https://opengraph.githubassets.com/a43cb240263fbf2a24da9e929c33eb0368fbfb09bff8bbfe84ab4ec7ef476c68/vanillacode314/redditlattice" height="200"/></a>
-
-### RedditLattice
-
-A reddit viewer for image based subreddits. Lays out the images in a tight lattice.
-
-**Website:** [https://redditlattice.netlify.app](https://redditlattice.netlify.app)
-
-**Repository:** [https://github.com/vanillacode314/redditlattice](https://github.com/vanillacode314/redditlattice)
 
 ---
 
@@ -531,7 +447,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/72fc4e47cdd9c9444e57a0be19d39d9de04fc30ef2d2e1132b4ab7d6d0429efd/AlistGo/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/61546ecad22c8c68e172715c59108678ca59c9946b88092a9aca47091d80afb0/AlistGo/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -543,13 +459,11 @@ A file list program that supports multiple storage, powered by Gin and Solidjs
 
 ---
 
-<a href="https://nerimity.com"><img src="https://opengraph.githubassets.com/beb7858cb7283ada4583e1413fb69f35072a605cf7f5670511ab15b8a616de05/Nerimity/nerimity-web" height="200"/></a>
+<a href="https://nerimity.com"><img src="https://nerimity.com/assets/logo.png" height="200"/></a>
 
 ### Nerimity
 
-Nerimity is an open source, modern and sleek chat app
-               made for everyone with features such as the ability to
-               make servers, a lot of customization and a lot more!
+Nerimity is an open source, modern and sleek chat app made for everyone with features such as the ability to make servers, a lot of customization and a lot more!
 
 **Website:** [https://nerimity.com](https://nerimity.com)
 
@@ -621,7 +535,7 @@ Clips is a simple and attractive audio sampler built for the web with
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/1f8132b8bec7bc031f2583724601696b14a3ac52b8d72f9196ce58aef7e13931/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/958d93a67a240d067d0c97c3ace06da2dad3d5698037bb4e1aeb713ae8d6628a/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -657,7 +571,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/1eb8a036c4add086c857ac5fb479e01c828270683af26a595d9b3a23653d93f3/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/2ab2e85c3e7132ba753ff9a1214a34c66cbdfa2fe5dd46a5e29548756538569c/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
@@ -693,7 +607,7 @@ A library of high-quality primitives that extend SolidJS reactivity
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://repository-images.githubusercontent.com/554347622/a9f5152c-9416-444b-ad81-cdbdf804ca82" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/554347622/a9f5152c-9416-444b-ad81-cdbdf804ca82?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T113809Z&X-Amz-Expires=300&X-Amz-Signature=24fc18716dec968710a3b1a749d8eebea69bbf022bed98bec70d59e5b769eae1&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDU4OSwibmJmIjoxNzg1NTg0Mjg5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.3vWoMzr1SfE-fBeDeR7dFoAfSnpiLd7Ei3yRrlG7-cs" height="200"/></a>
 
 ### Modular Forms
 
@@ -719,18 +633,6 @@ A simple and fast tool to help your scrum team effort tickets as quickly as poss
 
 
 
-### Exocortex
-
-A note taking and personal knowledge management tool designed for users who value security and privacy.
-
-**Website:** [https://www.getexocortex.com](https://www.getexocortex.com)
-
-
-
----
-
-
-
 ### bridj
 
 Connect two words to each other using a bridge of your own words. A new puzzle becomes available each day.
@@ -745,7 +647,7 @@ Connect two words to each other using a bridge of your own words. A new puzzle b
 
 ### Dither Scar
 
-Transform your images and videos with 15 GPU-accelerated dithering algorithms. Free, powerful, and easy to use. Perfect for retro aesthetics, pixel art, and creative effects.
+Transform your images and videos with 16 GPU-accelerated dithering algorithms. Free, powerful, and easy to use. Perfect for retro aesthetics, pixel art, and creative effects.
 
 **Website:** [https://dither-scar.com](https://dither-scar.com)
 
@@ -757,7 +659,7 @@ Transform your images and videos with 15 GPU-accelerated dithering algorithms. F
 
 ### Parallel Code
 
-Use Claude Code, Codex, and Gemini in parallel — each in its own git worktree, all from one interface. Free and open source.
+The open-source workspace for parallel AI coding. Each agent gets its own git worktree — review the diffs, merge the wins, toss the rest.
 
 **Website:** [https://parallelcode.app](https://parallelcode.app)
 
