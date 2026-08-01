@@ -23,11 +23,6 @@
 		"desc": "NordVPN is a virtual private network and security tool that protects your online data. It’s part of Nord Security, a leading online security provider."
 	},
 	{
-		"name": "Post.news",
-		"link": "https://post.news",
-		"desc": "A Social Platform for Real People, Real News, and Civil Conversations"
-	},
-	{
 		"name": "Vrite",
 		"link": "https://vrite.io",
 		"repo": "https://github.com/vriteio/vrite",
@@ -51,20 +46,10 @@
 		"desc": "Developer-first localization infrastructure built on git"
 	},
 	{
-		"name": "Zapp!",
-		"link": "https://zapp.run",
-		"desc": "Zapp is a free online sandbox environment for building Flutter applications in the browser."
-	},
-	{
 		"name": "RelaGit",
 		"link": "https://rela.dev/",
 		"repo": "https://github.com/relagit/relagit",
 		"desc": "The elegant solution to graphical version control."
-	},
-	{
-		"name": "Stashpad",
-		"link": "https://www.stashpad.com/",
-		"desc": "Stashpad is a minimal Google Docs alternative for instant team collaboration. Get aligned effortlessly with markdown support and no account needed."
 	},
 	{
 		"name": "PianoRhythm",
@@ -145,12 +130,6 @@
 		"desc": "Rust gambling experience created in SolidJS"
 	},
 	{
-		"name": "lpadder.",
-		"link": "https://lpadder.vercel.app",
-		"repo": "https://github.com/Vexcited/lpadder",
-		"desc": "Offline application that allows you to play Launchpad covers from anywhere, directly from your web browser."
-	},
-	{
 		"name": "Ambient",
 		"link": "https://ambient-rvx.web.app",
 		"repo": "https://github.com/kevintyj/ambient",
@@ -161,11 +140,6 @@
 		"link": "https://www.locatorjs.com",
 		"repo": "https://github.com/infi-pc/locatorjs",
 		"desc": "A React dev tool that lets you click on any component in the browser to open its code in your IDE."
-	},
-	{
-		"name": "Moonrepo Dashboard",
-		"link": "https://moonrepo.app",
-		"desc": "A task runner and repo management tool for the web ecosystem, written in Rust."
 	},
 	{
 		"name": "Dropcode",
@@ -196,11 +170,6 @@
 		"desc": "Chikn World breaks down the metrics and tokenomics so you don't have to!"
 	},
 	{
-		"name": "Nook",
-		"link": "https://nook.glo.quebec",
-		"desc": "Markdown-Powered Intelligent Knowledge Manager"
-	},
-	{
 		"name": "Bauble",
 		"link": "https://bauble.studio",
 		"repo": "https://github.com/ianthehenry/bauble",
@@ -223,12 +192,6 @@
 		"link": "https://thread.pfg.pw",
 		"repo": "https://github.com/pfgithub/threadclient",
 		"desc": "a client for reddit and mastodon. extensible so it can support multiple platforms"
-	},
-	{
-		"name": "RedditLattice",
-		"link": "https://redditlattice.netlify.app",
-		"repo": "https://github.com/vanillacode314/redditlattice",
-		"desc": "A reddit viewer for image based subreddits. Lays out the images in a tight lattice."
 	},
 	{
 		"name": "Räppli",
@@ -324,11 +287,6 @@
 		"link": "https://devsplayingpoker.com",
 		"repo": "https://github.com/lvl-mattwells/DevsPlayingPoker",
 		"desc": "A simple and fast tool to help your scrum team effort tickets as quickly as possible."
-	},
-	{
-		"name": "Exocortex",
-		"link": "https://www.getexocortex.com",
-		"desc": "A note taking and personal knowledge management tool designed for users who value security and privacy."
 	},
 	{
 		"name": "bridj",
