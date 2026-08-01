@@ -27,7 +27,7 @@ CodeImage is the newest tool to help developers to manage their snippets and cre
 
 ---
 
-<a href="https://lume.io/"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/28641272/f7af517c-e982-4c8d-8b78-4a080a597111?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T113808Z&X-Amz-Expires=300&X-Amz-Signature=88acf0c3a04a402c612be0dcafa1e1a1da2b91ed15b2107fd1d8797be86c4ece&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDU4OCwibmJmIjoxNzg1NTg0Mjg4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.CUdI9mxwNac77HP8zuk3IRsZVJy8lJN-fzVa0pAVHfk" height="200"/></a>
+<a href="https://lume.io/"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/28641272/f7af517c-e982-4c8d-8b78-4a080a597111?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T114140Z&X-Amz-Expires=300&X-Amz-Signature=b4bd8b1e7be7cd90cbd9ce3d6830ac510278f6f885d545c9388ab6abceb7db95&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDgwMCwibmJmIjoxNzg1NTg0NTAwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.TFsBdtXvb6G4Wp3U2t06oh9e22_toau0SotNtDIK6do" height="200"/></a>
 
 ### LUME
 
@@ -195,7 +195,7 @@ MáLà Project is a Chinese restaurant founded by four friends with a mission to
 
 ---
 
-<a href="https://learn-anything.xyz/"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/65219131/b8d4210d-7791-47bb-b2f7-4911b43f805b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T113808Z&X-Amz-Expires=300&X-Amz-Signature=0198e6be955d1ec3b88e7b1980e20f89098700814a3072987fb2467d46e7406c&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDU4OCwibmJmIjoxNzg1NTg0Mjg4LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.CUdI9mxwNac77HP8zuk3IRsZVJy8lJN-fzVa0pAVHfk" height="200"/></a>
+<a href="https://learn-anything.xyz/"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/65219131/b8d4210d-7791-47bb-b2f7-4911b43f805b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T114140Z&X-Amz-Expires=300&X-Amz-Signature=6b5abbcbca794db7722afb04d83cbfdf99b6b7cd4caf177975fb488b94d5efab&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDgwMCwibmJmIjoxNzg1NTg0NTAwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.TFsBdtXvb6G4Wp3U2t06oh9e22_toau0SotNtDIK6do" height="200"/></a>
 
 ### Learn Anything
 
@@ -607,7 +607,7 @@ A library of high-quality primitives that extend SolidJS reactivity
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/554347622/a9f5152c-9416-444b-ad81-cdbdf804ca82?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T113809Z&X-Amz-Expires=300&X-Amz-Signature=24fc18716dec968710a3b1a749d8eebea69bbf022bed98bec70d59e5b769eae1&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDU4OSwibmJmIjoxNzg1NTg0Mjg5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.3vWoMzr1SfE-fBeDeR7dFoAfSnpiLd7Ei3yRrlG7-cs" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/554347622/a9f5152c-9416-444b-ad81-cdbdf804ca82?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T114139Z&X-Amz-Expires=300&X-Amz-Signature=4a9e2fc4df5a23dc991d0bb9dba784917f70834c8258e6f12269405677c13939&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDc5OSwibmJmIjoxNzg1NTg0NDk5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.bNSSiTgV202DKZwnosT55NvIXip9bMl4Kip935OrFlg" height="200"/></a>
 
 ### Modular Forms
 
@@ -664,6 +664,18 @@ The open-source workspace for parallel AI coding. Each agent gets its own git wo
 **Website:** [https://parallelcode.app](https://parallelcode.app)
 
 **Repository:** [https://github.com/johannesjo/parallel-code](https://github.com/johannesjo/parallel-code)
+
+---
+
+<a href="https://korru.app"><img src="https://opengraph.githubassets.com/a23d7af2188221fe84806a9ddb999ed7dfc787354b98f2551910a39a08c5b6e5/khalyomede/korru.app" height="200"/></a>
+
+### Korru
+
+The world's largest web app catalog!
+
+**Website:** [https://korru.app](https://korru.app)
+
+**Repository:** [https://github.com/khalyomede/korru.app](https://github.com/khalyomede/korru.app)
 <!-- INSERT-PROJECTS:END -->
 
 ## Looking for more project examples?
