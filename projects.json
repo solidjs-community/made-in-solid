@@ -345,5 +345,11 @@
 		"link": "https://parallelcode.app",
 		"repo": "https://github.com/johannesjo/parallel-code",
 		"desc": "Desktop app for running multiple AI coding agents simultaneously in isolated git worktrees"
+	},
+	{
+		"name": "Korru",
+		"link": "https://korru.app",
+		"repo": "https://github.com/khalyomede/korru.app",
+		"desc": "The world's largest web app catalog!"
 	}
 ]
