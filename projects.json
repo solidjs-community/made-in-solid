@@ -309,5 +309,11 @@
 		"link": "https://korru.app",
 		"repo": "https://github.com/khalyomede/korru.app",
 		"desc": "The world's largest web app catalog!"
+	},
+	{
+		"name": "STJÓRNA",
+		"desc": "Multi-tenant product and catalogue management with a read-only REST API",
+		"link": "https://stjorna.secanis.ch",
+		"repo": "https://github.com/secanis/stjorna"
 	}
 ]
