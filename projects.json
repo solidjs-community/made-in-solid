@@ -309,5 +309,11 @@
 		"link": "https://korru.app",
 		"repo": "https://github.com/khalyomede/korru.app",
 		"desc": "The world's largest web app catalog!"
+	},
+	{
+		"name": "Synkopa",
+		"link": "https://miskibin.github.io/synkopa/",
+		"repo": "https://github.com/miskibin/synkopa",
+		"desc": "Open-source desktop DAW with an FL Studio-style workflow"
 	}
 ]
