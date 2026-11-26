@@ -27,11 +27,11 @@ CodeImage is the newest tool to help developers to manage their snippets and cre
 
 ---
 
-<a href="https://lume.io/"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/28641272/f7af517c-e982-4c8d-8b78-4a080a597111?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T114140Z&X-Amz-Expires=300&X-Amz-Signature=b4bd8b1e7be7cd90cbd9ce3d6830ac510278f6f885d545c9388ab6abceb7db95&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDgwMCwibmJmIjoxNzg1NTg0NTAwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.TFsBdtXvb6G4Wp3U2t06oh9e22_toau0SotNtDIK6do" height="200"/></a>
+<a href="https://lume.io/"><img src="https://lume.io/images/LUME5.png" height="200"/></a>
 
 ### LUME
 
-A toolkit that simplifies the creation of rich and interactive 2D or 3D}, experiences
+Create beautiful graphics on any website with simple HTML compatible with React, Vue, Svelte, Solid.js, Angular, and all web frameworks.
 
 **Website:** [https://lume.io/](https://lume.io/)
 
@@ -55,7 +55,7 @@ A quick and easy way to bundle, minify, and compress (gzip and brotli) your ts, 
 
 ### NordVPN.org
 
-We want to see the internet free from crime, censorship, and surveillance. We contribute to this vision by supporting freedom of speech and spreading digital awareness.
+NordVPN’s mission is simple — a secure, open internet for everyone. No matter who or where you are, you deserve to explore the web safely and freely.
 
 **Website:** [https://nordvpn.org](https://nordvpn.org)
 
@@ -103,7 +103,7 @@ The Unified API for Vacation Rental Software
 
 ### Inlang website
 
-Inlang is the open-format TMS for software teams. Store translations in your repo as a vendor-neutral file format.
+inlang is an open-source, Git-based translation management system. Translations are files in your repo. AI coding agents translate them, run inlang check and open pull requests. Nothing to host.
 
 **Website:** [https://inlang.com](https://inlang.com)
 
@@ -139,7 +139,7 @@ PianoRhythm is a multiplayer social web app to play music and casual games with 
 
 ### Chessbook App
 
-Build, train, and memorize your personal chess opening repertoire with spaced repetition and automatic gap detection.
+Build a chess opening repertoire from the moves opponents actually play at your rating, find the gaps, and memorize it with spaced repetition. Free to start, no signup.
 
 **Website:** [https://chessbook.com/](https://chessbook.com/)
 
@@ -171,11 +171,11 @@ An all-in-one visual tool for individuals and small teams that want to build fas
 
 ---
 
-<a href="https://andagain.uk"><img src="https://cdn.sanity.io/images/cmcv945w/production/7d1942d2c2c08a4513990e0bbd3cdf878e0fb393-1200x630.png" height="200"/></a>
+
 
 ### AndAgain
 
-Bringing together strategy, creativity and technology to build digital products and campaigns that live everywhere. Specialists in engaging and immersive digital projects across luxury, fashion, retail, entertainment and business. Based in London + Liverpool, with global reach.
+London Digital Agency.
 
 **Website:** [https://andagain.uk](https://andagain.uk)
 
@@ -195,11 +195,11 @@ MáLà Project is a Chinese restaurant founded by four friends with a mission to
 
 ---
 
-<a href="https://learn-anything.xyz/"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/65219131/b8d4210d-7791-47bb-b2f7-4911b43f805b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T114140Z&X-Amz-Expires=300&X-Amz-Signature=6b5abbcbca794db7722afb04d83cbfdf99b6b7cd4caf177975fb488b94d5efab&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDgwMCwibmJmIjoxNzg1NTg0NTAwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.TFsBdtXvb6G4Wp3U2t06oh9e22_toau0SotNtDIK6do" height="200"/></a>
+<a href="https://learn-anything.xyz/"><img src="https://learn-anything.xyz/social/learn-anything-globe.png" height="200"/></a>
 
 ### Learn Anything
 
-Discover and learn about any topic with Learn-Anything. Our free, comprehensive platform connects you to the best resources for every subject. Start learning today!
+Discover curated learning resources across science, technology, art and more. Explore connected topics and follow your curiosity with Learn Anything.
 
 **Website:** [https://learn-anything.xyz/](https://learn-anything.xyz/)
 
@@ -207,11 +207,11 @@ Discover and learn about any topic with Learn-Anything. Our free, comprehensive 
 
 ---
 
-<a href="https://coinfactory.dk/"><img src="https://coinfactory.dk/favicon.png" height="200"/></a>
+<a href="https://coinfactory.dk/"><img src="https://coinfactory.dk/media/cf2-social.webp" height="200"/></a>
 
 ### Coin Factory
 
-Coin Factory is a puzzle idle game that challenges players to strategically build a financial empire. The core gameplay involves tile placement, wealth generation, and the pursuit of becoming the ultimate tycoon. As you grow your earnings, unlock powerful tiles, and make strategic decisions, your financial empire expands, offering a rewarding and engaging gaming experience!
+Build factories, combine tiles, and keep the coins moving. Discover Coin Factory and its 3D sequel, Coin Factory 2.
 
 **Website:** [https://coinfactory.dk/](https://coinfactory.dk/)
 
@@ -231,7 +231,7 @@ SeatSetApp does one thing and one thing only. It is a desktop browser tool for c
 
 ---
 
-<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/4e7ce496c21892198ffa305c830b9604971333b0201aea41bc3dbcf2c91b0735/kuskusapp/kuskus" height="200"/></a>
+<a href="https://kuskus.app"><img src="https://opengraph.githubassets.com/90fbaf8ff9684c1d5856668552304b46f5fff6d807d71da3d957280fe0846243/kuskusapp/kuskus" height="200"/></a>
 
 ### KusKus
 
@@ -267,11 +267,11 @@ Degree Hub helps prospective students get matched with universities and programs
 
 ---
 
-<a href="https://www.dimeadozen.ai"><img src="https://www.dimeadozen.ai/opengraph-image?079279481b9d28fc" height="200"/></a>
+<a href="https://www.dimeadozen.ai"><img src="https://www.dimeadozen.ai/opengraph-image?cc4c68cf69dbafea" height="200"/></a>
 
 ### Dimeadozen.ai website
 
-Research-backed validation report. Sourced data + named comp-set + retention-curve math. Not a chatbot to argue with. Not a course to work through. From $9.
+Research-backed validation report. Sourced data + named comp-set + retention benchmarks. Not a chatbot to argue with. Not a course to work through. From $9.
 
 **Website:** [https://www.dimeadozen.ai](https://www.dimeadozen.ai)
 
@@ -327,7 +327,7 @@ Click on any component and go from your app to component&#x27;s code.
 
 ---
 
-<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/97451579362ae2a57f2892a33c2f0c2d1e35c16723f86b2fb8f300908d0ec039/egoist/dropcode" height="200"/></a>
+<a href="https://github.com/egoist/dropcode"><img src="https://opengraph.githubassets.com/531c434a56ec84c0708950236327109e832d12f33922511032001b4c31814972/egoist/dropcode" height="200"/></a>
 
 ### Dropcode
 
@@ -387,7 +387,7 @@ Chikn World breaks down the metrics and tokenomics so you don't have to!
 
 ---
 
-<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/c7fd8b0730a88d78ea45d0ab7cf1903d18089c008d0cf65e8ceaee0fc7fe656c/ianthehenry/bauble" height="200"/></a>
+<a href="https://bauble.studio"><img src="https://opengraph.githubassets.com/65d6be0d9792da300d1f78cdcf7f10a2c1d7ed430ea889aad8a0d0591d9e94e9/ianthehenry/bauble" height="200"/></a>
 
 ### Bauble
 
@@ -411,7 +411,7 @@ Globle: Capitals is a daily guessing game. Use your geography skills to find the
 
 ---
 
-<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/517ecc30e9db24eed2e34e38fbeebd092e9bbf34d5226225e9ef47387b517157/asciinema/asciinema-player" height="200"/></a>
+<a href="https://asciinema.org/"><img src="https://opengraph.githubassets.com/d5686b5b5d3f9f1c5b03c715abbe11e6cfe5006dcc14d4c3c3d48bb47682a05e/asciinema/asciinema-player" height="200"/></a>
 
 ### asciinema-player
 
@@ -423,7 +423,7 @@ Web player for terminal session recordings
 
 ---
 
-<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/fc0ef241b2abdc4e342c938295e1b48f994a772a407ea14ffd1ee309e0c5c774/pfgithub/threadclient" height="200"/></a>
+<a href="https://thread.pfg.pw"><img src="https://opengraph.githubassets.com/59e45edd55b01dfad9a9657912ac2ee1838b52edc4febf5575eef5cbd0400439/pfgithub/threadclient" height="200"/></a>
 
 ### ThreadClient
 
@@ -447,7 +447,7 @@ Räppli ist eine freie Web App zur Erstellung von Schweizerischen Rechnungen ink
 
 ---
 
-<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/61546ecad22c8c68e172715c59108678ca59c9946b88092a9aca47091d80afb0/AlistGo/alist-web" height="200"/></a>
+<a href="https://alist.pages.dev"><img src="https://opengraph.githubassets.com/378d6b442f7db7606fae0ddc393f6526f567c0a870f93aaa9a6a43bb7e70633d/AlistGo/alist-web" height="200"/></a>
 
 ### AList frontend
 
@@ -535,7 +535,7 @@ Clips is a simple and attractive audio sampler built for the web with
 
 ---
 
-<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/958d93a67a240d067d0c97c3ace06da2dad3d5698037bb4e1aeb713ae8d6628a/srsholmes/yal" height="200"/></a>
+<a href="https://github.com/srsholmes/yal"><img src="https://opengraph.githubassets.com/73fa1a132cc57087739782444607c7137b8eb0dca9c3c9da1bd18ce0b56bb7a4/srsholmes/yal" height="200"/></a>
 
 ### Yal
 
@@ -547,11 +547,11 @@ Yet Another Launcher. Contribute to srsholmes/yal development by creating an acc
 
 ---
 
-<a href="https://www.solidjs.com"><img src="https://www.solidjs.com/og.jpg" height="200"/></a>
+<a href="https://www.solidjs.com"><img src="https://www.solidjs.com/og/home.png" height="200"/></a>
 
 ### Solid Website
 
-Solid is a purely reactive library. It was designed from the ground up with a reactive core. It's influenced by reactive principles developed by previous libraries.
+Solid is a fast, fine-grained reactive UI library with no virtual DOM. Solid 2.0 adds first-class async, optimistic actions and draft-first stores.
 
 **Website:** [https://www.solidjs.com](https://www.solidjs.com)
 
@@ -571,7 +571,7 @@ Chrome Developer Tools extension for debugging SolidJS applications.
 
 ---
 
-<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/2ab2e85c3e7132ba753ff9a1214a34c66cbdfa2fe5dd46a5e29548756538569c/solidjs/solid-start" height="200"/></a>
+<a href="https://solid-movies.app"><img src="https://opengraph.githubassets.com/8789d2eb0a93405995001ea27d41d3c738b98deb673b5dc77824e75401b32c22/solidjs/solid-start" height="200"/></a>
 
 ### Solid Movies
 
@@ -595,11 +595,11 @@ Convert your HTML to Solid JSX template
 
 ---
 
-<a href="https://primitives.solidjs.community"><img src="https://solid-primitives.netlify.app/og.jpeg" height="200"/></a>
+<a href="https://primitives.solidjs.community"><img src="https://primitives.solidjs.community/og/19bbf0318f0bcc.png" height="200"/></a>
 
 ### Solid Primitives
 
-A library of high-quality primitives that extend SolidJS reactivity
+High-quality reactive primitives for building applications in Solid2
 
 **Website:** [https://primitives.solidjs.community](https://primitives.solidjs.community)
 
@@ -607,7 +607,7 @@ A library of high-quality primitives that extend SolidJS reactivity
 
 ---
 
-<a href="https://modularforms.dev"><img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/554347622/a9f5152c-9416-444b-ad81-cdbdf804ca82?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260801/us-east-1/s3/aws4_request&X-Amz-Date=20260801T114139Z&X-Amz-Expires=300&X-Amz-Signature=4a9e2fc4df5a23dc991d0bb9dba784917f70834c8258e6f12269405677c13939&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTU4NDc5OSwibmJmIjoxNzg1NTg0NDk5LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.bNSSiTgV202DKZwnosT55NvIXip9bMl4Kip935OrFlg" height="200"/></a>
+<a href="https://modularforms.dev"><img src="https://repository-images.githubusercontent.com/554347622/a9f5152c-9416-444b-ad81-cdbdf804ca82" height="200"/></a>
 
 ### Modular Forms
 
@@ -619,7 +619,7 @@ Modular Forms is a JavaScript library that is build on top of SolidJS to validat
 
 ---
 
-<a href="https://devsplayingpoker.com"><img src="https://devsplayingpoker.com/icons/DPP-Social.png" height="200"/></a>
+<a href="https://devsplayingpoker.com"><img src="https://opengraph.githubassets.com/4e01462847247907f29c33d2e24fa0a5519477da6d7a354e5b7f0eaf2eb7333a/mattwells19/DevsPlayingPoker" height="200"/></a>
 
 ### Devs Playing Poker
 
@@ -643,11 +643,11 @@ Connect two words to each other using a bridge of your own words. A new puzzle b
 
 ---
 
-<a href="https://dither-scar.com"><img src="https://dither-scar.com/static/images/main-screenshot.png" height="200"/></a>
+<a href="https://dither-scar.com"><img src="https://dither-scar.com/static/images/og-image.png" height="200"/></a>
 
 ### Dither Scar
 
-Transform your images and videos with 16 GPU-accelerated dithering algorithms. Free, powerful, and easy to use. Perfect for retro aesthetics, pixel art, and creative effects.
+Free desktop app for dithering photos and video on your GPU or CPU. 47 algorithms including Floyd Steinberg, Atkinson, halftone and CRT, editable palettes, live preview, export to PNG, MP4, WebM and GIF. Windows and Linux.
 
 **Website:** [https://dither-scar.com](https://dither-scar.com)
 
@@ -667,7 +667,7 @@ The open-source workspace for parallel AI coding. Each agent gets its own git wo
 
 ---
 
-<a href="https://korru.app"><img src="https://opengraph.githubassets.com/a23d7af2188221fe84806a9ddb999ed7dfc787354b98f2551910a39a08c5b6e5/khalyomede/korru.app" height="200"/></a>
+<a href="https://korru.app"><img src="https://opengraph.githubassets.com/8df4f450957841559fe23686517d79820966e9da92a157c0c4e3fcfe38620f0e/khalyomede/korru.app" height="200"/></a>
 
 ### Korru
 
@@ -676,6 +676,18 @@ The world's largest web app catalog!
 **Website:** [https://korru.app](https://korru.app)
 
 **Repository:** [https://github.com/khalyomede/korru.app](https://github.com/khalyomede/korru.app)
+
+---
+
+<a href="https://miskibin.github.io/synkopa/"><img src="https://miskibin.github.io/synkopa/img/social-preview.png" height="200"/></a>
+
+### Synkopa
+
+Patterns, Channel Rack, piano roll, playlist. Recording with comping and vocal tuning included. An AI agent can edit the open project. Windows, macOS and Linux, AGPL-3.0.
+
+**Website:** [https://miskibin.github.io/synkopa/](https://miskibin.github.io/synkopa/)
+
+**Repository:** [https://github.com/miskibin/synkopa](https://github.com/miskibin/synkopa)
 <!-- INSERT-PROJECTS:END -->
 
 ## Looking for more project examples?
